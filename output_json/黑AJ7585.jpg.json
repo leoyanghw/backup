@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.16602100431919098, 
+      "idx": "72", 
+      "color": "红", 
+      "brand": "东风风行", 
+      "serial": "景逸#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11032400280237198, 
+      "idx": "82", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "颐达", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.10103999823331833, 
+      "idx": "78", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "骐达#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.07145749777555466, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "Dacia", 
+      "serial": "Dacia_Logan", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.06154220178723335, 
+      "idx": "74", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "骏逸", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 387.0, 
+    "x": 453.0, 
+    "height": 755.0, 
+    "width": 692.0
+  }
+}

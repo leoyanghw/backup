@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3004159927368164, 
+      "idx": "1495", 
+      "color": "白", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.1723960041999817, 
+      "idx": "1495", 
+      "color": "白", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.06130459904670715, 
+      "idx": "1056", 
+      "color": "白", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.057395901530981064, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.05004369840025902, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯得意", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 55.0, 
+    "x": 491.0, 
+    "height": 855.0, 
+    "width": 791.0
+  }
+}

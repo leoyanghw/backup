@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7765430212020874, 
+      "idx": "699", 
+      "color": "橙", 
+      "brand": "东风·郑州日产", 
+      "serial": "帅客#2010款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.08651260286569595, 
+      "idx": "699", 
+      "color": "橙", 
+      "brand": "东风·郑州日产", 
+      "serial": "帅客#2013款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.05119150131940842, 
+      "idx": "699", 
+      "color": "橙", 
+      "brand": "东风·郑州日产", 
+      "serial": "帅客#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.022205900400877, 
+      "idx": "982", 
+      "color": "橙", 
+      "brand": "东风", 
+      "serial": "御风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.014703099615871906, 
+      "idx": "43", 
+      "color": "橙", 
+      "brand": "铃木", 
+      "serial": "浪迪", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 250.0, 
+    "x": 81.0, 
+    "height": 924.0, 
+    "width": 727.0
+  }
+}

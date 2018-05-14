@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7463669776916504, 
+      "idx": "133", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "瑞风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.027265500277280807, 
+      "idx": "90", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.014967200346291065, 
+      "idx": "1508", 
+      "color": "黑", 
+      "brand": "斯柯达", 
+      "serial": "明锐(进口)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.013039999641478062, 
+      "idx": "379", 
+      "color": "黑", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃S60#2004款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.012895800173282623, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC70", 
+      "type": "SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 278.0, 
+    "x": 653.0, 
+    "height": 573.0, 
+    "width": 535.0
+  }
+}

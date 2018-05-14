@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5842090249061584, 
+      "idx": "864", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "悦动#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.14640399813652039, 
+      "idx": "864", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "悦动#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11426699906587601, 
+      "idx": "752", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "瑞纳#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.024005699902772903, 
+      "idx": "864", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "悦动#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.020056400448083878, 
+      "idx": "752", 
+      "color": "银灰", 
+      "brand": "北京现代", 
+      "serial": "Rena", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 463.0, 
+    "x": 581.0, 
+    "height": 491.0, 
+    "width": 506.0
+  }
+}

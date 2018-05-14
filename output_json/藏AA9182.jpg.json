@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2870039939880371, 
+      "idx": "647", 
+      "color": "白", 
+      "brand": "雪佛兰", 
+      "serial": "迈锐宝#2014款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.2471580058336258, 
+      "idx": "647", 
+      "color": "白", 
+      "brand": "雪佛兰", 
+      "serial": "迈锐宝#2013款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.22197699546813965, 
+      "idx": "647", 
+      "color": "白", 
+      "brand": "雪佛兰", 
+      "serial": "迈锐宝#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.11156400293111801, 
+      "idx": "647", 
+      "color": "白", 
+      "brand": "雪佛兰(进口)", 
+      "serial": "迈锐宝(海外)", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.054747600108385086, 
+      "idx": "647", 
+      "color": "白", 
+      "brand": "雪佛兰", 
+      "serial": "迈锐宝#2016款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 514.0, 
+    "x": 727.0, 
+    "height": 507.0, 
+    "width": 520.0
+  }
+}

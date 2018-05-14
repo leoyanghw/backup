@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9507099986076355, 
+      "idx": "79", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "天籁#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.026201600208878517, 
+      "idx": "79", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "天籁#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0070055401884019375, 
+      "idx": "79", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "天籁#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.003239670069888234, 
+      "idx": "79", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "天籁#2009款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0014543200377374887, 
+      "idx": "353", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "风雅", 
+      "type": "中大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 366.0, 
+    "x": 548.0, 
+    "height": 707.0, 
+    "width": 678.0
+  }
+}

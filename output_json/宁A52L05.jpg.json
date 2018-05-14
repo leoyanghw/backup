@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9750900268554688, 
+      "idx": "538", 
+      "color": "绿", 
+      "brand": "现代", 
+      "serial": "名驭", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.007234970107674599, 
+      "idx": "36", 
+      "color": "绿", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0042233699932694435, 
+      "idx": "483", 
+      "color": "绿", 
+      "brand": "众泰", 
+      "serial": "众泰5008", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.0007625590078532696, 
+      "idx": "955", 
+      "color": "绿", 
+      "brand": "长安", 
+      "serial": "长安CS35#2016款", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.000631770002655685, 
+      "idx": "433", 
+      "color": "绿", 
+      "brand": "克莱斯勒", 
+      "serial": "铂锐", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 507.0, 
+    "x": 685.0, 
+    "height": 494.0, 
+    "width": 496.0
+  }
+}

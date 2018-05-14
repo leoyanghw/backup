@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3651160001754761, 
+      "idx": "80", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "轩逸#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.32680100202560425, 
+      "idx": "80", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "轩逸#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.10406699776649475, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "Sentra", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.07116229832172394, 
+      "idx": "80", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "轩逸#2014款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06897330284118652, 
+      "idx": "79", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "天籁#2016款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 485.0, 
+    "x": 688.0, 
+    "height": 556.0, 
+    "width": 518.0
+  }
+}

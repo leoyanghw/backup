@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.44278499484062195, 
+      "idx": "516", 
+      "color": "黑", 
+      "brand": "奔腾", 
+      "serial": "奔腾B50#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.4281120002269745, 
+      "idx": "516", 
+      "color": "黑", 
+      "brand": "奔腾", 
+      "serial": "奔腾B50#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05695129930973053, 
+      "idx": "516", 
+      "color": "黑", 
+      "brand": "奔腾", 
+      "serial": "奔腾B50#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03364289924502373, 
+      "idx": "516", 
+      "color": "黑", 
+      "brand": "奔腾", 
+      "serial": "奔腾B50#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.013807900249958038, 
+      "idx": "516", 
+      "color": "黑", 
+      "brand": "奔腾", 
+      "serial": "奔腾B50#2013款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 300.0, 
+    "x": 405.0, 
+    "height": 539.0, 
+    "width": 516.0
+  }
+}

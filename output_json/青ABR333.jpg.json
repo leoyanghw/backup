@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9991599917411804, 
+      "idx": "133", 
+      "color": "白", 
+      "brand": "江淮", 
+      "serial": "瑞风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 9.140690235653892e-05, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC70", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 5.29216013092082e-05, 
+      "idx": "1011", 
+      "color": "白", 
+      "brand": "福田", 
+      "serial": "风景", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 4.545530100585893e-05, 
+      "idx": "385", 
+      "color": "白", 
+      "brand": "现代", 
+      "serial": "美佳", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 4.337840073276311e-05, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "三菱(进口)", 
+      "serial": "Colt", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 315.0, 
+    "x": 553.0, 
+    "height": 623.0, 
+    "width": 551.0
+  }
+}

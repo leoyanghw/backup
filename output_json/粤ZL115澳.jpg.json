@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8857290148735046, 
+      "idx": "795", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "埃尔法", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.04103529825806618, 
+      "idx": "1039", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "风行CM7", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.01964000053703785, 
+      "idx": "1236", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "Sienna", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.012365300208330154, 
+      "idx": "1730", 
+      "color": "银灰", 
+      "brand": "长安轻型车", 
+      "serial": "睿行S50", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.007204880006611347, 
+      "idx": "1234", 
+      "color": "银灰", 
+      "brand": "九龙汽车", 
+      "serial": "艾菲", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 233.0, 
+    "x": 643.0, 
+    "height": 636.0, 
+    "width": 573.0
+  }
+}

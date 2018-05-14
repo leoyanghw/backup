@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.38402798771858215, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "厦门金旅", 
+      "serial": "金旅海狮", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.2305070012807846, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "厦门金龙", 
+      "serial": "金威", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04101249948143959, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安Star", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.03225089982151985, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.023392999544739723, 
+      "idx": "719", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "瑞风M5", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 317.0, 
+    "x": 260.0, 
+    "height": 779.0, 
+    "width": 655.0
+  }
+}

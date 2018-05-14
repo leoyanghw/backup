@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7240039706230164, 
+      "idx": "526", 
+      "color": "黑", 
+      "brand": "猎豹汽车", 
+      "serial": "黑金刚", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.23788399994373322, 
+      "idx": "525", 
+      "color": "黑", 
+      "brand": "猎豹汽车", 
+      "serial": "猎豹6481", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.0062586101703345776, 
+      "idx": "65", 
+      "color": "黑", 
+      "brand": "长城", 
+      "serial": "赛影", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.0037780499551445246, 
+      "idx": "322", 
+      "color": "黑", 
+      "brand": "林肯", 
+      "serial": "领航员", 
+      "type": "大型SUV"
+    }, 
+    {
+      "confidence": 0.002316670026630163, 
+      "idx": "276", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "兰德酷路泽(进口)", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 549.0, 
+    "x": 768.0, 
+    "height": 558.0, 
+    "width": 476.0
+  }
+}

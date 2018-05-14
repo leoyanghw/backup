@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.397271990776062, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "三菱(进口)", 
+      "serial": "ASX劲炫(进口)", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.23714099824428558, 
+      "idx": "305", 
+      "color": "白", 
+      "brand": "三菱", 
+      "serial": "劲炫ASX#2011款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.09033340215682983, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "三菱(进口)", 
+      "serial": "Colt", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.06833989918231964, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "三菱", 
+      "serial": "ASX_abroad_version", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.03414880111813545, 
+      "idx": "1804", 
+      "color": "白", 
+      "brand": "江铃", 
+      "serial": "特顺", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 423.0, 
+    "x": 537.0, 
+    "height": 531.0, 
+    "width": 528.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.29340898990631104, 
+      "idx": "1340", 
+      "color": "橙", 
+      "brand": "东风", 
+      "serial": "俊风CV03", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.2831310033798218, 
+      "idx": "1374", 
+      "color": "橙", 
+      "brand": "东风小康", 
+      "serial": "东风小康K01", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.08449730277061462, 
+      "idx": "1495", 
+      "color": "橙", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.08353359997272491, 
+      "idx": "1041", 
+      "color": "橙", 
+      "brand": "铃木", 
+      "serial": "北斗星X5", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.030230699107050896, 
+      "idx": "1424", 
+      "color": "橙", 
+      "brand": "东风小康", 
+      "serial": "东风小康K07S", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 10.0, 
+    "x": 318.0, 
+    "height": 930.0, 
+    "width": 920.0
+  }
+}

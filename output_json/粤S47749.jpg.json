@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3927449882030487, 
+      "idx": "1644", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "Sprinter", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.2650209963321686, 
+      "idx": "1056", 
+      "color": "黑", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.048438798636198044, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0434115007519722, 
+      "idx": "907", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "凌特", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.02819480001926422, 
+      "idx": "1056", 
+      "color": "黑", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2008款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 209.0, 
+    "x": 113.0, 
+    "height": 905.0, 
+    "width": 726.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.15328699350357056, 
+      "idx": "443", 
+      "color": "黑", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.13120099902153015, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.05663200095295906, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04786650091409683, 
+      "idx": "1495", 
+      "color": "黑", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.034203898161649704, 
+      "idx": "241", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰G级", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 61.0, 
+    "x": 157.0, 
+    "height": 1095.0, 
+    "width": 863.0
+  }
+}

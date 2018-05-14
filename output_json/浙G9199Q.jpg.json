@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4104219973087311, 
+      "idx": "796", 
+      "color": "黑", 
+      "brand": "标致", 
+      "serial": "标致508#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.22249600291252136, 
+      "idx": "796", 
+      "color": "黑", 
+      "brand": "标致", 
+      "serial": "标致508#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.19764000177383423, 
+      "idx": "796", 
+      "color": "黑", 
+      "brand": "标致", 
+      "serial": "标致508#2013款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.07712770253419876, 
+      "idx": "796", 
+      "color": "黑", 
+      "brand": "标致", 
+      "serial": "标致508#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.012297400273382664, 
+      "idx": "783", 
+      "color": "黑", 
+      "brand": "标致(进口)", 
+      "serial": "标致3008(进口)", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 363.0, 
+    "x": 708.0, 
+    "height": 538.0, 
+    "width": 569.0
+  }
+}

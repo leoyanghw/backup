@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.44477298855781555, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2008款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.3030279874801636, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2006款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.20439499616622925, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "Buick_GL8_Business", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.009643830358982086, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.008647659793496132, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2011款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 372.0, 
+    "x": 706.0, 
+    "height": 623.0, 
+    "width": 547.0
+  }
+}

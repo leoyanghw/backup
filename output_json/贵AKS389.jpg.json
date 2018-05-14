@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7682830095291138, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "丰田(进口)", 
+      "serial": "卡罗拉(海外)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05902649834752083, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "上汽大众", 
+      "serial": "桑塔纳经典", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.02590630017220974, 
+      "idx": "52", 
+      "color": "黑", 
+      "brand": "铃木", 
+      "serial": "奥拓#2006款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.02566099911928177, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯得意", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.015493099577724934, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "马自达(进口)", 
+      "serial": "马自达6(进口)", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 150.0, 
+    "x": 6.0, 
+    "height": 1043.0, 
+    "width": 762.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9858180284500122, 
+      "idx": "317", 
+      "color": "银灰", 
+      "brand": "雷诺", 
+      "serial": "梅甘娜", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.005345699843019247, 
+      "idx": "1011", 
+      "color": "银灰", 
+      "brand": "福田", 
+      "serial": "风景", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.002767289988696575, 
+      "idx": "316", 
+      "color": "银灰", 
+      "brand": "雷诺", 
+      "serial": "拉古那", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0009088650112971663, 
+      "idx": "1823", 
+      "color": "银灰", 
+      "brand": "雷诺", 
+      "serial": "Espace", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.00045845701242797077, 
+      "idx": "173", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "凯越#2005款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 288.0, 
+    "x": 709.0, 
+    "height": 590.0, 
+    "width": 553.0
+  }
+}

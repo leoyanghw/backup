@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4349850118160248, 
+      "idx": "131", 
+      "color": "红", 
+      "brand": "吉利", 
+      "serial": "Vision", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1484909951686859, 
+      "idx": "131", 
+      "color": "红", 
+      "brand": "吉利汽车", 
+      "serial": "远景#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11532700061798096, 
+      "idx": "131", 
+      "color": "红", 
+      "brand": "吉利汽车", 
+      "serial": "远景#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.10617899894714355, 
+      "idx": "131", 
+      "color": "红", 
+      "brand": "吉利汽车", 
+      "serial": "远景#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.040013398975133896, 
+      "idx": "131", 
+      "color": "红", 
+      "brand": "吉利汽车", 
+      "serial": "远景#2011款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 383.0, 
+    "x": 594.0, 
+    "height": 681.0, 
+    "width": 637.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.29734399914741516, 
+      "idx": "1374", 
+      "color": "橙", 
+      "brand": "东风小康", 
+      "serial": "东风小康K01", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.11742199957370758, 
+      "idx": "1424", 
+      "color": "橙", 
+      "brand": "东风小康", 
+      "serial": "东风小康K07S", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.07679969817399979, 
+      "idx": "561", 
+      "color": "橙", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07628589868545532, 
+      "idx": "1340", 
+      "color": "橙", 
+      "brand": "东风", 
+      "serial": "俊风CV03", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.07259179651737213, 
+      "idx": "983", 
+      "color": "橙", 
+      "brand": "黄海", 
+      "serial": "大柴神", 
+      "type": "皮卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 48.0, 
+    "x": 392.0, 
+    "height": 727.0, 
+    "width": 876.0
+  }
+}

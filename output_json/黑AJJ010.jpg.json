@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2543559968471527, 
+      "idx": "146", 
+      "color": "银灰", 
+      "brand": "奇瑞", 
+      "serial": "东方之子", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.191552996635437, 
+      "idx": "50", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "蒙迪欧#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.06785079836845398, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2006款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03830619901418686, 
+      "idx": "90", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03725149855017662, 
+      "idx": "856", 
+      "color": "银灰", 
+      "brand": "福特(进口)", 
+      "serial": "金牛座(海外)", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 323.0, 
+    "x": 695.0, 
+    "height": 707.0, 
+    "width": 572.0
+  }
+}

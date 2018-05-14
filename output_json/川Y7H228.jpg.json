@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2236029952764511, 
+      "idx": "1716", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "瑞风M4", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.04370199888944626, 
+      "idx": "659", 
+      "color": "黑", 
+      "brand": "开瑞", 
+      "serial": "优优", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.03285130113363266, 
+      "idx": "1057", 
+      "color": "黑", 
+      "brand": "广汽吉奥", 
+      "serial": "星旺", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.030843600630760193, 
+      "idx": "1096", 
+      "color": "黑", 
+      "brand": "奇瑞", 
+      "serial": "瑞虎5#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.02954540029168129, 
+      "idx": "1739", 
+      "color": "黑", 
+      "brand": "巴博斯", 
+      "serial": "smart_fortwo#2009款", 
+      "type": "微型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 311.0, 
+    "x": 93.0, 
+    "height": 837.0, 
+    "width": 737.0
+  }
+}

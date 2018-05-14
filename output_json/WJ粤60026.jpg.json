@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3506219983100891, 
+      "idx": "195", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "普拉多#2006款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.13256999850273132, 
+      "idx": "416", 
+      "color": "黑", 
+      "brand": "众泰汽车", 
+      "serial": "众泰2008", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.06942509859800339, 
+      "idx": "277", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "普拉多(进口)", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.06729970127344131, 
+      "idx": "420", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "瑞鹰", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.03946889936923981, 
+      "idx": "1284", 
+      "color": "黑", 
+      "brand": "猎豹汽车", 
+      "serial": "飞扬", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 565.0, 
+    "x": 776.0, 
+    "height": 543.0, 
+    "width": 466.0
+  }
+}

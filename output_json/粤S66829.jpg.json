@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.13086600601673126, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.10522700101137161, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "厦门金龙", 
+      "serial": "金威", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.1050800010561943, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "进口丰田", 
+      "serial": "HIACE", 
+      "type": "客车"
+    }, 
+    {
+      "confidence": 0.10220099985599518, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2016款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.05397779867053032, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "厦门金旅", 
+      "serial": "金旅海狮", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 156.0, 
+    "x": 27.0, 
+    "height": 965.0, 
+    "width": 787.0
+  }
+}

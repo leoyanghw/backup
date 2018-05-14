@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.40896499156951904, 
+      "idx": "734", 
+      "color": "银灰", 
+      "brand": "长城", 
+      "serial": "风骏5", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.37135499715805054, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "长城", 
+      "serial": "Wingle_5", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.013137700036168098, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "长城", 
+      "serial": "Wingle_6", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.008692819625139236, 
+      "idx": "962", 
+      "color": "银灰", 
+      "brand": "一汽", 
+      "serial": "威志V5", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.005936880130320787, 
+      "idx": "735", 
+      "color": "银灰", 
+      "brand": "长城", 
+      "serial": "长城C30#2016款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 388.0, 
+    "x": 425.0, 
+    "height": 576.0, 
+    "width": 522.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.16936400532722473, 
+      "idx": "133", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "瑞风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.14743800461292267, 
+      "idx": "420", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "瑞鹰", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.12258400022983551, 
+      "idx": "90", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07078219950199127, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC90_abroad_version", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.05864129960536957, 
+      "idx": "36", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 350.0, 
+    "x": 312.0, 
+    "height": 780.0, 
+    "width": 769.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5737990140914917, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.21658900380134583, 
+      "idx": "342", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "赛飞利", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07304450124502182, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "Astra", 
+      "serial": "Astra", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.034992098808288574, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.010320600122213364, 
+      "idx": "1148", 
+      "color": "黑", 
+      "brand": "巴博斯", 
+      "serial": "巴博斯_SLK级", 
+      "type": "跑车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 358.0, 
+    "x": 712.0, 
+    "height": 509.0, 
+    "width": 500.0
+  }
+}

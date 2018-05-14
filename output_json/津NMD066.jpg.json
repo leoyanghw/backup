@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8699280023574829, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "哈飞汽车", 
+      "serial": "哈飞小霸王", 
+      "type": "面包车"
+    }, 
+    {
+      "confidence": 0.037055499851703644, 
+      "idx": "992", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安之星#2009款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.01678140088915825, 
+      "idx": "561", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.015392200089991093, 
+      "idx": "43", 
+      "color": "银灰", 
+      "brand": "铃木", 
+      "serial": "浪迪", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.011769699864089489, 
+      "idx": "1057", 
+      "color": "银灰", 
+      "brand": "广汽吉奥", 
+      "serial": "星旺", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 289.0, 
+    "x": 448.0, 
+    "height": 706.0, 
+    "width": 514.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3361699879169464, 
+      "idx": "443", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09467670321464539, 
+      "idx": "1023", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.08285699784755707, 
+      "idx": "921", 
+      "color": "银灰", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.06785369664430618, 
+      "idx": "1495", 
+      "color": "银灰", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.058206599205732346, 
+      "idx": "1495", 
+      "color": "银灰", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯Power_Daily", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 0.0, 
+    "x": 243.0, 
+    "height": 923.0, 
+    "width": 1083.0
+  }
+}

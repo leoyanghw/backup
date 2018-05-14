@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4070880115032196, 
+      "idx": "108", 
+      "color": "银灰", 
+      "brand": "海马", 
+      "serial": "福美来#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1530040055513382, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "海马", 
+      "serial": "Premacy", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.04892199859023094, 
+      "idx": "672", 
+      "color": "银灰", 
+      "brand": "海马", 
+      "serial": "普力马#2007款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.04275770112872124, 
+      "idx": "672", 
+      "color": "银灰", 
+      "brand": "海马", 
+      "serial": "普力马#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03127789869904518, 
+      "idx": "109", 
+      "color": "银灰", 
+      "brand": "海马", 
+      "serial": "海福星", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 475.0, 
+    "x": 575.0, 
+    "height": 493.0, 
+    "width": 507.0
+  }
+}

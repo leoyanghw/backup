@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.19246800243854523, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09854169934988022, 
+      "idx": "805", 
+      "color": "白", 
+      "brand": "欧宝", 
+      "serial": "麦瑞纳", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07226599752902985, 
+      "idx": "443", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.05147000029683113, 
+      "idx": "743", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "日产NV200#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.04831039905548096, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "Serena", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 22.0, 
+    "x": 256.0, 
+    "height": 921.0, 
+    "width": 1001.0
+  }
+}

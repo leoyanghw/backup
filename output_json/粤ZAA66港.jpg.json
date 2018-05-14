@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.12411700189113617, 
+      "idx": "610", 
+      "color": "银灰", 
+      "brand": "路虎", 
+      "serial": "发现#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.09314770251512527, 
+      "idx": "1473", 
+      "color": "银灰", 
+      "brand": "福田", 
+      "serial": "图雅诺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.06332240253686905, 
+      "idx": "328", 
+      "color": "银灰", 
+      "brand": "路虎", 
+      "serial": "卫士", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.046983201056718826, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.036361001431941986, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "Super_Duty", 
+      "type": "皮卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 58.0, 
+    "x": 567.0, 
+    "height": 908.0, 
+    "width": 822.0
+  }
+}

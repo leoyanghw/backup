@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.38803499937057495, 
+      "idx": "227", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X5#2009款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.2587609887123108, 
+      "idx": "226", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X3#2009款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.19210800528526306, 
+      "idx": "227", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X5#2008款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.041504498571157455, 
+      "idx": "226", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X3#2008款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.036129098385572433, 
+      "idx": "227", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X5#2011款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 179.0, 
+    "x": 218.0, 
+    "height": 664.0, 
+    "width": 623.0
+  }
+}

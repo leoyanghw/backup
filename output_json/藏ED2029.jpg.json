@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6726920008659363, 
+      "idx": "512", 
+      "color": "绿", 
+      "brand": "大众", 
+      "serial": "桑塔纳志俊", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.07471220195293427, 
+      "idx": "186", 
+      "color": "绿", 
+      "brand": "大众", 
+      "serial": "捷达#2005款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.04014170169830322, 
+      "idx": "-1", 
+      "color": "绿", 
+      "brand": "大众", 
+      "serial": "Jetta", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.035493601113557816, 
+      "idx": "158", 
+      "color": "绿", 
+      "brand": "上汽大众", 
+      "serial": "桑塔纳#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.033395301550626755, 
+      "idx": "186", 
+      "color": "绿", 
+      "brand": "大众", 
+      "serial": "捷达#2008款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 462.0, 
+    "x": 608.0, 
+    "height": 513.0, 
+    "width": 471.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3829210102558136, 
+      "idx": "474", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "朗逸#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.2757900059223175, 
+      "idx": "1047", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "朗行#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.15922300517559052, 
+      "idx": "474", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "朗逸#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.049940500408411026, 
+      "idx": "1047", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "朗行#2014款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.04838220030069351, 
+      "idx": "474", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "朗逸#2014款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 467.0, 
+    "x": 456.0, 
+    "height": 503.0, 
+    "width": 525.0
+  }
+}

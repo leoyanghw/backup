@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4295479953289032, 
+      "idx": "751", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "一汽-大众CC#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.188401997089386, 
+      "idx": "751", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "一汽-大众CC#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.15124699473381042, 
+      "idx": "751", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "一汽-大众CC#2009款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.1463090032339096, 
+      "idx": "751", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "一汽-大众CC#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.03971540182828903, 
+      "idx": "751", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "一汽-大众CC#2011款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 516.0, 
+    "x": 1014.0, 
+    "height": 544.0, 
+    "width": 584.0
+  }
+}

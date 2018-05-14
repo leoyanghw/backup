@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.49173301458358765, 
+      "idx": "526", 
+      "color": "白", 
+      "brand": "猎豹汽车", 
+      "serial": "黑金刚", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.4429509937763214, 
+      "idx": "525", 
+      "color": "白", 
+      "brand": "猎豹汽车", 
+      "serial": "猎豹6481", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.04841009899973869, 
+      "idx": "312", 
+      "color": "白", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯LX", 
+      "type": "大型SUV"
+    }, 
+    {
+      "confidence": 0.004296230152249336, 
+      "idx": "276", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "兰德酷路泽(进口)", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.0020308999810367823, 
+      "idx": "67", 
+      "color": "白", 
+      "brand": "广汽三菱", 
+      "serial": "帕杰罗", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 128.0, 
+    "x": 425.0, 
+    "height": 856.0, 
+    "width": 636.0
+  }
+}

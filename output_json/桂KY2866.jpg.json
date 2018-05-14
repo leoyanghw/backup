@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2839120030403137, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.13740499317646027, 
+      "idx": "42", 
+      "color": "白", 
+      "brand": "铃木", 
+      "serial": "北斗星#2016款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.05308150127530098, 
+      "idx": "1056", 
+      "color": "白", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2016款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04839159920811653, 
+      "idx": "1495", 
+      "color": "白", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.036837100982666016, 
+      "idx": "1337", 
+      "color": "白", 
+      "brand": "GMC", 
+      "serial": "SAVANA", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 18.0, 
+    "x": 286.0, 
+    "height": 867.0, 
+    "width": 1066.0
+  }
+}

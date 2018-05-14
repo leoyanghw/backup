@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9985179901123047, 
+      "idx": "801", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达8", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0003406250034458935, 
+      "idx": "706", 
+      "color": "黑", 
+      "brand": "一汽", 
+      "serial": "威志V2", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 7.409670070046559e-05, 
+      "idx": "620", 
+      "color": "黑", 
+      "brand": "马自达(进口)", 
+      "serial": "马自达CX-7(进口)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 5.8327401347924024e-05, 
+      "idx": "804", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "H-1辉翼", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 5.205750130699016e-05, 
+      "idx": "421", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达5#2008款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 421.0, 
+    "x": 731.0, 
+    "height": 609.0, 
+    "width": 559.0
+  }
+}

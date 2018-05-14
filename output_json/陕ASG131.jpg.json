@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.30974599719047546, 
+      "idx": "474", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "朗逸#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.2652440071105957, 
+      "idx": "474", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "朗逸#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.21884199976921082, 
+      "idx": "159", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "途安#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.041991401463747025, 
+      "idx": "1119", 
+      "color": "银灰", 
+      "brand": "铃木", 
+      "serial": "利亚纳A6", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.022464999929070473, 
+      "idx": "474", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "朗逸#2010款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 185.0, 
+    "x": 432.0, 
+    "height": 736.0, 
+    "width": 671.0
+  }
+}

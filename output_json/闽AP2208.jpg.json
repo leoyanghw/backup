@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.468843013048172, 
+      "idx": "577", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "INSIGHT", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.14200599491596222, 
+      "idx": "98", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "奥德赛#2007款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.09596099704504013, 
+      "idx": "98", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "奥德赛#2006款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.05628630146384239, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "本田(进口)", 
+      "serial": "奥德赛(海外)", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.05432159826159477, 
+      "idx": "98", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "奥德赛#2008款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 375.0, 
+    "x": 353.0, 
+    "height": 700.0, 
+    "width": 596.0
+  }
+}

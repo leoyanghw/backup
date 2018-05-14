@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.534168004989624, 
+      "idx": "753", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2010款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.18725499510765076, 
+      "idx": "753", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2014款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.11124199628829956, 
+      "idx": "753", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2013款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.06744279712438583, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "上汽通用五菱", 
+      "serial": "五菱宏光S1", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.008001269772648811, 
+      "idx": "580", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪M6", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 287.0, 
+    "x": 350.0, 
+    "height": 711.0, 
+    "width": 632.0
+  }
+}

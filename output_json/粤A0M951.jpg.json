@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6193720102310181, 
+      "idx": "561", 
+      "color": "黄", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07928220182657242, 
+      "idx": "241", 
+      "color": "黄", 
+      "brand": "奔驰", 
+      "serial": "奔驰G级", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.05440279841423035, 
+      "idx": "982", 
+      "color": "黄", 
+      "brand": "东风", 
+      "serial": "御风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.053456999361515045, 
+      "idx": "991", 
+      "color": "黄", 
+      "brand": "东风小康", 
+      "serial": "东风小康C37", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.03921620175242424, 
+      "idx": "921", 
+      "color": "黄", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 71.0, 
+    "x": 492.0, 
+    "height": 804.0, 
+    "width": 827.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.26800400018692017, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2013款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.21999600529670715, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2014款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.14264699816703796, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "凌志", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0856667011976242, 
+      "idx": "504", 
+      "color": "银灰", 
+      "brand": "众泰", 
+      "serial": "众泰M300", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.08464830368757248, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2016款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 313.0, 
+    "x": 574.0, 
+    "height": 628.0, 
+    "width": 515.0
+  }
+}

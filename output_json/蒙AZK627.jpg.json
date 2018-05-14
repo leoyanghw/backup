@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.23585599660873413, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "本田(进口)", 
+      "serial": "雅阁(海外)", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.2248540073633194, 
+      "idx": "577", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "INSIGHT", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.09182009845972061, 
+      "idx": "98", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "奥德赛#2007款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07704579830169678, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "讴歌(进口)", 
+      "serial": "讴歌TSX", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.059561800211668015, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "本田(进口)", 
+      "serial": "奥德赛(海外)", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 296.0, 
+    "x": 598.0, 
+    "height": 589.0, 
+    "width": 534.0
+  }
+}

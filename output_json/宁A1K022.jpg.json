@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6690769791603088, 
+      "idx": "93", 
+      "color": "黄", 
+      "brand": "起亚", 
+      "serial": "远舰", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0612277016043663, 
+      "idx": "-1", 
+      "color": "黄", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.050307199358940125, 
+      "idx": "90", 
+      "color": "黄", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.04129379987716675, 
+      "idx": "146", 
+      "color": "黄", 
+      "brand": "奇瑞", 
+      "serial": "东方之子", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.02910510078072548, 
+      "idx": "36", 
+      "color": "黄", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 482.0, 
+    "x": 587.0, 
+    "height": 492.0, 
+    "width": 500.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6258370280265808, 
+      "idx": "173", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "凯越#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.37062299251556396, 
+      "idx": "173", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "凯越#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.00135218002833426, 
+      "idx": "173", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "凯越#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0004393399867694825, 
+      "idx": "554", 
+      "color": "黑", 
+      "brand": "华晨中华", 
+      "serial": "中华骏捷FSV", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0002717039897106588, 
+      "idx": "116", 
+      "color": "黑", 
+      "brand": "华晨中华", 
+      "serial": "中华骏捷#2007款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 551.0, 
+    "x": 738.0, 
+    "height": 451.0, 
+    "width": 494.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.985319972038269, 
+      "idx": "538", 
+      "color": "绿", 
+      "brand": "现代", 
+      "serial": "名驭", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0013655700022354722, 
+      "idx": "36", 
+      "color": "绿", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0008669099770486355, 
+      "idx": "191", 
+      "color": "绿", 
+      "brand": "丰田", 
+      "serial": "花冠#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0008183370227925479, 
+      "idx": "506", 
+      "color": "绿", 
+      "brand": "猎豹汽车", 
+      "serial": "飞腾", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.0006453500245697796, 
+      "idx": "486", 
+      "color": "绿", 
+      "brand": "东南", 
+      "serial": "V3菱悦#2013款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 3.0, 
+    "x": 1059.0, 
+    "height": 224.0, 
+    "width": 384.0
+  }
+}

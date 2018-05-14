@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.983925998210907, 
+      "idx": "354", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "贵士", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0050721801817417145, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "日产(进口)", 
+      "serial": "Note", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.004460230004042387, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "日产(进口)", 
+      "serial": "楼兰(海外)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.0018626799574121833, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "日产(进口)", 
+      "serial": "Versa", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0009109260281547904, 
+      "idx": "350", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "日产350Z", 
+      "type": "跑车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 252.0, 
+    "x": 505.0, 
+    "height": 640.0, 
+    "width": 583.0
+  }
+}

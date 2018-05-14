@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3341209888458252, 
+      "idx": "864", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "悦动#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.2348490059375763, 
+      "idx": "864", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "悦动#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.10351499915122986, 
+      "idx": "831", 
+      "color": "黑", 
+      "brand": "现代(进口)", 
+      "serial": "现代i40", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.06794469803571701, 
+      "idx": "752", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "瑞纳#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.03987589851021767, 
+      "idx": "805", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "麦瑞纳", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 466.0, 
+    "x": 513.0, 
+    "height": 473.0, 
+    "width": 503.0
+  }
+}

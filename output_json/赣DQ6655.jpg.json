@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.58952397108078, 
+      "idx": "79", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "天籁#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.11885999888181686, 
+      "idx": "79", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "天籁#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.09886109828948975, 
+      "idx": "79", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "天籁#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.04910989850759506, 
+      "idx": "79", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "天籁#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.03036079928278923, 
+      "idx": "81", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "阳光#2016款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 479.0, 
+    "x": 168.0, 
+    "height": 653.0, 
+    "width": 628.0
+  }
+}

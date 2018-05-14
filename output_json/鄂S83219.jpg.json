@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.20753900706768036, 
+      "idx": "1056", 
+      "color": "白", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2016款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.2028679996728897, 
+      "idx": "921", 
+      "color": "白", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.13362999260425568, 
+      "idx": "1056", 
+      "color": "白", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2008款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.08130169659852982, 
+      "idx": "1056", 
+      "color": "白", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.07828880101442337, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 47.0, 
+    "x": 496.0, 
+    "height": 814.0, 
+    "width": 808.0
+  }
+}

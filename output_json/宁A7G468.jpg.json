@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.1226940006017685, 
+      "idx": "26", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰E级#2011款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.07309000194072723, 
+      "idx": "26", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰E级#2010款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.05934090167284012, 
+      "idx": "239", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰E级(进口)#2009款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.043879300355911255, 
+      "idx": "26", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰E级#2012款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.040891099721193314, 
+      "idx": "467", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰CL级", 
+      "type": "跑车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 350.0, 
+    "x": 602.0, 
+    "height": 517.0, 
+    "width": 534.0
+  }
+}

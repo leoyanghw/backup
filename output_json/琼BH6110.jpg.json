@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7866600155830383, 
+      "idx": "173", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "凯越#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1457419991493225, 
+      "idx": "173", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "凯越#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03449099883437157, 
+      "idx": "173", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "凯越#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.013378899544477463, 
+      "idx": "116", 
+      "color": "银灰", 
+      "brand": "华晨中华", 
+      "serial": "中华骏捷#2009款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0016750700306147337, 
+      "idx": "342", 
+      "color": "银灰", 
+      "brand": "欧宝", 
+      "serial": "赛飞利", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 289.0, 
+    "x": 708.0, 
+    "height": 586.0, 
+    "width": 559.0
+  }
+}

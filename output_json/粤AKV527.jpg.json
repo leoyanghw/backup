@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9183949828147888, 
+      "idx": "78", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "骐达#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03181999921798706, 
+      "idx": "74", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "骏逸", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.018931899219751358, 
+      "idx": "82", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "颐达", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.006429079920053482, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "日产(进口)", 
+      "serial": "Versa", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0024674099404364824, 
+      "idx": "76", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "骊威#2013款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 482.0, 
+    "x": 597.0, 
+    "height": 524.0, 
+    "width": 491.0
+  }
+}

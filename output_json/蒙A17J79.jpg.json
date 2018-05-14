@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.716871976852417, 
+      "idx": "954", 
+      "color": "银灰", 
+      "brand": "菲亚特", 
+      "serial": "菲翔#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.08168579638004303, 
+      "idx": "954", 
+      "color": "银灰", 
+      "brand": "菲亚特", 
+      "serial": "菲翔#2014款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.056212298572063446, 
+      "idx": "954", 
+      "color": "银灰", 
+      "brand": "菲亚特", 
+      "serial": "菲翔#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03658260032534599, 
+      "idx": "954", 
+      "color": "银灰", 
+      "brand": "菲亚特", 
+      "serial": "菲翔#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.009450829587876797, 
+      "idx": "802", 
+      "color": "银灰", 
+      "brand": "雷诺", 
+      "serial": "风朗", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 440.0, 
+    "x": 575.0, 
+    "height": 555.0, 
+    "width": 527.0
+  }
+}

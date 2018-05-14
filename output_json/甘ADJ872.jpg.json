@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5201560258865356, 
+      "idx": "855", 
+      "color": "红", 
+      "brand": "起亚", 
+      "serial": "起亚K2#2011款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.422868013381958, 
+      "idx": "855", 
+      "color": "红", 
+      "brand": "起亚", 
+      "serial": "起亚K2#2012款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.04255849868059158, 
+      "idx": "855", 
+      "color": "红", 
+      "brand": "起亚", 
+      "serial": "起亚K2#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.002835070015862584, 
+      "idx": "855", 
+      "color": "红", 
+      "brand": "起亚", 
+      "serial": "起亚K2#2015款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.001810119953006506, 
+      "idx": "358", 
+      "color": "红", 
+      "brand": "萨博", 
+      "serial": "Saab_9-3", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 283.0, 
+    "x": 466.0, 
+    "height": 518.0, 
+    "width": 522.0
+  }
+}

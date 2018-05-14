@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.41484498977661133, 
+      "idx": "743", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "日产NV200#2013款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.27087000012397766, 
+      "idx": "743", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "日产NV200#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.1667809933423996, 
+      "idx": "743", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "日产NV200#2010款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.037097398191690445, 
+      "idx": "743", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "日产NV200#2014款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03617950156331062, 
+      "idx": "743", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "日产NV200#2016款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 321.0, 
+    "x": 484.0, 
+    "height": 599.0, 
+    "width": 516.0
+  }
+}

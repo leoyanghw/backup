@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3561669886112213, 
+      "idx": "172", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "君越#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.3384590148925781, 
+      "idx": "172", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "君越#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.07651489973068237, 
+      "idx": "313", 
+      "color": "黑", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯RX经典#2004款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.034799300134181976, 
+      "idx": "170", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "别克GL8#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.027027100324630737, 
+      "idx": "170", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "别克GL8#2008款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 477.0, 
+    "x": 575.0, 
+    "height": 498.0, 
+    "width": 535.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.29130101203918457, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.1309870034456253, 
+      "idx": "358", 
+      "color": "棕", 
+      "brand": "萨博", 
+      "serial": "Saab_9-3", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.1133510023355484, 
+      "idx": "90", 
+      "color": "棕", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.056030601263046265, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "斯柯达(进口)", 
+      "serial": "晶锐(海外)", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.04352470114827156, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "铃木", 
+      "serial": "Cultus", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 414.0, 
+    "x": 452.0, 
+    "height": 619.0, 
+    "width": 596.0
+  }
+}

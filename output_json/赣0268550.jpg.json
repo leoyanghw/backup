@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.22329500317573547, 
+      "idx": "1023", 
+      "color": "蓝", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.12459400296211243, 
+      "idx": "439", 
+      "color": "蓝", 
+      "brand": "东南", 
+      "serial": "得利卡", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.0633653998374939, 
+      "idx": "443", 
+      "color": "蓝", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04461919888854027, 
+      "idx": "115", 
+      "color": "蓝", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2016款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04123309999704361, 
+      "idx": "1056", 
+      "color": "蓝", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2016款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 48.0, 
+    "x": 274.0, 
+    "height": 845.0, 
+    "width": 1007.0
+  }
+}

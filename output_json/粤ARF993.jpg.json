@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9995430111885071, 
+      "idx": "133", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "瑞风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 3.346020093886182e-05, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC70", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 2.9105400244588964e-05, 
+      "idx": "90", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 1.8855200323741883e-05, 
+      "idx": "1011", 
+      "color": "银灰", 
+      "brand": "福田", 
+      "serial": "风景", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 1.7407499399269e-05, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "福特(进口)", 
+      "serial": "Kuga", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 327.0, 
+    "x": 605.0, 
+    "height": 629.0, 
+    "width": 560.0
+  }
+}

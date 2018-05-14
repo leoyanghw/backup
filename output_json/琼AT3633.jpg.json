@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5108910202980042, 
+      "idx": "1605", 
+      "color": "棕", 
+      "brand": "北京", 
+      "serial": "北京40L", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.485370010137558, 
+      "idx": "828", 
+      "color": "棕", 
+      "brand": "北京", 
+      "serial": "北京BJ40", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0019681600388139486, 
+      "idx": "1604", 
+      "color": "棕", 
+      "brand": "北京汽车", 
+      "serial": "北京BJ80", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.0001824289938667789, 
+      "idx": "1690", 
+      "color": "棕", 
+      "brand": "北京", 
+      "serial": "北京(BJ)20", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.0001577910006744787, 
+      "idx": "769", 
+      "color": "棕", 
+      "brand": "北汽制造", 
+      "serial": "陆霸", 
+      "type": "SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 291.0, 
+    "x": 749.0, 
+    "height": 544.0, 
+    "width": 545.0
+  }
+}

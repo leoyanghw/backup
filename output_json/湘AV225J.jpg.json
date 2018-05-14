@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2797439992427826, 
+      "idx": "205", 
+      "color": "红", 
+      "brand": "马自达", 
+      "serial": "马自达6#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.16403500735759735, 
+      "idx": "205", 
+      "color": "红", 
+      "brand": "马自达", 
+      "serial": "马自达6#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.09432029724121094, 
+      "idx": "205", 
+      "color": "红", 
+      "brand": "马自达", 
+      "serial": "马自达6#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.06979099661111832, 
+      "idx": "205", 
+      "color": "红", 
+      "brand": "马自达", 
+      "serial": "马自达6#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.06000480055809021, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "海马", 
+      "serial": "Premacy", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 242.0, 
+    "x": 406.0, 
+    "height": 718.0, 
+    "width": 705.0
+  }
+}

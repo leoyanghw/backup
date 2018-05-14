@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.27845498919487, 
+      "idx": "197", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "锐志#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.21112500131130219, 
+      "idx": "197", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "锐志#2005款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.19710899889469147, 
+      "idx": "197", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "锐志#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.09070149809122086, 
+      "idx": "197", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "锐志#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.022248100489377975, 
+      "idx": "197", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "锐志#2009款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 376.0, 
+    "x": 567.0, 
+    "height": 494.0, 
+    "width": 540.0
+  }
+}

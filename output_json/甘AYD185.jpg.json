@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.43579599261283875, 
+      "idx": "935", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "福克斯#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.13557399809360504, 
+      "idx": "670", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "C-MAX", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.11809200048446655, 
+      "idx": "1028", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "福克斯(进口)#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.08835340291261673, 
+      "idx": "935", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "福克斯#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06152459979057312, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "福特(进口)", 
+      "serial": "Grand_C-MAX", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 278.0, 
+    "x": 382.0, 
+    "height": 773.0, 
+    "width": 730.0
+  }
+}

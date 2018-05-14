@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6863059997558594, 
+      "idx": "50", 
+      "color": "黑", 
+      "brand": "福特", 
+      "serial": "蒙迪欧#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.23346899449825287, 
+      "idx": "146", 
+      "color": "黑", 
+      "brand": "奇瑞", 
+      "serial": "东方之子", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.013307400047779083, 
+      "idx": "1239", 
+      "color": "黑", 
+      "brand": "福特", 
+      "serial": "蒙迪欧-致胜#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.005051350221037865, 
+      "idx": "389", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "雅尊", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.00462919007986784, 
+      "idx": "407", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "宾悦", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 484.0, 
+    "x": 538.0, 
+    "height": 461.0, 
+    "width": 463.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4875969886779785, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0863863006234169, 
+      "idx": "276", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "兰德酷路泽(进口)", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.07028370350599289, 
+      "idx": "1337", 
+      "color": "白", 
+      "brand": "GMC", 
+      "serial": "SAVANA", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.04354029893875122, 
+      "idx": "443", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.02168950065970421, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 0.0, 
+    "x": 589.0, 
+    "height": 923.0, 
+    "width": 768.0
+  }
+}

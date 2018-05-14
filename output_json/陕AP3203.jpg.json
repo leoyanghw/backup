@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.10775800049304962, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "厦门金龙", 
+      "serial": "金威", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.06911169737577438, 
+      "idx": "1374", 
+      "color": "银灰", 
+      "brand": "东风小康", 
+      "serial": "东风小康K01", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.046305298805236816, 
+      "idx": "921", 
+      "color": "银灰", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.046059299260377884, 
+      "idx": "842", 
+      "color": "银灰", 
+      "brand": "长安欧尚", 
+      "serial": "长安星光4500", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.04537450149655342, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 228.0, 
+    "x": 573.0, 
+    "height": 781.0, 
+    "width": 525.0
+  }
+}

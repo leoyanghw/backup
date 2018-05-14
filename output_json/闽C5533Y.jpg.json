@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6515089869499207, 
+      "idx": "797", 
+      "color": "银灰", 
+      "brand": "长安", 
+      "serial": "长安CX20#2011款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.21940700709819794, 
+      "idx": "797", 
+      "color": "银灰", 
+      "brand": "长安", 
+      "serial": "长安CX20#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.011353200301527977, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.008980910293757915, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2008款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0089153703302145, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2014款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 452.0, 
+    "x": 555.0, 
+    "height": 606.0, 
+    "width": 502.0
+  }
+}

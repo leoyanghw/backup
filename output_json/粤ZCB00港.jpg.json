@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.13996100425720215, 
+      "idx": "561", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.13859699666500092, 
+      "idx": "610", 
+      "color": "白", 
+      "brand": "路虎", 
+      "serial": "发现#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.10634300112724304, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "江铃旅居车", 
+      "serial": "旅居房车", 
+      "type": "卡车"
+    }, 
+    {
+      "confidence": 0.10456400364637375, 
+      "idx": "1495", 
+      "color": "白", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.05249549821019173, 
+      "idx": "328", 
+      "color": "白", 
+      "brand": "路虎", 
+      "serial": "卫士", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 23.0, 
+    "x": 26.0, 
+    "height": 891.0, 
+    "width": 931.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7268319725990295, 
+      "idx": "921", 
+      "color": "银灰", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.2589859962463379, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.006177249830216169, 
+      "idx": "443", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0011283200001344085, 
+      "idx": "982", 
+      "color": "银灰", 
+      "brand": "东风", 
+      "serial": "御风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0008043210254982114, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 174.0, 
+    "x": 478.0, 
+    "height": 705.0, 
+    "width": 637.0
+  }
+}

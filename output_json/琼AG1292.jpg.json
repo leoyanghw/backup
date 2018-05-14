@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7234569787979126, 
+      "idx": "195", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "普拉多#2006款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.0699257031083107, 
+      "idx": "277", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "普拉多(进口)", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.05340059846639633, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "华泰", 
+      "serial": "Tekala", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.02955619990825653, 
+      "idx": "1284", 
+      "color": "白", 
+      "brand": "猎豹汽车", 
+      "serial": "飞扬", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.012369399890303612, 
+      "idx": "420", 
+      "color": "白", 
+      "brand": "江淮", 
+      "serial": "瑞鹰", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 390.0, 
+    "x": 419.0, 
+    "height": 692.0, 
+    "width": 564.0
+  }
+}

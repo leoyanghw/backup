@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5963730216026306, 
+      "idx": "68", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "本田CR-V#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.14910699427127838, 
+      "idx": "68", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "本田CR-V#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11009600013494492, 
+      "idx": "1199", 
+      "color": "黑", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通G10", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.023889699950814247, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "本田(进口)", 
+      "serial": "奥德赛(海外)", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.019878100603818893, 
+      "idx": "1607", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰V级", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 398.0, 
+    "x": 577.0, 
+    "height": 600.0, 
+    "width": 561.0
+  }
+}

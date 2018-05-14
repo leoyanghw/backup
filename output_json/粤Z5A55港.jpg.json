@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.23896299302577972, 
+      "idx": "1337", 
+      "color": "银灰", 
+      "brand": "GMC", 
+      "serial": "SAVANA", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.13989700376987457, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09675160050392151, 
+      "idx": "443", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.06344419717788696, 
+      "idx": "1023", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.043115999549627304, 
+      "idx": "1495", 
+      "color": "银灰", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯Power_Daily", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 16.0, 
+    "x": 32.0, 
+    "height": 931.0, 
+    "width": 1049.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5604329705238342, 
+      "idx": "171", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "君威#2009款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.10453200340270996, 
+      "idx": "171", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "君威#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.06463979929685593, 
+      "idx": "171", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "君威#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.03626050055027008, 
+      "idx": "171", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "君威#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.03125, 
+      "idx": "342", 
+      "color": "银灰", 
+      "brand": "欧宝", 
+      "serial": "赛飞利", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 174.0, 
+    "x": 375.0, 
+    "height": 495.0, 
+    "width": 556.0
+  }
+}

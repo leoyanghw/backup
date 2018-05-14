@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5874360203742981, 
+      "idx": "526", 
+      "color": "黑", 
+      "brand": "猎豹汽车", 
+      "serial": "黑金刚", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.3306570053100586, 
+      "idx": "525", 
+      "color": "黑", 
+      "brand": "猎豹汽车", 
+      "serial": "猎豹6481", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.018467500805854797, 
+      "idx": "1337", 
+      "color": "黑", 
+      "brand": "GMC", 
+      "serial": "SAVANA", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.009642969816923141, 
+      "idx": "971", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪S8", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.008851650170981884, 
+      "idx": "425", 
+      "color": "黑", 
+      "brand": "三菱", 
+      "serial": "帕杰罗(进口)#2015款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 425.0, 
+    "x": 589.0, 
+    "height": 550.0, 
+    "width": 513.0
+  }
+}

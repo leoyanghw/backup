@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4602929949760437, 
+      "idx": "733", 
+      "color": "白", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q5#2010款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.18292400240898132, 
+      "idx": "733", 
+      "color": "白", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q5#2011款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.17273500561714172, 
+      "idx": "733", 
+      "color": "白", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q5#2012款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.1385360062122345, 
+      "idx": "462", 
+      "color": "白", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q5(进口)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.009349890053272247, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "奥迪(进口)", 
+      "serial": "奥迪Cross", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 490.0, 
+    "x": 689.0, 
+    "height": 650.0, 
+    "width": 553.0
+  }
+}

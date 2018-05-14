@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5414429903030396, 
+      "idx": "34", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "途胜#2006款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.40383198857307434, 
+      "idx": "34", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "途胜#2009款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.032352298498153687, 
+      "idx": "34", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "途胜#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.007080770097672939, 
+      "idx": "46", 
+      "color": "黑", 
+      "brand": "福特", 
+      "serial": "麦柯斯", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0031582799274474382, 
+      "idx": "401", 
+      "color": "黑", 
+      "brand": "雪佛兰(进口)", 
+      "serial": "科帕奇(进口)", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 442.0, 
+    "x": 670.0, 
+    "height": 557.0, 
+    "width": 538.0
+  }
+}

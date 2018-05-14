@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2814989984035492, 
+      "idx": "197", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "锐志#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.2658120095729828, 
+      "idx": "197", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "锐志#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.13420599699020386, 
+      "idx": "197", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "锐志#2005款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.03779440000653267, 
+      "idx": "197", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "锐志#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.020959600806236267, 
+      "idx": "155", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "POLO#2006款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 512.0, 
+    "x": 561.0, 
+    "height": 527.0, 
+    "width": 575.0
+  }
+}

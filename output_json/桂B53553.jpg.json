@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8698499798774719, 
+      "idx": "715", 
+      "color": "银灰", 
+      "brand": "宝马(进口)", 
+      "serial": "宝马X1(进口)", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.07384610176086426, 
+      "idx": "903", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X1#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.019812099635601044, 
+      "idx": "903", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X1#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.008155499584972858, 
+      "idx": "903", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X1#2013款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.00805136002600193, 
+      "idx": "1169", 
+      "color": "银灰", 
+      "brand": "之诺", 
+      "serial": "之诺1E", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 315.0, 
+    "x": 526.0, 
+    "height": 576.0, 
+    "width": 539.0
+  }
+}

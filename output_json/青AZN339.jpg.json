@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5546810030937195, 
+      "idx": "893", 
+      "color": "黑", 
+      "brand": "长安", 
+      "serial": "逸动#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1698250025510788, 
+      "idx": "893", 
+      "color": "黑", 
+      "brand": "长安", 
+      "serial": "逸动#2014款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.12135499715805054, 
+      "idx": "893", 
+      "color": "黑", 
+      "brand": "长安", 
+      "serial": "逸动#2015款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05873360112309456, 
+      "idx": "893", 
+      "color": "黑", 
+      "brand": "长安", 
+      "serial": "逸动#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05370929837226868, 
+      "idx": "893", 
+      "color": "黑", 
+      "brand": "长安", 
+      "serial": "逸动#2013款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 472.0, 
+    "x": 583.0, 
+    "height": 465.0, 
+    "width": 481.0
+  }
+}

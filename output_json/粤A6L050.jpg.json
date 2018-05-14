@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9933450222015381, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.00254638004116714, 
+      "idx": "659", 
+      "color": "白", 
+      "brand": "开瑞", 
+      "serial": "优优", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.0013416300062090158, 
+      "idx": "385", 
+      "color": "白", 
+      "brand": "现代", 
+      "serial": "美佳", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.000279341998975724, 
+      "idx": "443", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.00022017600713297725, 
+      "idx": "1057", 
+      "color": "白", 
+      "brand": "广汽吉奥", 
+      "serial": "星旺", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 246.0, 
+    "x": 604.0, 
+    "height": 720.0, 
+    "width": 609.0
+  }
+}

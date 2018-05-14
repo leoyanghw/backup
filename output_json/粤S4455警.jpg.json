@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.500577986240387, 
+      "idx": "526", 
+      "color": "白", 
+      "brand": "猎豹汽车", 
+      "serial": "黑金刚", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.13276700675487518, 
+      "idx": "525", 
+      "color": "白", 
+      "brand": "猎豹汽车", 
+      "serial": "猎豹6481", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.07652069628238678, 
+      "idx": "43", 
+      "color": "白", 
+      "brand": "铃木", 
+      "serial": "浪迪", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.0328948013484478, 
+      "idx": "1337", 
+      "color": "白", 
+      "brand": "GMC", 
+      "serial": "SAVANA", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03064339980483055, 
+      "idx": "1495", 
+      "color": "白", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 17.0, 
+    "x": 695.0, 
+    "height": 883.0, 
+    "width": 725.0
+  }
+}

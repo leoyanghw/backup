@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4175660014152527, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "大众Eos", 
+      "serial": "大众Eos", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.12229999899864197, 
+      "idx": "155", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "POLO#2009款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.06594099849462509, 
+      "idx": "189", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "速腾#2006款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06589250266551971, 
+      "idx": "977", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "高尔夫(进口)#2006款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06337399780750275, 
+      "idx": "155", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "POLO#2006款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 503.0, 
+    "x": 584.0, 
+    "height": 450.0, 
+    "width": 462.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.836929976940155, 
+      "idx": "669", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "北京现代ix35#2010款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.08134560286998749, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "现代(进口)", 
+      "serial": "现代ix35(海外)", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.018774600699543953, 
+      "idx": "1170", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "全新胜达(进口)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.009028010070323944, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "Avante", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.007952249608933926, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "现代(进口)", 
+      "serial": "伊兰特(海外)", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 385.0, 
+    "x": 514.0, 
+    "height": 489.0, 
+    "width": 582.0
+  }
+}

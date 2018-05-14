@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5142660140991211, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "斯柯达(进口)", 
+      "serial": "Superb", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.3149940073490143, 
+      "idx": "1055", 
+      "color": "黑", 
+      "brand": "斯柯达", 
+      "serial": "速尊", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.05234000086784363, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "斯柯达(进口)", 
+      "serial": "晶锐(海外)", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.034709200263023376, 
+      "idx": "1508", 
+      "color": "黑", 
+      "brand": "斯柯达", 
+      "serial": "明锐(进口)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.007711059879511595, 
+      "idx": "326", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜#2013款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 201.0, 
+    "x": 608.0, 
+    "height": 676.0, 
+    "width": 680.0
+  }
+}

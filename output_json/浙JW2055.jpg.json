@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5647730231285095, 
+      "idx": "1167", 
+      "color": "白", 
+      "brand": "纳智捷", 
+      "serial": "优6_SUV#2014款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.26210200786590576, 
+      "idx": "1167", 
+      "color": "白", 
+      "brand": "纳智捷", 
+      "serial": "优6_SUV#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.10358300060033798, 
+      "idx": "1167", 
+      "color": "白", 
+      "brand": "纳智捷", 
+      "serial": "优6_SUV#2015款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.031370799988508224, 
+      "idx": "1167", 
+      "color": "白", 
+      "brand": "纳智捷", 
+      "serial": "优6_SUV#2017款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0016875900328159332, 
+      "idx": "898", 
+      "color": "白", 
+      "brand": "标致", 
+      "serial": "标致208", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 174.0, 
+    "x": 968.0, 
+    "height": 619.0, 
+    "width": 560.0
+  }
+}

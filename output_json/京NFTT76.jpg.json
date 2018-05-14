@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5775370001792908, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "丰田(进口)", 
+      "serial": "普锐斯(海外)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.30722901225090027, 
+      "idx": "196", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "普锐斯", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.07333780080080032, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "Verso", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.013611800037324429, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "丰田(进口)", 
+      "serial": "YARiS(海外)", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.009199880063533783, 
+      "idx": "1081", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "YARiS_L_致炫#2013款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 289.0, 
+    "x": 698.0, 
+    "height": 701.0, 
+    "width": 699.0
+  }
+}

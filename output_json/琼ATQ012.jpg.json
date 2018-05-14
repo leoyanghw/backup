@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.773065984249115, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "福特(进口)", 
+      "serial": "蒙迪欧(海外)", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.13446299731731415, 
+      "idx": "50", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "蒙迪欧#2013款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.052656300365924835, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "Fusion", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.014651799574494362, 
+      "idx": "50", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "蒙迪欧#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.002835789928212762, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "福特(进口)", 
+      "serial": "S-MAX", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 474.0, 
+    "x": 385.0, 
+    "height": 604.0, 
+    "width": 611.0
+  }
+}

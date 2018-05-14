@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5249360203742981, 
+      "idx": "1099", 
+      "color": "蓝", 
+      "brand": "奥迪", 
+      "serial": "奥迪A3#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11299200356006622, 
+      "idx": "142", 
+      "color": "蓝", 
+      "brand": "奇瑞", 
+      "serial": "奇瑞A3#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.09601390361785889, 
+      "idx": "1099", 
+      "color": "蓝", 
+      "brand": "奥迪", 
+      "serial": "奥迪A3#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05472920089960098, 
+      "idx": "142", 
+      "color": "蓝", 
+      "brand": "奇瑞", 
+      "serial": "奇瑞A3#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03541959822177887, 
+      "idx": "142", 
+      "color": "蓝", 
+      "brand": "奇瑞", 
+      "serial": "奇瑞A3#2008款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 390.0, 
+    "x": 236.0, 
+    "height": 710.0, 
+    "width": 672.0
+  }
+}

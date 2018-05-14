@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3690609931945801, 
+      "idx": "561", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.08782719820737839, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "大众(进口)", 
+      "serial": "开迪(海外)", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.08567070215940475, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.05252210050821304, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "奔驰(进口)", 
+      "serial": "威霆(进口)", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0460330992937088, 
+      "idx": "247", 
+      "color": "银灰", 
+      "brand": "奔驰(进口)", 
+      "serial": "唯雅诺(进口)", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 142.0, 
+    "x": 670.0, 
+    "height": 852.0, 
+    "width": 699.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.12775099277496338, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09105870127677917, 
+      "idx": "443", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.08529280126094818, 
+      "idx": "731", 
+      "color": "白", 
+      "brand": "开瑞", 
+      "serial": "优胜2代", 
+      "type": "面包车"
+    }, 
+    {
+      "confidence": 0.08058319985866547, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.06314989924430847, 
+      "idx": "921", 
+      "color": "白", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 40.0, 
+    "x": 389.0, 
+    "height": 873.0, 
+    "width": 963.0
+  }
+}

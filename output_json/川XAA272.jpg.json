@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.33069199323654175, 
+      "idx": "1023", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.2986289858818054, 
+      "idx": "723", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱之光#2010款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.12574300169944763, 
+      "idx": "723", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱之光#2013款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.04110189899802208, 
+      "idx": "723", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱之光#2008款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.032480400055646896, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 396.0, 
+    "x": 672.0, 
+    "height": 604.0, 
+    "width": 452.0
+  }
+}

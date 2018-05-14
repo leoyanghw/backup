@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.18967300653457642, 
+      "idx": "131", 
+      "color": "红", 
+      "brand": "吉利", 
+      "serial": "Vision", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.14675700664520264, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "雷诺", 
+      "serial": "雷诺Logan", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.11369699984788895, 
+      "idx": "131", 
+      "color": "红", 
+      "brand": "吉利汽车", 
+      "serial": "远景#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.10270900279283524, 
+      "idx": "131", 
+      "color": "红", 
+      "brand": "吉利汽车", 
+      "serial": "远景#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.07370740175247192, 
+      "idx": "207", 
+      "color": "红", 
+      "brand": "力帆", 
+      "serial": "力帆520", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 517.0, 
+    "x": 589.0, 
+    "height": 518.0, 
+    "width": 501.0
+  }
+}

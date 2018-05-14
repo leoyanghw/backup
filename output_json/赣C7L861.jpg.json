@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.35807299613952637, 
+      "idx": "1023", 
+      "color": "红", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.11532499641180038, 
+      "idx": "1137", 
+      "color": "红", 
+      "brand": "福特", 
+      "serial": "福特F-150", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.07673230022192001, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "福特", 
+      "serial": "Super_Duty", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.07512079924345016, 
+      "idx": "518", 
+      "color": "红", 
+      "brand": "开瑞", 
+      "serial": "优派", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.06277869641780853, 
+      "idx": "443", 
+      "color": "红", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 0.0, 
+    "x": 282.0, 
+    "height": 909.0, 
+    "width": 1062.0
+  }
+}

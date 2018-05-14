@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5111730098724365, 
+      "idx": "1201", 
+      "color": "白", 
+      "brand": "华泰", 
+      "serial": "圣达菲", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.07288090139627457, 
+      "idx": "124", 
+      "color": "白", 
+      "brand": "华泰", 
+      "serial": "圣达菲经典#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.07105520367622375, 
+      "idx": "124", 
+      "color": "白", 
+      "brand": "华泰", 
+      "serial": "圣达菲经典#2009款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.040000300854444504, 
+      "idx": "124", 
+      "color": "白", 
+      "brand": "华泰", 
+      "serial": "圣达菲经典#2011款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.032254401594400406, 
+      "idx": "133", 
+      "color": "白", 
+      "brand": "江淮", 
+      "serial": "瑞风", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 382.0, 
+    "x": 444.0, 
+    "height": 569.0, 
+    "width": 543.0
+  }
+}

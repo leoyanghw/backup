@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.10354100167751312, 
+      "idx": "1495", 
+      "color": "银灰", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09447920322418213, 
+      "idx": "1337", 
+      "color": "银灰", 
+      "brand": "GMC", 
+      "serial": "SAVANA", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.09185890108346939, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.08362089842557907, 
+      "idx": "561", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07077649980783463, 
+      "idx": "1023", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 93.0, 
+    "x": 551.0, 
+    "height": 833.0, 
+    "width": 622.0
+  }
+}

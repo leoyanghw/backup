@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.1945430040359497, 
+      "idx": "672", 
+      "color": "黑", 
+      "brand": "海马", 
+      "serial": "普力马#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.17338700592517853, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "沃尔沃", 
+      "serial": "Classic_Imperial_hatchback", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.042858198285102844, 
+      "idx": "51", 
+      "color": "黑", 
+      "brand": "铃木", 
+      "serial": "天语_SX4#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.04190479964017868, 
+      "idx": "1717", 
+      "color": "黑", 
+      "brand": "标致", 
+      "serial": "标致4008", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.04096530005335808, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2010款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 211.0, 
+    "x": 389.0, 
+    "height": 835.0, 
+    "width": 878.0
+  }
+}

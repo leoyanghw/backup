@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.17624600231647491, 
+      "idx": "565", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "兰德酷路泽", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.11342199891805649, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "厦门金龙", 
+      "serial": "金威", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.06987450271844864, 
+      "idx": "439", 
+      "color": "白", 
+      "brand": "东南", 
+      "serial": "得利卡", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.06947559863328934, 
+      "idx": "276", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "兰德酷路泽(进口)", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.056868698447942734, 
+      "idx": "643", 
+      "color": "白", 
+      "brand": "威麟", 
+      "serial": "威麟H5", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 66.0, 
+    "x": 364.0, 
+    "height": 953.0, 
+    "width": 752.0
+  }
+}

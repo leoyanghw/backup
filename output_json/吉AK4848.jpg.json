@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3535729944705963, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "萨博", 
+      "serial": "Saab_9000", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.29307401180267334, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "Jetta", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.10234200209379196, 
+      "idx": "186", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "捷达#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05832289904356003, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "萨博", 
+      "serial": "Saab_900", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.03184869885444641, 
+      "idx": "186", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "捷达#2005款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 524.0, 
+    "x": 527.0, 
+    "height": 555.0, 
+    "width": 524.0
+  }
+}

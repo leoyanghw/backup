@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5724480152130127, 
+      "idx": "860", 
+      "color": "银灰", 
+      "brand": "纳智捷", 
+      "serial": "大7_SUV#2011款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.14372900128364563, 
+      "idx": "860", 
+      "color": "银灰", 
+      "brand": "纳智捷", 
+      "serial": "大7_SUV#2016款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.08676429837942123, 
+      "idx": "860", 
+      "color": "银灰", 
+      "brand": "纳智捷", 
+      "serial": "大7_SUV#2012款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.07205989956855774, 
+      "idx": "860", 
+      "color": "银灰", 
+      "brand": "纳智捷", 
+      "serial": "大7_SUV#2013款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.061271898448467255, 
+      "idx": "860", 
+      "color": "银灰", 
+      "brand": "纳智捷", 
+      "serial": "大7_SUV#2014款", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 153.0, 
+    "x": 355.0, 
+    "height": 654.0, 
+    "width": 578.0
+  }
+}

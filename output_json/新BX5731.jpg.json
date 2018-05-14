@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6601449847221375, 
+      "idx": "43", 
+      "color": "银灰", 
+      "brand": "铃木", 
+      "serial": "浪迪", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.07998050004243851, 
+      "idx": "1495", 
+      "color": "银灰", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.058247100561857224, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.03444249927997589, 
+      "idx": "1495", 
+      "color": "银灰", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.02445160038769245, 
+      "idx": "1057", 
+      "color": "银灰", 
+      "brand": "广汽吉奥", 
+      "serial": "星旺", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 45.0, 
+    "x": 557.0, 
+    "height": 888.0, 
+    "width": 739.0
+  }
+}

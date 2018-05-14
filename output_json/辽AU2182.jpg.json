@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3020220100879669, 
+      "idx": "694", 
+      "color": "白", 
+      "brand": "MINI", 
+      "serial": "MINI_CLUBMAN#2011款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.20384399592876434, 
+      "idx": "338", 
+      "color": "白", 
+      "brand": "MINI", 
+      "serial": "MINI#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.15955199301242828, 
+      "idx": "338", 
+      "color": "白", 
+      "brand": "MINI", 
+      "serial": "MINI#2011款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.07782019674777985, 
+      "idx": "694", 
+      "color": "白", 
+      "brand": "MINI", 
+      "serial": "MINI_CLUBMAN#2008款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.07082659751176834, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "MINICLUBVAN", 
+      "serial": "MINI_CLUBVAN", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 167.0, 
+    "x": 635.0, 
+    "height": 725.0, 
+    "width": 583.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5196110010147095, 
+      "idx": "864", 
+      "color": "红", 
+      "brand": "现代", 
+      "serial": "悦动#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.15887199342250824, 
+      "idx": "864", 
+      "color": "红", 
+      "brand": "现代", 
+      "serial": "悦动#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06507139652967453, 
+      "idx": "752", 
+      "color": "红", 
+      "brand": "现代", 
+      "serial": "瑞纳#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.051017001271247864, 
+      "idx": "752", 
+      "color": "红", 
+      "brand": "现代", 
+      "serial": "瑞纳#2011款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.0456715002655983, 
+      "idx": "1164", 
+      "color": "红", 
+      "brand": "现代", 
+      "serial": "瑞奕", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 408.0, 
+    "x": 346.0, 
+    "height": 656.0, 
+    "width": 680.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9436129927635193, 
+      "idx": "992", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安之星#2013款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.02887669950723648, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安Star", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.00820211973041296, 
+      "idx": "843", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安之星2#2012款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.006803779862821102, 
+      "idx": "1485", 
+      "color": "银灰", 
+      "brand": "长安欧尚", 
+      "serial": "长安之星3", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.00175885995849967, 
+      "idx": "1526", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "星锐", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 357.0, 
+    "x": 637.0, 
+    "height": 650.0, 
+    "width": 444.0
+  }
+}

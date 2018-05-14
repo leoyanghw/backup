@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.23434799909591675, 
+      "idx": "42", 
+      "color": "银灰", 
+      "brand": "铃木", 
+      "serial": "北斗星#2005款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.14972500503063202, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.05822870135307312, 
+      "idx": "1495", 
+      "color": "银灰", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04863850027322769, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "长安轻型车", 
+      "serial": "神骐T20", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.0371830016374588, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "长安跨越", 
+      "serial": "新豹MINI", 
+      "type": "微卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 348.0, 
+    "x": 595.0, 
+    "height": 662.0, 
+    "width": 521.0
+  }
+}

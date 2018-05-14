@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.11033199727535248, 
+      "idx": "1496", 
+      "color": "银灰", 
+      "brand": "北汽幻速", 
+      "serial": "北汽幻速S6", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.07471740245819092, 
+      "idx": "561", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.06581629812717438, 
+      "idx": "1188", 
+      "color": "银灰", 
+      "brand": "东风小康", 
+      "serial": "东风小康K17", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.05406830087304115, 
+      "idx": "413", 
+      "color": "银灰", 
+      "brand": "郑州日产", 
+      "serial": "奥丁", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0497330017387867, 
+      "idx": "1140", 
+      "color": "银灰", 
+      "brand": "福汽启腾", 
+      "serial": "启腾M70", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 110.0, 
+    "x": 481.0, 
+    "height": 1026.0, 
+    "width": 913.0
+  }
+}

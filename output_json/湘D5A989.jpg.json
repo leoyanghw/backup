@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3622469902038574, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.2930069863796234, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.18189899623394012, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.04901620000600815, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2009款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.02504809945821762, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "本田(进口)", 
+      "serial": "雅阁(海外)", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 454.0, 
+    "x": 461.0, 
+    "height": 487.0, 
+    "width": 539.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3815689980983734, 
+      "idx": "523", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "汉兰达#2016款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.37665000557899475, 
+      "idx": "523", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "汉兰达#2012款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.08754149824380875, 
+      "idx": "523", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "汉兰达#2013款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.027381600812077522, 
+      "idx": "102", 
+      "color": "黑", 
+      "brand": "丰田(进口)", 
+      "serial": "汉兰达(进口)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.014757799915969372, 
+      "idx": "523", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "汉兰达#2009款", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 352.0, 
+    "x": 329.0, 
+    "height": 584.0, 
+    "width": 578.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.45651400089263916, 
+      "idx": "80", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "轩逸#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.19430500268936157, 
+      "idx": "80", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "轩逸#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.17710599303245544, 
+      "idx": "80", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "轩逸#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.13275200128555298, 
+      "idx": "80", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "轩逸#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.006934420205652714, 
+      "idx": "80", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "轩逸#2008款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 335.0, 
+    "x": 806.0, 
+    "height": 573.0, 
+    "width": 569.0
+  }
+}

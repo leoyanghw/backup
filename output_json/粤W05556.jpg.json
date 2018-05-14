@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.35051101446151733, 
+      "idx": "439", 
+      "color": "银灰", 
+      "brand": "东南", 
+      "serial": "得利卡", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.09527699649333954, 
+      "idx": "561", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.032816801220178604, 
+      "idx": "821", 
+      "color": "银灰", 
+      "brand": "东南", 
+      "serial": "希旺", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.024638399481773376, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.024187099188566208, 
+      "idx": "312", 
+      "color": "银灰", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯LX", 
+      "type": "大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 199.0, 
+    "x": 446.0, 
+    "height": 854.0, 
+    "width": 630.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.35505399107933044, 
+      "idx": "73", 
+      "color": "白", 
+      "brand": "东风风行", 
+      "serial": "菱智#2013款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.3337790071964264, 
+      "idx": "73", 
+      "color": "白", 
+      "brand": "东风风行", 
+      "serial": "菱智#2014款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07941939681768417, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "东风风行", 
+      "serial": "凌志", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07079020142555237, 
+      "idx": "73", 
+      "color": "白", 
+      "brand": "东风风行", 
+      "serial": "菱智#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03970339894294739, 
+      "idx": "73", 
+      "color": "白", 
+      "brand": "东风风行", 
+      "serial": "菱智#2008款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 237.0, 
+    "x": 686.0, 
+    "height": 610.0, 
+    "width": 496.0
+  }
+}

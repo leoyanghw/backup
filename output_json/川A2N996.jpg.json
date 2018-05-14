@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.45925500988960266, 
+      "idx": "983", 
+      "color": "银灰", 
+      "brand": "黄海", 
+      "serial": "大柴神", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.15918399393558502, 
+      "idx": "653", 
+      "color": "银灰", 
+      "brand": "黄海", 
+      "serial": "旗胜F1", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.06446459889411926, 
+      "idx": "366", 
+      "color": "银灰", 
+      "brand": "双龙", 
+      "serial": "享御", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.05728060007095337, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "曙光汽车", 
+      "serial": "旗胜CUV", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.05598520115017891, 
+      "idx": "242", 
+      "color": "银灰", 
+      "brand": "奔驰", 
+      "serial": "奔驰M级#2006款", 
+      "type": "SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 136.0, 
+    "x": 414.0, 
+    "height": 799.0, 
+    "width": 656.0
+  }
+}

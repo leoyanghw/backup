@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8421090245246887, 
+      "idx": "843", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安之星2#2009款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.11781100183725357, 
+      "idx": "843", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安之星2#2012款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.02403070032596588, 
+      "idx": "992", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安之星#2009款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.010242300108075142, 
+      "idx": "841", 
+      "color": "银灰", 
+      "brand": "长安欧尚", 
+      "serial": "长安之星S460", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.0010106599656865, 
+      "idx": "658", 
+      "color": "银灰", 
+      "brand": "昌河", 
+      "serial": "福瑞达", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 270.0, 
+    "x": 564.0, 
+    "height": 650.0, 
+    "width": 492.0
+  }
+}

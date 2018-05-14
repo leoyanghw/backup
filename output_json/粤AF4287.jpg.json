@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8932949900627136, 
+      "idx": "182", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0299856998026371, 
+      "idx": "967", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪RS4", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.025998100638389587, 
+      "idx": "214", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4(进口)#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.015320399776101112, 
+      "idx": "184", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2005款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.004111940041184425, 
+      "idx": "213", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A3(进口)#2009款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 372.0, 
+    "x": 568.0, 
+    "height": 512.0, 
+    "width": 498.0
+  }
+}

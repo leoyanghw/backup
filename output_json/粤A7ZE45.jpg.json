@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6858339905738831, 
+      "idx": "262", 
+      "color": "棕", 
+      "brand": "大众", 
+      "serial": "迈腾(进口)", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.07303410023450851, 
+      "idx": "188", 
+      "color": "棕", 
+      "brand": "大众", 
+      "serial": "迈腾#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.07126100361347198, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "沃尔沃(进口)", 
+      "serial": "Estate", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.04277760162949562, 
+      "idx": "188", 
+      "color": "棕", 
+      "brand": "大众", 
+      "serial": "迈腾#2015款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.041991401463747025, 
+      "idx": "188", 
+      "color": "棕", 
+      "brand": "大众", 
+      "serial": "迈腾#2013款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 443.0, 
+    "x": 466.0, 
+    "height": 517.0, 
+    "width": 514.0
+  }
+}

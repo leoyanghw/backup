@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.23841899633407593, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "经典帝豪#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.17719900608062744, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "沃尔沃", 
+      "serial": "Classic_Imperial_hatchback", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.16782300174236298, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "经典帝豪#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.09581799805164337, 
+      "idx": "1222", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "帝豪#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.08999460190534592, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "经典帝豪#2012款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 339.0, 
+    "x": 701.0, 
+    "height": 706.0, 
+    "width": 577.0
+  }
+}

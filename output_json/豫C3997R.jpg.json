@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9748160243034363, 
+      "idx": "565", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "兰德酷路泽", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.010073600336909294, 
+      "idx": "276", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "兰德酷路泽(进口)", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.004507990088313818, 
+      "idx": "1230", 
+      "color": "黑", 
+      "brand": "猎豹汽车", 
+      "serial": "猎豹Q6", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.0007098760106600821, 
+      "idx": "62", 
+      "color": "黑", 
+      "brand": "长城", 
+      "serial": "酷熊", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.0006773240165784955, 
+      "idx": "659", 
+      "color": "黑", 
+      "brand": "开瑞", 
+      "serial": "优优", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 349.0, 
+    "x": 662.0, 
+    "height": 552.0, 
+    "width": 584.0
+  }
+}

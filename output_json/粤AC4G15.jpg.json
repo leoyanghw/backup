@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9713690280914307, 
+      "idx": "538", 
+      "color": "绿", 
+      "brand": "现代", 
+      "serial": "名驭", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0049245101399719715, 
+      "idx": "36", 
+      "color": "绿", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.002188360085710883, 
+      "idx": "483", 
+      "color": "绿", 
+      "brand": "众泰", 
+      "serial": "众泰5008", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.0017449900042265654, 
+      "idx": "955", 
+      "color": "绿", 
+      "brand": "长安", 
+      "serial": "长安CS35#2016款", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.001441929955035448, 
+      "idx": "1427", 
+      "color": "绿", 
+      "brand": "现代", 
+      "serial": "索纳塔九#2009款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 497.0, 
+    "x": 686.0, 
+    "height": 490.0, 
+    "width": 494.0
+  }
+}

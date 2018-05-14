@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7030079960823059, 
+      "idx": "1239", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "蒙迪欧-致胜#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.13694199919700623, 
+      "idx": "1239", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "蒙迪欧-致胜#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.055070601403713226, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "福特(进口)", 
+      "serial": "蒙迪欧(海外)", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0520859993994236, 
+      "idx": "1239", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "蒙迪欧-致胜#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.020110299810767174, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "致胜", 
+      "serial": "Mendeo_Zhisheng", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 478.0, 
+    "x": 675.0, 
+    "height": 517.0, 
+    "width": 509.0
+  }
+}

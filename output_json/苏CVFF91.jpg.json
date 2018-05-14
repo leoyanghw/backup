@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7191140055656433, 
+      "idx": "180", 
+      "color": "银灰", 
+      "brand": "雪佛兰", 
+      "serial": "乐风#2009款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.19134299457073212, 
+      "idx": "180", 
+      "color": "银灰", 
+      "brand": "雪佛兰", 
+      "serial": "乐风#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.04627479985356331, 
+      "idx": "180", 
+      "color": "银灰", 
+      "brand": "雪佛兰", 
+      "serial": "乐风#2008款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.018564900383353233, 
+      "idx": "401", 
+      "color": "银灰", 
+      "brand": "雪佛兰(进口)", 
+      "serial": "科帕奇(进口)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.014240399934351444, 
+      "idx": "180", 
+      "color": "银灰", 
+      "brand": "雪佛兰", 
+      "serial": "乐风#2006款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 349.0, 
+    "x": 701.0, 
+    "height": 677.0, 
+    "width": 548.0
+  }
+}

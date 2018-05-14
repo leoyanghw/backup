@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8366230130195618, 
+      "idx": "1123", 
+      "color": "银灰", 
+      "brand": "力帆", 
+      "serial": "丰顺", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.035561900585889816, 
+      "idx": "731", 
+      "color": "银灰", 
+      "brand": "开瑞", 
+      "serial": "优胜2代", 
+      "type": "面包车"
+    }, 
+    {
+      "confidence": 0.02288920059800148, 
+      "idx": "152", 
+      "color": "银灰", 
+      "brand": "开瑞", 
+      "serial": "优雅", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.01638459973037243, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "菲亚特(进口)", 
+      "serial": "多宝", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.007680200040340424, 
+      "idx": "815", 
+      "color": "银灰", 
+      "brand": "哈飞", 
+      "serial": "路尊大霸王", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 430.0, 
+    "x": 788.0, 
+    "height": 649.0, 
+    "width": 433.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2626970112323761, 
+      "idx": "1255", 
+      "color": "红", 
+      "brand": "长安", 
+      "serial": "悦翔V7#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.2442760020494461, 
+      "idx": "1255", 
+      "color": "红", 
+      "brand": "长安", 
+      "serial": "悦翔V7#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1793220043182373, 
+      "idx": "517", 
+      "color": "红", 
+      "brand": "长安汽车", 
+      "serial": "悦翔#2009款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.1722950041294098, 
+      "idx": "517", 
+      "color": "红", 
+      "brand": "长安汽车", 
+      "serial": "悦翔#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.08803480118513107, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "欧宝", 
+      "serial": "欧宝Corsa", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 336.0, 
+    "x": 399.0, 
+    "height": 593.0, 
+    "width": 584.0
+  }
+}

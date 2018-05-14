@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8534979820251465, 
+      "idx": "347", 
+      "color": "白", 
+      "brand": "起亚", 
+      "serial": "索兰托#2013款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.12311600148677826, 
+      "idx": "347", 
+      "color": "白", 
+      "brand": "起亚", 
+      "serial": "索兰托#2014款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.009951540268957615, 
+      "idx": "347", 
+      "color": "白", 
+      "brand": "起亚", 
+      "serial": "索兰托#2016款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.005820040125399828, 
+      "idx": "347", 
+      "color": "白", 
+      "brand": "起亚", 
+      "serial": "索兰托#2012款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.0034062799531966448, 
+      "idx": "347", 
+      "color": "白", 
+      "brand": "起亚", 
+      "serial": "索兰托#2010款", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 259.0, 
+    "x": 735.0, 
+    "height": 642.0, 
+    "width": 576.0
+  }
+}

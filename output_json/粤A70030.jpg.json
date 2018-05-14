@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2962130010128021, 
+      "idx": "217", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A8#2011款", 
+      "type": "豪华车"
+    }, 
+    {
+      "confidence": 0.15769200026988983, 
+      "idx": "217", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A8#2013款", 
+      "type": "豪华车"
+    }, 
+    {
+      "confidence": 0.12651699781417847, 
+      "idx": "217", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A8#2016款", 
+      "type": "豪华车"
+    }, 
+    {
+      "confidence": 0.09242810308933258, 
+      "idx": "217", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A8#2012款", 
+      "type": "豪华车"
+    }, 
+    {
+      "confidence": 0.06347700208425522, 
+      "idx": "971", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪S8", 
+      "type": "大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 442.0, 
+    "x": 717.0, 
+    "height": 573.0, 
+    "width": 594.0
+  }
+}

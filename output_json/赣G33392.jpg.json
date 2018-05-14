@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.19591300189495087, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09401710331439972, 
+      "idx": "1337", 
+      "color": "白", 
+      "brand": "GMC", 
+      "serial": "SAVANA", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07116740196943283, 
+      "idx": "42", 
+      "color": "白", 
+      "brand": "铃木", 
+      "serial": "北斗星#2012款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.056488998234272, 
+      "idx": "42", 
+      "color": "白", 
+      "brand": "铃木", 
+      "serial": "北斗星#2016款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.04951610043644905, 
+      "idx": "762", 
+      "color": "白", 
+      "brand": "北汽制造", 
+      "serial": "勇士", 
+      "type": "SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 29.0, 
+    "x": 107.0, 
+    "height": 804.0, 
+    "width": 1013.0
+  }
+}

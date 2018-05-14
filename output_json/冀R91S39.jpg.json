@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6865969896316528, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "Xterra", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.11716900020837784, 
+      "idx": "77", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "帕拉丁", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.05279500037431717, 
+      "idx": "65", 
+      "color": "银灰", 
+      "brand": "长城", 
+      "serial": "赛影", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.04420429840683937, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "福特(进口)", 
+      "serial": "Kuga", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.008807029575109482, 
+      "idx": "425", 
+      "color": "银灰", 
+      "brand": "三菱", 
+      "serial": "帕杰罗(进口)#2008款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 197.0, 
+    "x": 368.0, 
+    "height": 834.0, 
+    "width": 691.0
+  }
+}

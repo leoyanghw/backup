@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3641979992389679, 
+      "idx": "191", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "花冠#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.3579150140285492, 
+      "idx": "191", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "花冠#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.07211960107088089, 
+      "idx": "92", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "赛拉图", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.029810400679707527, 
+      "idx": "191", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "花冠#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.019684599712491035, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 338.0, 
+    "x": 557.0, 
+    "height": 539.0, 
+    "width": 526.0
+  }
+}

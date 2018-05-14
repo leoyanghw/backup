@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8062019944190979, 
+      "idx": "191", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "花冠#2004款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.053974200040102005, 
+      "idx": "37", 
+      "color": "白", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F3#2005款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.02540690079331398, 
+      "idx": "191", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "花冠#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.024429699406027794, 
+      "idx": "37", 
+      "color": "白", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F3#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.009930009953677654, 
+      "idx": "191", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "花冠#2007款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 330.0, 
+    "x": 613.0, 
+    "height": 744.0, 
+    "width": 701.0
+  }
+}

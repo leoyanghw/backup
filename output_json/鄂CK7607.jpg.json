@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6213750243186951, 
+      "idx": "707", 
+      "color": "银灰", 
+      "brand": "哈弗", 
+      "serial": "哈弗H6#2011款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.293938010931015, 
+      "idx": "707", 
+      "color": "银灰", 
+      "brand": "哈弗", 
+      "serial": "哈弗H6#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0664966031908989, 
+      "idx": "707", 
+      "color": "银灰", 
+      "brand": "哈弗", 
+      "serial": "哈弗H6#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.008817249909043312, 
+      "idx": "707", 
+      "color": "银灰", 
+      "brand": "哈弗", 
+      "serial": "哈弗H6#2013款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0005739419721066952, 
+      "idx": "708", 
+      "color": "银灰", 
+      "brand": "长城", 
+      "serial": "长城M2#2016款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 222.0, 
+    "x": 739.0, 
+    "height": 644.0, 
+    "width": 573.0
+  }
+}

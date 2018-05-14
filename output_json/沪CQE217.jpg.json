@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5239250063896179, 
+      "idx": "864", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "悦动#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.22484099864959717, 
+      "idx": "864", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "悦动#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0587117001414299, 
+      "idx": "831", 
+      "color": "黑", 
+      "brand": "现代(进口)", 
+      "serial": "现代i40", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.024810999631881714, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "现代(进口)", 
+      "serial": "现代i30(海外)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.014431999996304512, 
+      "idx": "864", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "悦动#2016款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 478.0, 
+    "x": 656.0, 
+    "height": 500.0, 
+    "width": 485.0
+  }
+}

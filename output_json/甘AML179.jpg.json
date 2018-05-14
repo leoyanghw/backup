@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8763570189476013, 
+      "idx": "35", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "雅绅特", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.031804800033569336, 
+      "idx": "555", 
+      "color": "银灰", 
+      "brand": "威麟", 
+      "serial": "威麟V5", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.00789743009954691, 
+      "idx": "349", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "佳乐#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.004812949802726507, 
+      "idx": "349", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "佳乐#2007款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.004428809974342585, 
+      "idx": "147", 
+      "color": "银灰", 
+      "brand": "奇瑞", 
+      "serial": "东方之子Cross", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 368.0, 
+    "x": 656.0, 
+    "height": 522.0, 
+    "width": 496.0
+  }
+}

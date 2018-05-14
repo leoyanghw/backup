@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7679939866065979, 
+      "idx": "162", 
+      "color": "黑", 
+      "brand": "荣威", 
+      "serial": "荣威750", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0562404990196228, 
+      "idx": "693", 
+      "color": "黑", 
+      "brand": "劳斯莱斯", 
+      "serial": "古思特", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.054604798555374146, 
+      "idx": "540", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "英伦TX4", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.052861299365758896, 
+      "idx": "216", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6(进口)", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.01636200025677681, 
+      "idx": "306", 
+      "color": "黑", 
+      "brand": "劳斯莱斯", 
+      "serial": "幻影", 
+      "type": "大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 434.0, 
+    "x": 727.0, 
+    "height": 649.0, 
+    "width": 646.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7226889729499817, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "Verso", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.14578600227832794, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "丰田(进口)", 
+      "serial": "YARiS(海外)", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.05519210174679756, 
+      "idx": "594", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "逸致#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.013142700307071209, 
+      "idx": "594", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "逸致#2012款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.011395599693059921, 
+      "idx": "594", 
+      "color": "银灰", 
+      "brand": "丰田", 
+      "serial": "逸致#2014款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 381.0, 
+    "x": 448.0, 
+    "height": 593.0, 
+    "width": 548.0
+  }
+}

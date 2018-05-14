@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5187000036239624, 
+      "idx": "1031", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马5系GT#2010款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.15187199413776398, 
+      "idx": "1031", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马5系GT#2011款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.14707300066947937, 
+      "idx": "1031", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马5系GT#2014款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.08401010185480118, 
+      "idx": "1031", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马5系GT#2013款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.05922849848866463, 
+      "idx": "1031", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马5系GT#2016款", 
+      "type": "中大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 331.0, 
+    "x": 630.0, 
+    "height": 550.0, 
+    "width": 530.0
+  }
+}

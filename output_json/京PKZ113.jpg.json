@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3749690055847168, 
+      "idx": "408", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "逍客#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.20370300114154816, 
+      "idx": "408", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "逍客#2008款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.15959300100803375, 
+      "idx": "408", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "逍客#2011款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.08675450086593628, 
+      "idx": "408", 
+      "color": "红", 
+      "brand": "日产", 
+      "serial": "逍客#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.08550140261650085, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "日产(进口)", 
+      "serial": "逍客(海外)", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 406.0, 
+    "x": 571.0, 
+    "height": 572.0, 
+    "width": 559.0
+  }
+}

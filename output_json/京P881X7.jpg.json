@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.39929699897766113, 
+      "idx": "159", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "途安#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.05926689878106117, 
+      "idx": "474", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "朗逸#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03925209864974022, 
+      "idx": "72", 
+      "color": "黑", 
+      "brand": "东风风行", 
+      "serial": "景逸#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.030674200505018234, 
+      "idx": "484", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "宝来#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.027194000780582428, 
+      "idx": "474", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "朗逸#2010款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 226.0, 
+    "x": 181.0, 
+    "height": 740.0, 
+    "width": 740.0
+  }
+}

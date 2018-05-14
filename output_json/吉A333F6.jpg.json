@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.33016398549079895, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "大众(进口)", 
+      "serial": "途安(海外)", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.2961379885673523, 
+      "idx": "484", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "宝来#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.14176300168037415, 
+      "idx": "484", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "宝来#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05047209933400154, 
+      "idx": "484", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "宝来#2014款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03576060011982918, 
+      "idx": "262", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "迈腾(进口)", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 482.0, 
+    "x": 671.0, 
+    "height": 627.0, 
+    "width": 542.0
+  }
+}

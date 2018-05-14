@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.16443200409412384, 
+      "idx": "998", 
+      "color": "黑", 
+      "brand": "凯迪拉克", 
+      "serial": "凯迪拉克XTS#2013款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.11749199777841568, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "凯迪拉克(进口)", 
+      "serial": "凯迪拉克XTS(海外)", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.08399669826030731, 
+      "idx": "801", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达8", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.046163201332092285, 
+      "idx": "342", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "赛飞利", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.041132498532533646, 
+      "idx": "388", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "雅科仕", 
+      "type": "大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 365.0, 
+    "x": 694.0, 
+    "height": 517.0, 
+    "width": 521.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5478429794311523, 
+      "idx": "246", 
+      "color": "白", 
+      "brand": "奔驰", 
+      "serial": "奔驰S级#2010款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.15563799440860748, 
+      "idx": "246", 
+      "color": "白", 
+      "brand": "奔驰", 
+      "serial": "奔驰S级#2012款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.11188600212335587, 
+      "idx": "246", 
+      "color": "白", 
+      "brand": "奔驰", 
+      "serial": "奔驰S级#2016款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.031148500740528107, 
+      "idx": "246", 
+      "color": "白", 
+      "brand": "奔驰", 
+      "serial": "奔驰S级#2011款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.020002299919724464, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "别克", 
+      "serial": "Buick_GL8_Business", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 407.0, 
+    "x": 0.0, 
+    "height": 706.0, 
+    "width": 697.0
+  }
+}

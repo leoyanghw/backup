@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8771970272064209, 
+      "idx": "693", 
+      "color": "银灰", 
+      "brand": "劳斯莱斯", 
+      "serial": "古思特", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.09302040189504623, 
+      "idx": "306", 
+      "color": "银灰", 
+      "brand": "劳斯莱斯", 
+      "serial": "幻影", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.006427680142223835, 
+      "idx": "1139", 
+      "color": "银灰", 
+      "brand": "劳斯莱斯", 
+      "serial": "魅影", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.002815880114212632, 
+      "idx": "217", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A8#2009款", 
+      "type": "豪华车"
+    }, 
+    {
+      "confidence": 0.002277249936014414, 
+      "idx": "217", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A8#2014款", 
+      "type": "豪华车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 412.0, 
+    "x": 513.0, 
+    "height": 546.0, 
+    "width": 549.0
+  }
+}

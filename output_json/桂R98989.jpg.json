@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.42964300513267517, 
+      "idx": "241", 
+      "color": "橙", 
+      "brand": "奔驰", 
+      "serial": "奔驰G级", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.09897749871015549, 
+      "idx": "1041", 
+      "color": "橙", 
+      "brand": "铃木", 
+      "serial": "北斗星X5", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.058953799307346344, 
+      "idx": "42", 
+      "color": "橙", 
+      "brand": "铃木", 
+      "serial": "北斗星#2013款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.0562267005443573, 
+      "idx": "913", 
+      "color": "橙", 
+      "brand": "奔驰", 
+      "serial": "奔驰G级AMG", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.04950829967856407, 
+      "idx": "42", 
+      "color": "橙", 
+      "brand": "铃木", 
+      "serial": "北斗星#2011款", 
+      "type": "微型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 15.0, 
+    "x": 378.0, 
+    "height": 881.0, 
+    "width": 801.0
+  }
+}

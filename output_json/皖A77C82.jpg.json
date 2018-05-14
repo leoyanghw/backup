@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9832680225372314, 
+      "idx": "133", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "瑞风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.00330938003025949, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2010款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0026084301061928272, 
+      "idx": "385", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "美佳", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0008945789886638522, 
+      "idx": "1011", 
+      "color": "银灰", 
+      "brand": "福田", 
+      "serial": "风景", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0008252830011770129, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "凌志", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 271.0, 
+    "x": 375.0, 
+    "height": 662.0, 
+    "width": 565.0
+  }
+}

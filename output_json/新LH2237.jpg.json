@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6316230297088623, 
+      "idx": "733", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q5#2013款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.15572400391101837, 
+      "idx": "462", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q5(进口)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.148935005068779, 
+      "idx": "733", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q5#2015款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.0300051998347044, 
+      "idx": "733", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q5#2016款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.02814829908311367, 
+      "idx": "733", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q5#2017款", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 417.0, 
+    "x": 571.0, 
+    "height": 534.0, 
+    "width": 560.0
+  }
+}

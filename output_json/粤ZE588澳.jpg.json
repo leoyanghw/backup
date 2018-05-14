@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8868889808654785, 
+      "idx": "795", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "埃尔法", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.02790069952607155, 
+      "idx": "719", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "瑞风M5", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.01441929955035448, 
+      "idx": "1136", 
+      "color": "黑", 
+      "brand": "广汽吉奥", 
+      "serial": "星朗", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0068886298686265945, 
+      "idx": "199", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "威驰#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.006378599908202887, 
+      "idx": "1355", 
+      "color": "黑", 
+      "brand": "一汽", 
+      "serial": "佳宝V80", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 233.0, 
+    "x": 460.0, 
+    "height": 656.0, 
+    "width": 592.0
+  }
+}

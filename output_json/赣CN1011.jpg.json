@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.35650700330734253, 
+      "idx": "1057", 
+      "color": "蓝", 
+      "brand": "广汽吉奥", 
+      "serial": "星旺", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.09332030266523361, 
+      "idx": "-1", 
+      "color": "蓝", 
+      "brand": "长安轻型车", 
+      "serial": "神骐T20", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.04979259893298149, 
+      "idx": "439", 
+      "color": "蓝", 
+      "brand": "东南", 
+      "serial": "得利卡", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.045138999819755554, 
+      "idx": "659", 
+      "color": "蓝", 
+      "brand": "开瑞", 
+      "serial": "优优", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.04503900185227394, 
+      "idx": "518", 
+      "color": "蓝", 
+      "brand": "开瑞", 
+      "serial": "优派", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 52.0, 
+    "x": 434.0, 
+    "height": 824.0, 
+    "width": 910.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.13002200424671173, 
+      "idx": "115", 
+      "color": "黑", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2014款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.11532799899578094, 
+      "idx": "60", 
+      "color": "黑", 
+      "brand": "长城", 
+      "serial": "长城V80", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.09117329865694046, 
+      "idx": "980", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "艾力绅", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.076869897544384, 
+      "idx": "795", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "埃尔法", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07004620134830475, 
+      "idx": "1039", 
+      "color": "黑", 
+      "brand": "东风风行", 
+      "serial": "风行CM7", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 322.0, 
+    "x": 551.0, 
+    "height": 663.0, 
+    "width": 567.0
+  }
+}

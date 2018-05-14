@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2657890021800995, 
+      "idx": "1424", 
+      "color": "红", 
+      "brand": "东风小康", 
+      "serial": "东风小康K07S", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.07615890353918076, 
+      "idx": "1340", 
+      "color": "红", 
+      "brand": "东风", 
+      "serial": "俊风CV03", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.05955290049314499, 
+      "idx": "1374", 
+      "color": "红", 
+      "brand": "东风小康", 
+      "serial": "东风小康K01", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.036306701600551605, 
+      "idx": "1473", 
+      "color": "红", 
+      "brand": "福田", 
+      "serial": "图雅诺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.021928200498223305, 
+      "idx": "1565", 
+      "color": "红", 
+      "brand": "东风风神", 
+      "serial": "东风风神AX3", 
+      "type": "小型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 19.0, 
+    "x": 296.0, 
+    "height": 843.0, 
+    "width": 1090.0
+  }
+}

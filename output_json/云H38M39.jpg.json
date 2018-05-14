@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5202059745788574, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "马自达(进口)", 
+      "serial": "马自达6(进口)", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.10750800371170044, 
+      "idx": "186", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "捷达#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.07668489962816238, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "萨博", 
+      "serial": "Saab_9000", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.06461279839277267, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "丰田(进口)", 
+      "serial": "卡罗拉(海外)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.02333950065076351, 
+      "idx": "97", 
+      "color": "银灰", 
+      "brand": "东南", 
+      "serial": "菱帅", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 227.0, 
+    "x": 563.0, 
+    "height": 589.0, 
+    "width": 541.0
+  }
+}

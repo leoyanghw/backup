@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.690667986869812, 
+      "idx": "517", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "悦翔#2009款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.1633010059595108, 
+      "idx": "517", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "悦翔#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.06031230092048645, 
+      "idx": "1255", 
+      "color": "银灰", 
+      "brand": "长安", 
+      "serial": "悦翔V7#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05421319976449013, 
+      "idx": "1255", 
+      "color": "银灰", 
+      "brand": "长安", 
+      "serial": "悦翔V7#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.003464610083028674, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "一汽海马", 
+      "serial": "骑士", 
+      "type": "SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 425.0, 
+    "x": 639.0, 
+    "height": 638.0, 
+    "width": 526.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9594079852104187, 
+      "idx": "843", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安之星2#2012款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.01450789999216795, 
+      "idx": "843", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安之星2#2009款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.010437999852001667, 
+      "idx": "921", 
+      "color": "银灰", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.003996870014816523, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "长安汽车", 
+      "serial": "长安Star", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.0027978799771517515, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 77.0, 
+    "x": 277.0, 
+    "height": 1025.0, 
+    "width": 690.0
+  }
+}

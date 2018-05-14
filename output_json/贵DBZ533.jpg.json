@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5792909860610962, 
+      "idx": "753", 
+      "color": "棕", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2014款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.28707098960876465, 
+      "idx": "753", 
+      "color": "棕", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2013款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.05861309915781021, 
+      "idx": "753", 
+      "color": "棕", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2016款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.03070800006389618, 
+      "idx": "753", 
+      "color": "棕", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2015款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.022400200366973877, 
+      "idx": "753", 
+      "color": "棕", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2010款", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 330.0, 
+    "x": 550.0, 
+    "height": 521.0, 
+    "width": 450.0
+  }
+}

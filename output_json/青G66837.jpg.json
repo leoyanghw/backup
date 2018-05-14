@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6823679804801941, 
+      "idx": "227", 
+      "color": "白", 
+      "brand": "宝马", 
+      "serial": "宝马X5#2014款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.09483739733695984, 
+      "idx": "227", 
+      "color": "白", 
+      "brand": "宝马", 
+      "serial": "宝马X5#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.0828901007771492, 
+      "idx": "1791", 
+      "color": "白", 
+      "brand": "宝马", 
+      "serial": "宝马X5新能源", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.03337699919939041, 
+      "idx": "226", 
+      "color": "白", 
+      "brand": "宝马", 
+      "serial": "宝马X3#2014款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.023126499727368355, 
+      "idx": "227", 
+      "color": "白", 
+      "brand": "宝马", 
+      "serial": "宝马X5#2015款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 342.0, 
+    "x": 530.0, 
+    "height": 608.0, 
+    "width": 580.0
+  }
+}

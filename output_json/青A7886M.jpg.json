@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4083999991416931, 
+      "idx": "496", 
+      "color": "红", 
+      "brand": "雪佛兰", 
+      "serial": "科鲁兹#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.3466300070285797, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "上汽通用雪佛兰", 
+      "serial": "科鲁兹(海外)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.09405360370874405, 
+      "idx": "496", 
+      "color": "红", 
+      "brand": "雪佛兰", 
+      "serial": "科鲁兹#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06738889962434769, 
+      "idx": "496", 
+      "color": "红", 
+      "brand": "雪佛兰", 
+      "serial": "科鲁兹#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.044916100800037384, 
+      "idx": "496", 
+      "color": "红", 
+      "brand": "雪佛兰", 
+      "serial": "科鲁兹#2012款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 474.0, 
+    "x": 490.0, 
+    "height": 477.0, 
+    "width": 478.0
+  }
+}

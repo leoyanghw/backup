@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5039470195770264, 
+      "idx": "1170", 
+      "color": "白", 
+      "brand": "现代", 
+      "serial": "全新胜达(进口)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.1495629996061325, 
+      "idx": "1021", 
+      "color": "白", 
+      "brand": "现代", 
+      "serial": "全新胜达#2016款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.12244900315999985, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "现代(进口)", 
+      "serial": "新胜达(进口)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.09241510182619095, 
+      "idx": "1021", 
+      "color": "白", 
+      "brand": "现代", 
+      "serial": "全新胜达#2013款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.078507199883461, 
+      "idx": "124", 
+      "color": "白", 
+      "brand": "华泰", 
+      "serial": "圣达菲经典#2013款", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 286.0, 
+    "x": 529.0, 
+    "height": 584.0, 
+    "width": 582.0
+  }
+}

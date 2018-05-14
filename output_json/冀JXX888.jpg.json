@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6627179980278015, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "英菲尼迪(进口)", 
+      "serial": "英菲尼迪QX", 
+      "type": "大型SUV"
+    }, 
+    {
+      "confidence": 0.28457000851631165, 
+      "idx": "397", 
+      "color": "白", 
+      "brand": "英菲尼迪", 
+      "serial": "英菲尼迪QX80", 
+      "type": "大型SUV"
+    }, 
+    {
+      "confidence": 0.009994709864258766, 
+      "idx": "356", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "途乐", 
+      "type": "大型SUV"
+    }, 
+    {
+      "confidence": 0.00933965016156435, 
+      "idx": "1203", 
+      "color": "白", 
+      "brand": "英菲尼迪", 
+      "serial": "英菲尼迪QX60", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.0024397599045187235, 
+      "idx": "309", 
+      "color": "白", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯GX", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 101.0, 
+    "x": 335.0, 
+    "height": 826.0, 
+    "width": 712.0
+  }
+}

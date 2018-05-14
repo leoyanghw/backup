@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.14302299916744232, 
+      "idx": "1038", 
+      "color": "白", 
+      "brand": "郑州日产", 
+      "serial": "日产D22皮卡", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.1087149977684021, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "福田汽车", 
+      "serial": "风景G9", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.08331579715013504, 
+      "idx": "1056", 
+      "color": "白", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0649401992559433, 
+      "idx": "1038", 
+      "color": "白", 
+      "brand": "郑州日产", 
+      "serial": "日产D22", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.050992101430892944, 
+      "idx": "1173", 
+      "color": "白", 
+      "brand": "福田", 
+      "serial": "蒙派克S", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 256.0, 
+    "x": 786.0, 
+    "height": 638.0, 
+    "width": 463.0
+  }
+}

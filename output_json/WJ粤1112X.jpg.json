@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.22662900388240814, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "进口本田", 
+      "serial": "本田CR-V(进口)", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.13787099719047546, 
+      "idx": "68", 
+      "color": "白", 
+      "brand": "本田", 
+      "serial": "本田CR-V#2007款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11209499835968018, 
+      "idx": "68", 
+      "color": "白", 
+      "brand": "本田", 
+      "serial": "本田CR-V#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.09736999869346619, 
+      "idx": "68", 
+      "color": "白", 
+      "brand": "本田", 
+      "serial": "本田CR-V#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.04300960153341293, 
+      "idx": "1707", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "全顺", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 281.0, 
+    "x": 567.0, 
+    "height": 750.0, 
+    "width": 653.0
+  }
+}

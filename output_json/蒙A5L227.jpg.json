@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5896260142326355, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.07860209792852402, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "欧宝GT", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.03035919927060604, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.019173000007867813, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "雷诺(进口)", 
+      "serial": "Clio", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.017528299242258072, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "欧宝Corsa", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 456.0, 
+    "x": 574.0, 
+    "height": 501.0, 
+    "width": 531.0
+  }
+}

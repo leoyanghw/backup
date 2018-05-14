@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3487280011177063, 
+      "idx": "98", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "奥德赛#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.25013700127601624, 
+      "idx": "501", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "锋范#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.15042999386787415, 
+      "idx": "501", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "锋范#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.08413080126047134, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "广汽本田", 
+      "serial": "锋范经典#2012款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.06137219816446304, 
+      "idx": "501", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "锋范#2009款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 328.0, 
+    "x": 528.0, 
+    "height": 613.0, 
+    "width": 563.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2880690097808838, 
+      "idx": "1023", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.2698279917240143, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.048930298537015915, 
+      "idx": "1337", 
+      "color": "银灰", 
+      "brand": "GMC", 
+      "serial": "SAVANA", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.022565599530935287, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2018款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.01744070090353489, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2012款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 69.0, 
+    "x": 439.0, 
+    "height": 873.0, 
+    "width": 665.0
+  }
+}

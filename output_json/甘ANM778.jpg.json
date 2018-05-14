@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.355334997177124, 
+      "idx": "559", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "海景#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.3062170147895813, 
+      "idx": "559", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "海景#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.12507200241088867, 
+      "idx": "559", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "海景#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11825700104236603, 
+      "idx": "559", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "海景#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0319502018392086, 
+      "idx": "559", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "海景#2013款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 508.0, 
+    "x": 487.0, 
+    "height": 584.0, 
+    "width": 550.0
+  }
+}

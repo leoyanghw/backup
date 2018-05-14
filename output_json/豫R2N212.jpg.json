@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4484870135784149, 
+      "idx": "767", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "英朗#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.24877700209617615, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "别克(进口)", 
+      "serial": "VERANO(海外)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11585500091314316, 
+      "idx": "767", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "英朗#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.085520900785923, 
+      "idx": "767", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "英朗#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06340490281581879, 
+      "idx": "767", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "英朗#2011款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 466.0, 
+    "x": 357.0, 
+    "height": 527.0, 
+    "width": 526.0
+  }
+}

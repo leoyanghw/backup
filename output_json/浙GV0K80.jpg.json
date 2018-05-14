@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5908920168876648, 
+      "idx": "299", 
+      "color": "黑", 
+      "brand": "克莱斯勒", 
+      "serial": "克莱斯勒300C(进口)#2006款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.2869740128517151, 
+      "idx": "299", 
+      "color": "黑", 
+      "brand": "克莱斯勒", 
+      "serial": "克莱斯勒300C(进口)#2004款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.03315240144729614, 
+      "idx": "299", 
+      "color": "黑", 
+      "brand": "克莱斯勒", 
+      "serial": "克莱斯勒300C(进口)#2012款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.016268400475382805, 
+      "idx": "322", 
+      "color": "黑", 
+      "brand": "林肯", 
+      "serial": "领航员", 
+      "type": "大型SUV"
+    }, 
+    {
+      "confidence": 0.0076079899445176125, 
+      "idx": "300", 
+      "color": "黑", 
+      "brand": "克莱斯勒", 
+      "serial": "PT漫步者", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 362.0, 
+    "x": 705.0, 
+    "height": 516.0, 
+    "width": 542.0
+  }
+}

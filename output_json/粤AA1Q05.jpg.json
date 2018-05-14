@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2955630123615265, 
+      "idx": "484", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "宝来#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.2882100045681, 
+      "idx": "484", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "宝来#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.14708800613880157, 
+      "idx": "484", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "宝来#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11697600036859512, 
+      "idx": "484", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "宝来#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06094909831881523, 
+      "idx": "159", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "途安#2008款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 532.0, 
+    "x": 737.0, 
+    "height": 492.0, 
+    "width": 501.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.872750997543335, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.09152469784021378, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.005701419897377491, 
+      "idx": "1148", 
+      "color": "黑", 
+      "brand": "巴博斯", 
+      "serial": "巴博斯_SLK级", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.005067309830337763, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "欧宝GT", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.002370449947193265, 
+      "idx": "100", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "思迪", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 554.0, 
+    "x": 749.0, 
+    "height": 458.0, 
+    "width": 521.0
+  }
+}

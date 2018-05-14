@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9691799879074097, 
+      "idx": "538", 
+      "color": "绿", 
+      "brand": "现代", 
+      "serial": "名驭", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.013500800356268883, 
+      "idx": "36", 
+      "color": "绿", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.003641050076112151, 
+      "idx": "483", 
+      "color": "绿", 
+      "brand": "众泰", 
+      "serial": "众泰5008", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.0010467700194567442, 
+      "idx": "1096", 
+      "color": "绿", 
+      "brand": "奇瑞", 
+      "serial": "瑞虎5#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0005282249767333269, 
+      "idx": "506", 
+      "color": "绿", 
+      "brand": "猎豹汽车", 
+      "serial": "飞腾", 
+      "type": "SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 457.0, 
+    "x": 615.0, 
+    "height": 486.0, 
+    "width": 486.0
+  }
+}

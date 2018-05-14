@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.1645829975605011, 
+      "idx": "843", 
+      "color": "白", 
+      "brand": "长安汽车", 
+      "serial": "长安之星2#2012款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.1058410033583641, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.10566700249910355, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "长安轻型车", 
+      "serial": "神骐T20", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.05598210170865059, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.03314239904284477, 
+      "idx": "843", 
+      "color": "白", 
+      "brand": "长安汽车", 
+      "serial": "长安之星2#2009款", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 37.0, 
+    "x": 216.0, 
+    "height": 836.0, 
+    "width": 739.0
+  }
+}

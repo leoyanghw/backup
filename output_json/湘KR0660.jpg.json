@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6453679800033569, 
+      "idx": "103", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "凯美瑞#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.22157900035381317, 
+      "idx": "103", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "凯美瑞#2009款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.05235010012984276, 
+      "idx": "103", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "凯美瑞#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.03120099939405918, 
+      "idx": "103", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "凯美瑞#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.012471900321543217, 
+      "idx": "103", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "凯美瑞#2008款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 500.0, 
+    "x": 709.0, 
+    "height": 482.0, 
+    "width": 550.0
+  }
+}

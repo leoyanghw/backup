@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5271090269088745, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.05590840056538582, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2013款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.053206801414489746, 
+      "idx": "982", 
+      "color": "银灰", 
+      "brand": "东风", 
+      "serial": "御风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04645859822630882, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯得意", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0458454005420208, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2008款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 3.0, 
+    "x": 233.0, 
+    "height": 942.0, 
+    "width": 686.0
+  }
+}

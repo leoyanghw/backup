@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.475926011800766, 
+      "idx": "367", 
+      "color": "红", 
+      "brand": "双龙", 
+      "serial": "主席", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.11238399893045425, 
+      "idx": "306", 
+      "color": "红", 
+      "brand": "劳斯莱斯", 
+      "serial": "幻影", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.09999530017375946, 
+      "idx": "299", 
+      "color": "红", 
+      "brand": "克莱斯勒", 
+      "serial": "克莱斯勒300C(进口)#2016款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.08860520273447037, 
+      "idx": "364", 
+      "color": "红", 
+      "brand": "双龙", 
+      "serial": "雷斯特", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.037280600517988205, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "道奇(进口)", 
+      "serial": "Rampage", 
+      "type": "皮卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 44.0, 
+    "x": 333.0, 
+    "height": 1036.0, 
+    "width": 946.0
+  }
+}

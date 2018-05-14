@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.35880500078201294, 
+      "idx": "509", 
+      "color": "白", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4L#2009款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.11087299883365631, 
+      "idx": "509", 
+      "color": "白", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4L#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0708526000380516, 
+      "idx": "509", 
+      "color": "白", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4L#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.058767300099134445, 
+      "idx": "509", 
+      "color": "白", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4L#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.043548598885536194, 
+      "idx": "463", 
+      "color": "白", 
+      "brand": "奥迪", 
+      "serial": "奥迪S5", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 463.0, 
+    "x": 596.0, 
+    "height": 511.0, 
+    "width": 502.0
+  }
+}

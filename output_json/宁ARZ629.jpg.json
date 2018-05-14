@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5716869831085205, 
+      "idx": "376", 
+      "color": "红", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃C30#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.15430499613285065, 
+      "idx": "376", 
+      "color": "红", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃C30#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1404999941587448, 
+      "idx": "376", 
+      "color": "红", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃C30#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.029386300593614578, 
+      "idx": "377", 
+      "color": "红", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃C70", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.025134800001978874, 
+      "idx": "376", 
+      "color": "红", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃C30#2013款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 492.0, 
+    "x": 798.0, 
+    "height": 545.0, 
+    "width": 558.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5534650087356567, 
+      "idx": "534", 
+      "color": "白", 
+      "brand": "保时捷", 
+      "serial": "Panamera#2012款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.3065829873085022, 
+      "idx": "534", 
+      "color": "白", 
+      "brand": "保时捷", 
+      "serial": "Panamera#2010款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.10400000214576721, 
+      "idx": "534", 
+      "color": "白", 
+      "brand": "保时捷", 
+      "serial": "Panamera#2013款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.011555899865925312, 
+      "idx": "534", 
+      "color": "白", 
+      "brand": "保时捷", 
+      "serial": "Panamera#2016款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.002732150023803115, 
+      "idx": "230", 
+      "color": "白", 
+      "brand": "保时捷", 
+      "serial": "Boxster#2009款", 
+      "type": "跑车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 365.0, 
+    "x": 689.0, 
+    "height": 504.0, 
+    "width": 534.0
+  }
+}

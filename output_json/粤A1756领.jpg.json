@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5930489897727966, 
+      "idx": "80", 
+      "color": "绿", 
+      "brand": "日产", 
+      "serial": "轩逸#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1888979971408844, 
+      "idx": "80", 
+      "color": "绿", 
+      "brand": "日产", 
+      "serial": "轩逸#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05186710134148598, 
+      "idx": "354", 
+      "color": "绿", 
+      "brand": "日产", 
+      "serial": "贵士", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.01779480092227459, 
+      "idx": "74", 
+      "color": "绿", 
+      "brand": "日产", 
+      "serial": "骏逸", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.016663899645209312, 
+      "idx": "80", 
+      "color": "绿", 
+      "brand": "日产", 
+      "serial": "轩逸#2010款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 469.0, 
+    "x": 562.0, 
+    "height": 487.0, 
+    "width": 487.0
+  }
+}

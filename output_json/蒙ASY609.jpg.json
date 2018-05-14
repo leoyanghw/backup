@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4421580135822296, 
+      "idx": "233", 
+      "color": "黑", 
+      "brand": "保时捷", 
+      "serial": "Cayenne#2011款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.057705800980329514, 
+      "idx": "1580", 
+      "color": "黑", 
+      "brand": "观致汽车", 
+      "serial": "观致5", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0379129983484745, 
+      "idx": "300", 
+      "color": "黑", 
+      "brand": "克莱斯勒", 
+      "serial": "PT漫步者", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03258970007300377, 
+      "idx": "233", 
+      "color": "黑", 
+      "brand": "保时捷", 
+      "serial": "Cayenne#2014款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.022801900282502174, 
+      "idx": "233", 
+      "color": "黑", 
+      "brand": "保时捷", 
+      "serial": "Cayenne#2016款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 380.0, 
+    "x": 748.0, 
+    "height": 626.0, 
+    "width": 565.0
+  }
+}

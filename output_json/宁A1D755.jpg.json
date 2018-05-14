@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9974279999732971, 
+      "idx": "811", 
+      "color": "棕", 
+      "brand": "江铃", 
+      "serial": "驭胜S350", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.00047570798778906465, 
+      "idx": "1313", 
+      "color": "棕", 
+      "brand": "众泰汽车", 
+      "serial": "众泰Z500", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0001370599929941818, 
+      "idx": "921", 
+      "color": "棕", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.00013491300342138857, 
+      "idx": "1667", 
+      "color": "棕", 
+      "brand": "汉腾汽车", 
+      "serial": "汉腾X7", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.00010397400183137506, 
+      "idx": "1097", 
+      "color": "棕", 
+      "brand": "双龙", 
+      "serial": "雷斯特W", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 364.0, 
+    "x": 574.0, 
+    "height": 594.0, 
+    "width": 552.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.626882016658783, 
+      "idx": "176", 
+      "color": "黑", 
+      "brand": "上汽通用凯迪拉克", 
+      "serial": "SLS赛威", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.18449300527572632, 
+      "idx": "298", 
+      "color": "黑", 
+      "brand": "凯迪拉克", 
+      "serial": "凯雷德ESCALADE", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.12327899783849716, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "凯迪拉克", 
+      "serial": "Seville", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.021154699847102165, 
+      "idx": "293", 
+      "color": "黑", 
+      "brand": "凯迪拉克", 
+      "serial": "凯迪拉克CTS9(进口)#2005款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.008216659538447857, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "山姆", 
+      "serial": "凯迪拉克总统一号(进口)", 
+      "type": "SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 373.0, 
+    "x": 752.0, 
+    "height": 508.0, 
+    "width": 513.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.46738201379776, 
+      "idx": "99", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "飞度#2004款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.2618680000305176, 
+      "idx": "99", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "飞度#2008款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.0808861032128334, 
+      "idx": "99", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "飞度#2007款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.04830490052700043, 
+      "idx": "362", 
+      "color": "银灰", 
+      "brand": "三菱", 
+      "serial": "格蓝迪", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03241720050573349, 
+      "idx": "979", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "飞度(进口)", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 341.0, 
+    "x": 307.0, 
+    "height": 779.0, 
+    "width": 726.0
+  }
+}

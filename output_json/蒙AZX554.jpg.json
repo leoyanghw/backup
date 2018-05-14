@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5614789724349976, 
+      "idx": "440", 
+      "color": "棕", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC60(进口)#2009款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.23589199781417847, 
+      "idx": "440", 
+      "color": "棕", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC60(进口)#2016款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.09034319967031479, 
+      "idx": "440", 
+      "color": "棕", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC60(进口)#2011款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.04764239862561226, 
+      "idx": "440", 
+      "color": "棕", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC60(进口)#2012款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.022766899317502975, 
+      "idx": "440", 
+      "color": "棕", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC60(进口)#2013款", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 279.0, 
+    "x": 393.0, 
+    "height": 595.0, 
+    "width": 572.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8716909885406494, 
+      "idx": "115", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2009款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.03456839919090271, 
+      "idx": "115", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2010款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.022963600233197212, 
+      "idx": "115", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2016款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.022544799372553825, 
+      "idx": "115", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2015款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.014146200381219387, 
+      "idx": "115", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2011款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 340.0, 
+    "x": 652.0, 
+    "height": 652.0, 
+    "width": 537.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7092409729957581, 
+      "idx": "753", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2010款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.19108900427818298, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "上汽通用五菱", 
+      "serial": "五菱宏光S1", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.06945639848709106, 
+      "idx": "753", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2013款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.024919899180531502, 
+      "idx": "753", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2014款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.0009391549974679947, 
+      "idx": "753", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "五菱宏光#2016款", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 188.0, 
+    "x": 397.0, 
+    "height": 623.0, 
+    "width": 527.0
+  }
+}

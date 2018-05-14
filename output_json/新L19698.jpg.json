@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9241880178451538, 
+      "idx": "226", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X3#2011款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.06617289781570435, 
+      "idx": "226", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X3#2013款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.0043275500647723675, 
+      "idx": "226", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X3#2012款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.003616069909185171, 
+      "idx": "226", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X3#2014款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.0012643799418583512, 
+      "idx": "226", 
+      "color": "银灰", 
+      "brand": "宝马", 
+      "serial": "宝马X3#2016款", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 366.0, 
+    "x": 440.0, 
+    "height": 551.0, 
+    "width": 577.0
+  }
+}

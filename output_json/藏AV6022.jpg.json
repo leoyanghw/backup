@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7045109868049622, 
+      "idx": "146", 
+      "color": "黑", 
+      "brand": "奇瑞", 
+      "serial": "东方之子", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.19815699756145477, 
+      "idx": "50", 
+      "color": "黑", 
+      "brand": "福特", 
+      "serial": "蒙迪欧#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.030229799449443817, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.010606099851429462, 
+      "idx": "349", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "佳乐#2005款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.005022829864174128, 
+      "idx": "389", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "雅尊", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 472.0, 
+    "x": 442.0, 
+    "height": 495.0, 
+    "width": 492.0
+  }
+}

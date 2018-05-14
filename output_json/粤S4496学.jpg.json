@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8258669972419739, 
+      "idx": "665", 
+      "color": "橙", 
+      "brand": "一汽", 
+      "serial": "森雅M80#2009款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.059301599860191345, 
+      "idx": "200", 
+      "color": "橙", 
+      "brand": "一汽吉林", 
+      "serial": "森雅", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.038096800446510315, 
+      "idx": "665", 
+      "color": "橙", 
+      "brand": "一汽", 
+      "serial": "森雅M80#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.029911799356341362, 
+      "idx": "665", 
+      "color": "橙", 
+      "brand": "一汽", 
+      "serial": "森雅M80#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0222702007740736, 
+      "idx": "665", 
+      "color": "橙", 
+      "brand": "一汽", 
+      "serial": "森雅M80#2012款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 371.0, 
+    "x": 87.0, 
+    "height": 828.0, 
+    "width": 669.0
+  }
+}

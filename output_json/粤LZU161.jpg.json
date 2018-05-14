@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.590503990650177, 
+      "idx": "109", 
+      "color": "蓝", 
+      "brand": "海马", 
+      "serial": "海福星", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.17463499307632446, 
+      "idx": "205", 
+      "color": "蓝", 
+      "brand": "马自达", 
+      "serial": "马自达6#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.05840039998292923, 
+      "idx": "799", 
+      "color": "蓝", 
+      "brand": "吉利汽车", 
+      "serial": "英伦C5", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.034448400139808655, 
+      "idx": "108", 
+      "color": "蓝", 
+      "brand": "海马", 
+      "serial": "福美来#2006款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03295319899916649, 
+      "idx": "-1", 
+      "color": "蓝", 
+      "brand": "马自达(进口)", 
+      "serial": "马自达6(进口)", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 523.0, 
+    "x": 742.0, 
+    "height": 465.0, 
+    "width": 480.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9861990213394165, 
+      "idx": "801", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达8", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0028533500153571367, 
+      "idx": "421", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达5#2008款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0017168299527838826, 
+      "idx": "342", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "赛飞利", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0015128999948501587, 
+      "idx": "862", 
+      "color": "黑", 
+      "brand": "纳智捷", 
+      "serial": "MASTER_CEO", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0007050110143609345, 
+      "idx": "421", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达5#2007款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 432.0, 
+    "x": 719.0, 
+    "height": 569.0, 
+    "width": 533.0
+  }
+}

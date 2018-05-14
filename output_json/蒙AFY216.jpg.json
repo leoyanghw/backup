@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7198899984359741, 
+      "idx": "421", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达5#2008款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.26633599400520325, 
+      "idx": "421", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达5#2007款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0024240200873464346, 
+      "idx": "45", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达2#2007款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.0019354800460860133, 
+      "idx": "421", 
+      "color": "黑", 
+      "brand": "马自达", 
+      "serial": "马自达5#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0013855700381100178, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "马自达(进口)", 
+      "serial": "马自达2(海外)", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 317.0, 
+    "x": 558.0, 
+    "height": 565.0, 
+    "width": 530.0
+  }
+}

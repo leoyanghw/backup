@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.19124199450016022, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.19042600691318512, 
+      "idx": "150", 
+      "color": "红", 
+      "brand": "奇瑞", 
+      "serial": "旗云2#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.1440040022134781, 
+      "idx": "189", 
+      "color": "红", 
+      "brand": "大众", 
+      "serial": "速腾#2006款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.09338510036468506, 
+      "idx": "182", 
+      "color": "红", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.04809259995818138, 
+      "idx": "967", 
+      "color": "红", 
+      "brand": "奥迪", 
+      "serial": "奥迪RS4", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 415.0, 
+    "x": 505.0, 
+    "height": 617.0, 
+    "width": 556.0
+  }
+}

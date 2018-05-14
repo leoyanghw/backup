@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5834469795227051, 
+      "idx": "707", 
+      "color": "黑", 
+      "brand": "哈弗", 
+      "serial": "哈弗H6#2011款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.2783069908618927, 
+      "idx": "707", 
+      "color": "黑", 
+      "brand": "哈弗", 
+      "serial": "哈弗H6#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.12168599665164948, 
+      "idx": "707", 
+      "color": "黑", 
+      "brand": "哈弗", 
+      "serial": "哈弗H6#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.00805857963860035, 
+      "idx": "707", 
+      "color": "黑", 
+      "brand": "哈弗", 
+      "serial": "哈弗H6#2013款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0004884289810433984, 
+      "idx": "1350", 
+      "color": "黑", 
+      "brand": "一汽", 
+      "serial": "佳宝V52", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 245.0, 
+    "x": 383.0, 
+    "height": 843.0, 
+    "width": 763.0
+  }
+}

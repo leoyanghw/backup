@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.626783013343811, 
+      "idx": "115", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2009款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09217730164527893, 
+      "idx": "115", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2010款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0602462999522686, 
+      "idx": "115", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2016款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0481966994702816, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "奔驰(进口)", 
+      "serial": "威霆(进口)", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.04226439818739891, 
+      "idx": "115", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2015款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 320.0, 
+    "x": 720.0, 
+    "height": 677.0, 
+    "width": 590.0
+  }
+}

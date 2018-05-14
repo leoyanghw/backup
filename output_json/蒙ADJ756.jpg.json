@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.30526700615882874, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.299032986164093, 
+      "idx": "1057", 
+      "color": "白", 
+      "brand": "广汽吉奥", 
+      "serial": "星旺", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.09521540254354477, 
+      "idx": "659", 
+      "color": "白", 
+      "brand": "开瑞", 
+      "serial": "优优", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.03719019889831543, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "长安轻型车", 
+      "serial": "神骐T20", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.023028800264000893, 
+      "idx": "1374", 
+      "color": "白", 
+      "brand": "东风小康", 
+      "serial": "东风小康K01", 
+      "type": "微卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 200.0, 
+    "x": 592.0, 
+    "height": 694.0, 
+    "width": 713.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5552380084991455, 
+      "idx": "186", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "捷达#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.2561880052089691, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "Jetta", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0803128033876419, 
+      "idx": "186", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "捷达#2005款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.029707200825214386, 
+      "idx": "263", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "帕萨特#2005款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.018633700907230377, 
+      "idx": "260", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "辉腾", 
+      "type": "大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 474.0, 
+    "x": 551.0, 
+    "height": 475.0, 
+    "width": 467.0
+  }
+}

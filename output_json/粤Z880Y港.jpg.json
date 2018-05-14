@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3649739921092987, 
+      "idx": "326", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜#2007款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.0922911986708641, 
+      "idx": "702", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜运动版#2010款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.06544969975948334, 
+      "idx": "702", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜运动版#2011款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.039552200585603714, 
+      "idx": "326", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.0318295992910862, 
+      "idx": "525", 
+      "color": "黑", 
+      "brand": "猎豹汽车", 
+      "serial": "猎豹6481", 
+      "type": "SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 353.0, 
+    "x": 245.0, 
+    "height": 785.0, 
+    "width": 702.0
+  }
+}

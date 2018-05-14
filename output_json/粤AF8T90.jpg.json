@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4194290041923523, 
+      "idx": "509", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4L#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.39170101284980774, 
+      "idx": "509", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4L#2013款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.10478399693965912, 
+      "idx": "214", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4(进口)#2013款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.05743499845266342, 
+      "idx": "509", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4L#2015款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.014093100093305111, 
+      "idx": "214", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4(进口)#2016款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 474.0, 
+    "x": 535.0, 
+    "height": 488.0, 
+    "width": 518.0
+  }
+}

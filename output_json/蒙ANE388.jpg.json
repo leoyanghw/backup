@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4889470040798187, 
+      "idx": "78", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "骐达#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.16027399897575378, 
+      "idx": "82", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "颐达", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.022527899593114853, 
+      "idx": "76", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "骊威#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.018424199894070625, 
+      "idx": "76", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "骊威#2013款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.012667800299823284, 
+      "idx": "72", 
+      "color": "白", 
+      "brand": "东风风行", 
+      "serial": "景逸#2011款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 482.0, 
+    "x": 657.0, 
+    "height": 499.0, 
+    "width": 489.0
+  }
+}

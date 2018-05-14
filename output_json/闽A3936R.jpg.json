@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2107580006122589, 
+      "idx": "101", 
+      "color": "白", 
+      "brand": "本田", 
+      "serial": "雅阁#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.19724799692630768, 
+      "idx": "101", 
+      "color": "白", 
+      "brand": "本田", 
+      "serial": "雅阁#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.12371700257062912, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "沃尔沃", 
+      "serial": "Classic_Imperial_hatchback", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.08454719930887222, 
+      "idx": "1601", 
+      "color": "白", 
+      "brand": "吉利汽车", 
+      "serial": "帝豪GS", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.04990779981017113, 
+      "idx": "101", 
+      "color": "白", 
+      "brand": "本田", 
+      "serial": "雅阁#2009款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 495.0, 
+    "x": 835.0, 
+    "height": 576.0, 
+    "width": 551.0
+  }
+}

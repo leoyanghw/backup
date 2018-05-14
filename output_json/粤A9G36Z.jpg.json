@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8462640047073364, 
+      "idx": "68", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "本田CR-V#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.08901750296354294, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "进口本田", 
+      "serial": "本田CR-V(进口)", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.020228400826454163, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "本田(进口)", 
+      "serial": "本田CR-V(海外)", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.008353290148079395, 
+      "idx": "68", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "本田CR-V#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.005934969987720251, 
+      "idx": "68", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "本田CR-V#2008款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 404.0, 
+    "x": 784.0, 
+    "height": 597.0, 
+    "width": 605.0
+  }
+}

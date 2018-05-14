@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.15655800700187683, 
+      "idx": "1495", 
+      "color": "棕", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.14891600608825684, 
+      "idx": "1495", 
+      "color": "棕", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.076569102704525, 
+      "idx": "921", 
+      "color": "棕", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04682710021734238, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯得意", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04410009831190109, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 35.0, 
+    "x": 421.0, 
+    "height": 808.0, 
+    "width": 888.0
+  }
+}

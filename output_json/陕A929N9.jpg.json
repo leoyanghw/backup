@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3563750088214874, 
+      "idx": "265", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "途锐#2011款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.2847929894924164, 
+      "idx": "1168", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "凯路威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.06310559809207916, 
+      "idx": "265", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "途锐#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.06294780224561691, 
+      "idx": "561", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0551133006811142, 
+      "idx": "265", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "途锐#2014款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 348.0, 
+    "x": 670.0, 
+    "height": 679.0, 
+    "width": 586.0
+  }
+}

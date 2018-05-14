@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.13778500258922577, 
+      "idx": "317", 
+      "color": "银灰", 
+      "brand": "雷诺", 
+      "serial": "梅甘娜", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.09700509905815125, 
+      "idx": "1011", 
+      "color": "银灰", 
+      "brand": "福田", 
+      "serial": "风景", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.08199000358581543, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.06885139644145966, 
+      "idx": "316", 
+      "color": "银灰", 
+      "brand": "雷诺", 
+      "serial": "拉古那", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.06452299654483795, 
+      "idx": "317", 
+      "color": "银灰", 
+      "brand": "雷诺(进口)", 
+      "serial": "Megan_Aa", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 0.0, 
+    "x": 406.0, 
+    "height": 880.0, 
+    "width": 927.0
+  }
+}

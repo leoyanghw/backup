@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5240020155906677, 
+      "idx": "669", 
+      "color": "棕", 
+      "brand": "现代", 
+      "serial": "北京现代ix35#2010款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.3883279860019684, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "现代(进口)", 
+      "serial": "现代ix35(海外)", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.04428879916667938, 
+      "idx": "669", 
+      "color": "棕", 
+      "brand": "现代", 
+      "serial": "北京现代ix35#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.02133830077946186, 
+      "idx": "669", 
+      "color": "棕", 
+      "brand": "现代", 
+      "serial": "北京现代ix35#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.009486369788646698, 
+      "idx": "669", 
+      "color": "棕", 
+      "brand": "现代", 
+      "serial": "北京现代ix35#2013款", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 422.0, 
+    "x": 560.0, 
+    "height": 550.0, 
+    "width": 567.0
+  }
+}

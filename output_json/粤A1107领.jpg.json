@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9873279929161072, 
+      "idx": "980", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "艾力绅", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.001774259959347546, 
+      "idx": "115", 
+      "color": "黑", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2016款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.001125380047596991, 
+      "idx": "115", 
+      "color": "黑", 
+      "brand": "金杯", 
+      "serial": "阁瑞斯#2010款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0007188150193542242, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "本田(进口)", 
+      "serial": "奥德赛(海外)", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0006279000081121922, 
+      "idx": "98", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "奥德赛#2016款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 261.0, 
+    "x": 543.0, 
+    "height": 623.0, 
+    "width": 551.0
+  }
+}

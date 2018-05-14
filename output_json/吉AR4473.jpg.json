@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9591519832611084, 
+      "idx": "189", 
+      "color": "红", 
+      "brand": "大众", 
+      "serial": "速腾#2006款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.01308630034327507, 
+      "idx": "189", 
+      "color": "红", 
+      "brand": "大众", 
+      "serial": "速腾#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.01085949968546629, 
+      "idx": "189", 
+      "color": "红", 
+      "brand": "大众", 
+      "serial": "速腾#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.007206869777292013, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "大众", 
+      "serial": "Jetta", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.003843399928882718, 
+      "idx": "189", 
+      "color": "红", 
+      "brand": "大众", 
+      "serial": "速腾#2011款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 372.0, 
+    "x": 741.0, 
+    "height": 499.0, 
+    "width": 505.0
+  }
+}

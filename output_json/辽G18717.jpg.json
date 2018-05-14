@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2783600091934204, 
+      "idx": "921", 
+      "color": "黑", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.11425500363111496, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "长安轻型车", 
+      "serial": "神骐T20", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.09246709942817688, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "丰田(进口)", 
+      "serial": "卡罗拉(海外)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05254580080509186, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.03614620119333267, 
+      "idx": "43", 
+      "color": "黑", 
+      "brand": "铃木", 
+      "serial": "浪迪", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 43.0, 
+    "x": 381.0, 
+    "height": 780.0, 
+    "width": 837.0
+  }
+}

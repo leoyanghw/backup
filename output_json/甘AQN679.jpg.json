@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.36553600430488586, 
+      "idx": "709", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "途观#2010款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.22139200568199158, 
+      "idx": "545", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "Tiguan#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.1749729961156845, 
+      "idx": "709", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "途观#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.08736660331487656, 
+      "idx": "709", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "途观#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.019157899543642998, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "Tiguan", 
+      "serial": "Tiguan_abroad_version", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 416.0, 
+    "x": 554.0, 
+    "height": 551.0, 
+    "width": 525.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.24571199715137482, 
+      "idx": "1023", 
+      "color": "蓝", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.06720759719610214, 
+      "idx": "-1", 
+      "color": "蓝", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04810529947280884, 
+      "idx": "1495", 
+      "color": "蓝", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04467310011386871, 
+      "idx": "1056", 
+      "color": "蓝", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.041009798645973206, 
+      "idx": "443", 
+      "color": "蓝", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 155.0, 
+    "x": 352.0, 
+    "height": 932.0, 
+    "width": 863.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.35795900225639343, 
+      "idx": "277", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "普拉多(进口)", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.07007589936256409, 
+      "idx": "1284", 
+      "color": "白", 
+      "brand": "猎豹汽车", 
+      "serial": "飞扬", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03515930101275444, 
+      "idx": "1508", 
+      "color": "白", 
+      "brand": "斯柯达", 
+      "serial": "明锐(进口)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.034880898892879486, 
+      "idx": "499", 
+      "color": "白", 
+      "brand": "别克", 
+      "serial": "昂科雷#2009款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.020226800814270973, 
+      "idx": "440", 
+      "color": "白", 
+      "brand": "沃尔沃", 
+      "serial": "沃尔沃XC60(进口)#2009款", 
+      "type": "中型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 230.0, 
+    "x": 585.0, 
+    "height": 624.0, 
+    "width": 579.0
+  }
+}

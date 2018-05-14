@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9909039735794067, 
+      "idx": "36", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0015127100050449371, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "进口奔驰", 
+      "serial": "奔驰ML级", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.0014444900443777442, 
+      "idx": "504", 
+      "color": "黑", 
+      "brand": "众泰", 
+      "serial": "众泰M300", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0008760879863984883, 
+      "idx": "150", 
+      "color": "黑", 
+      "brand": "奇瑞", 
+      "serial": "旗云2#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.0007951289881020784, 
+      "idx": "120", 
+      "color": "黑", 
+      "brand": "华普", 
+      "serial": "海尚", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 509.0, 
+    "x": 744.0, 
+    "height": 494.0, 
+    "width": 501.0
+  }
+}

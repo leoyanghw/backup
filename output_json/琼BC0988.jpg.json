@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4837090075016022, 
+      "idx": "592", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "翼虎#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.26846399903297424, 
+      "idx": "592", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "翼虎#2013款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.11733599752187729, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "福特(进口)", 
+      "serial": "Kuga", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.11709699779748917, 
+      "idx": "592", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "翼虎#2015款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0014018899528309703, 
+      "idx": "1001", 
+      "color": "白", 
+      "brand": "标致", 
+      "serial": "标致3008#2016款", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 265.0, 
+    "x": 115.0, 
+    "height": 726.0, 
+    "width": 660.0
+  }
+}

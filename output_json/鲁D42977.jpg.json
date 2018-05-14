@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.35725998878479004, 
+      "idx": "-1", 
+      "color": "蓝", 
+      "brand": "长安轻型车", 
+      "serial": "神骐T20", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.2978670001029968, 
+      "idx": "921", 
+      "color": "蓝", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.04223410040140152, 
+      "idx": "-1", 
+      "color": "蓝", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.022728199139237404, 
+      "idx": "43", 
+      "color": "蓝", 
+      "brand": "铃木", 
+      "serial": "浪迪", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.01702520065009594, 
+      "idx": "-1", 
+      "color": "蓝", 
+      "brand": "长安跨越", 
+      "serial": "新豹MINI", 
+      "type": "微卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 37.0, 
+    "x": 94.0, 
+    "height": 801.0, 
+    "width": 1022.0
+  }
+}

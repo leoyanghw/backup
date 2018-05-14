@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5630409717559814, 
+      "idx": "1000", 
+      "color": "银灰", 
+      "brand": "雪铁龙", 
+      "serial": "雪铁龙C4L#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.3524790108203888, 
+      "idx": "1000", 
+      "color": "银灰", 
+      "brand": "雪铁龙", 
+      "serial": "雪铁龙C4L#2014款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03481459990143776, 
+      "idx": "788", 
+      "color": "银灰", 
+      "brand": "DS", 
+      "serial": "DS_4", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03234200179576874, 
+      "idx": "1000", 
+      "color": "银灰", 
+      "brand": "雪铁龙", 
+      "serial": "雪铁龙C4L#2015款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.00808154046535492, 
+      "idx": "1000", 
+      "color": "银灰", 
+      "brand": "雪铁龙", 
+      "serial": "雪铁龙C4L#2016款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 503.0, 
+    "x": 748.0, 
+    "height": 511.0, 
+    "width": 476.0
+  }
+}

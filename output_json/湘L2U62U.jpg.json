@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5407050251960754, 
+      "idx": "79", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "天籁#2013款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.19438999891281128, 
+      "idx": "79", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "天籁#2014款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.18487399816513062, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "日产(进口)", 
+      "serial": "Altima", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.012528900057077408, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "日产(进口)", 
+      "serial": "Sentra", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.012032800354063511, 
+      "idx": "79", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "天籁#2015款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 477.0, 
+    "x": 529.0, 
+    "height": 479.0, 
+    "width": 507.0
+  }
+}

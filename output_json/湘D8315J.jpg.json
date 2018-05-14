@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6430180072784424, 
+      "idx": "842", 
+      "color": "银灰", 
+      "brand": "长安欧尚", 
+      "serial": "长安星光4500", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.07629259675741196, 
+      "idx": "982", 
+      "color": "银灰", 
+      "brand": "东风", 
+      "serial": "御风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.03525250032544136, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯得意", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.022464299574494362, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.02058430016040802, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "长安轻型车", 
+      "serial": "神骐T20", 
+      "type": "微卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 249.0, 
+    "x": 342.0, 
+    "height": 745.0, 
+    "width": 596.0
+  }
+}

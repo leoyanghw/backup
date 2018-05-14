@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7043629884719849, 
+      "idx": "173", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "凯越#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.22046199440956116, 
+      "idx": "173", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "凯越#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0340224988758564, 
+      "idx": "173", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "凯越#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0036427699960768223, 
+      "idx": "763", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "凯尊", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0026283699553459883, 
+      "idx": "116", 
+      "color": "银灰", 
+      "brand": "华晨中华", 
+      "serial": "中华骏捷#2009款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 495.0, 
+    "x": 633.0, 
+    "height": 481.0, 
+    "width": 432.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.20622199773788452, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.18034200370311737, 
+      "idx": "1128", 
+      "color": "白", 
+      "brand": "海格", 
+      "serial": "海格H5C", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.06331250071525574, 
+      "idx": "659", 
+      "color": "白", 
+      "brand": "开瑞", 
+      "serial": "优优", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.06153849884867668, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.05702060088515282, 
+      "idx": "1057", 
+      "color": "白", 
+      "brand": "广汽吉奥", 
+      "serial": "星旺", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 81.0, 
+    "x": 431.0, 
+    "height": 1007.0, 
+    "width": 883.0
+  }
+}

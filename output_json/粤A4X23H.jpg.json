@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.42855098843574524, 
+      "idx": "155", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "POLO#2009款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.3300839960575104, 
+      "idx": "155", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "POLO#2006款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.06929299980401993, 
+      "idx": "155", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "POLO#2007款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.031260598450899124, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "Jetta", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.030012300238013268, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "大众(进口)", 
+      "serial": "途安(海外)", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 381.0, 
+    "x": 704.0, 
+    "height": 507.0, 
+    "width": 486.0
+  }
+}

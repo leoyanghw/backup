@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5880079865455627, 
+      "idx": "598", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "和悦#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1807669997215271, 
+      "idx": "598", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "和悦#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.07799629867076874, 
+      "idx": "598", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "和悦#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0556332990527153, 
+      "idx": "598", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "和悦#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.023639699444174767, 
+      "idx": "660", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "瑞风M2#2016款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 260.0, 
+    "x": 427.0, 
+    "height": 715.0, 
+    "width": 732.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2264219969511032, 
+      "idx": "989", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "金刚#2014款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.07506509870290756, 
+      "idx": "1332", 
+      "color": "黑", 
+      "brand": "上汽通用五菱", 
+      "serial": "五菱征程", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0485881008207798, 
+      "idx": "989", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "金刚#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.031167199835181236, 
+      "idx": "60", 
+      "color": "黑", 
+      "brand": "长城", 
+      "serial": "长城V80", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.025414099916815758, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "King_Kong_sedan", 
+      "type": "SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 365.0, 
+    "x": 431.0, 
+    "height": 570.0, 
+    "width": 559.0
+  }
+}

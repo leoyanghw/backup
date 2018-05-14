@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4647369980812073, 
+      "idx": "931", 
+      "color": "黑", 
+      "brand": "广汽传祺", 
+      "serial": "传祺GS5#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.40473800897598267, 
+      "idx": "931", 
+      "color": "黑", 
+      "brand": "广汽传祺", 
+      "serial": "传祺GS5#2013款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.08602619916200638, 
+      "idx": "931", 
+      "color": "黑", 
+      "brand": "广汽传祺", 
+      "serial": "传祺GS5#2014款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.018348900601267815, 
+      "idx": "931", 
+      "color": "黑", 
+      "brand": "广汽传祺", 
+      "serial": "传祺GS5#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.005299440119415522, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "Avalon", 
+      "serial": "Avalon", 
+      "type": "中大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 236.0, 
+    "x": 714.0, 
+    "height": 542.0, 
+    "width": 502.0
+  }
+}

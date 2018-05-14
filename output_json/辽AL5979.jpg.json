@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.40803998708724976, 
+      "idx": "1340", 
+      "color": "橙", 
+      "brand": "东风", 
+      "serial": "俊风CV03", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.2653050124645233, 
+      "idx": "1374", 
+      "color": "橙", 
+      "brand": "东风小康", 
+      "serial": "东风小康K01", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.09200619906187057, 
+      "idx": "1424", 
+      "color": "橙", 
+      "brand": "东风小康", 
+      "serial": "东风小康K07S", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.037897299975156784, 
+      "idx": "991", 
+      "color": "橙", 
+      "brand": "东风小康", 
+      "serial": "东风小康C37", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.016355000436306, 
+      "idx": "983", 
+      "color": "橙", 
+      "brand": "黄海", 
+      "serial": "大柴神", 
+      "type": "皮卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 40.0, 
+    "x": 372.0, 
+    "height": 762.0, 
+    "width": 821.0
+  }
+}

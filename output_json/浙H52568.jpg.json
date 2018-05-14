@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.34713199734687805, 
+      "idx": "792", 
+      "color": "黑", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯CT#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1937360018491745, 
+      "idx": "1551", 
+      "color": "黑", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯RX#2012款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.19157999753952026, 
+      "idx": "307", 
+      "color": "黑", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯ES#2013款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.047211501747369766, 
+      "idx": "313", 
+      "color": "黑", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯RX经典#2012款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.026645999401807785, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "雷克萨斯HS", 
+      "serial": "雷克萨斯HS", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 479.0, 
+    "x": 510.0, 
+    "height": 494.0, 
+    "width": 492.0
+  }
+}

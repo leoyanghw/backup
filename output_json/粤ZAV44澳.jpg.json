@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6980339884757996, 
+      "idx": "795", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "埃尔法", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.06676190346479416, 
+      "idx": "62", 
+      "color": "黑", 
+      "brand": "长城", 
+      "serial": "酷熊", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.04060579836368561, 
+      "idx": "980", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "艾力绅", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.027237700298428535, 
+      "idx": "1236", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "Sienna", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.02687470056116581, 
+      "idx": "1570", 
+      "color": "黑", 
+      "brand": "长安欧尚", 
+      "serial": "睿行M90", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 242.0, 
+    "x": 637.0, 
+    "height": 600.0, 
+    "width": 554.0
+  }
+}

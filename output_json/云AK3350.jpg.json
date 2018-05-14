@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7491689920425415, 
+      "idx": "496", 
+      "color": "红", 
+      "brand": "雪佛兰", 
+      "serial": "科鲁兹#2015款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.13876700401306152, 
+      "idx": "496", 
+      "color": "红", 
+      "brand": "雪佛兰", 
+      "serial": "科鲁兹#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.05217960104346275, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "上汽通用雪佛兰", 
+      "serial": "科鲁兹(海外)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.021557699888944626, 
+      "idx": "1553", 
+      "color": "红", 
+      "brand": "上汽通用雪佛兰", 
+      "serial": "乐风RV", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.004364260006695986, 
+      "idx": "1395", 
+      "color": "红", 
+      "brand": "雪佛兰", 
+      "serial": "赛欧#2015款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 240.0, 
+    "x": 455.0, 
+    "height": 581.0, 
+    "width": 604.0
+  }
+}

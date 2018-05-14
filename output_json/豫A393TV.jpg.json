@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.33849799633026123, 
+      "idx": "346", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "狮跑#2009款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.3134920001029968, 
+      "idx": "346", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "狮跑#2011款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.14725199341773987, 
+      "idx": "346", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "狮跑#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.05287909880280495, 
+      "idx": "346", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "狮跑#2007款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.028907200321555138, 
+      "idx": "443", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 469.0, 
+    "x": 297.0, 
+    "height": 639.0, 
+    "width": 576.0
+  }
+}

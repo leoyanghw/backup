@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.800432026386261, 
+      "idx": "98", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "奥德赛#2009款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.08100409805774689, 
+      "idx": "98", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "奥德赛#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.06269869953393936, 
+      "idx": "98", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "奥德赛#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.023411599919199944, 
+      "idx": "98", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "奥德赛#2013款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.012860099785029888, 
+      "idx": "98", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "奥德赛#2014款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 448.0, 
+    "x": 777.0, 
+    "height": 573.0, 
+    "width": 496.0
+  }
+}

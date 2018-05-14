@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5803250074386597, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0923713967204094, 
+      "idx": "443", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.03869979828596115, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.029680300503969193, 
+      "idx": "1057", 
+      "color": "白", 
+      "brand": "广汽吉奥", 
+      "serial": "星旺", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.025140900164842606, 
+      "idx": "743", 
+      "color": "白", 
+      "brand": "日产", 
+      "serial": "日产NV200#2016款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 15.0, 
+    "x": 444.0, 
+    "height": 827.0, 
+    "width": 850.0
+  }
+}

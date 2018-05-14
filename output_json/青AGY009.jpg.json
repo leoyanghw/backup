@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.31095701456069946, 
+      "idx": "93", 
+      "color": "红", 
+      "brand": "起亚", 
+      "serial": "远舰", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.1293029934167862, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.10419400036334991, 
+      "idx": "150", 
+      "color": "红", 
+      "brand": "奇瑞", 
+      "serial": "旗云2#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.08097179979085922, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "铃木", 
+      "serial": "Cultus", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.0761571004986763, 
+      "idx": "90", 
+      "color": "红", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 476.0, 
+    "x": 612.0, 
+    "height": 526.0, 
+    "width": 525.0
+  }
+}

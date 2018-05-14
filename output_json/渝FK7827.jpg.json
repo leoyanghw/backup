@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2597230076789856, 
+      "idx": "313", 
+      "color": "黑", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯RX经典#2004款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.18590499460697174, 
+      "idx": "849", 
+      "color": "黑", 
+      "brand": "黄海", 
+      "serial": "旗胜V3", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.02637300081551075, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "英菲尼迪(进口)", 
+      "serial": "英菲尼迪QX", 
+      "type": "大型SUV"
+    }, 
+    {
+      "confidence": 0.023887999355793, 
+      "idx": "853", 
+      "color": "黑", 
+      "brand": "荣威", 
+      "serial": "荣威W5", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.021222800016403198, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "蓝旗亚", 
+      "serial": "蓝旗亚Delta", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 229.0, 
+    "x": 494.0, 
+    "height": 611.0, 
+    "width": 615.0
+  }
+}

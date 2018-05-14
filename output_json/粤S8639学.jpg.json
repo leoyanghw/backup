@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7570409774780273, 
+      "idx": "191", 
+      "color": "橙", 
+      "brand": "丰田", 
+      "serial": "花冠#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.021782800555229187, 
+      "idx": "1057", 
+      "color": "橙", 
+      "brand": "广汽吉奥", 
+      "serial": "星旺", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.016532599925994873, 
+      "idx": "191", 
+      "color": "橙", 
+      "brand": "丰田", 
+      "serial": "花冠#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.015741899609565735, 
+      "idx": "-1", 
+      "color": "橙", 
+      "brand": "广汽吉奥", 
+      "serial": "帅豹", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.012278799898922443, 
+      "idx": "904", 
+      "color": "橙", 
+      "brand": "长安欧尚", 
+      "serial": "欧诺#2012款", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 287.0, 
+    "x": 304.0, 
+    "height": 776.0, 
+    "width": 666.0
+  }
+}

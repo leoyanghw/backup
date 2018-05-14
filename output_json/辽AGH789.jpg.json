@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5130090117454529, 
+      "idx": "1203", 
+      "color": "黑", 
+      "brand": "英菲尼迪", 
+      "serial": "英菲尼迪QX60", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.4538230001926422, 
+      "idx": "880", 
+      "color": "黑", 
+      "brand": "英菲尼迪(进口)", 
+      "serial": "英菲尼迪JX", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.012369100004434586, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "英菲尼迪(进口)", 
+      "serial": "英菲尼迪FX", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.007402630057185888, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "进口英菲尼迪", 
+      "serial": "英菲尼迪M系", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.0028626499697566032, 
+      "idx": "395", 
+      "color": "黑", 
+      "brand": "英菲尼迪", 
+      "serial": "英菲尼迪QX70", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 276.0, 
+    "x": 731.0, 
+    "height": 594.0, 
+    "width": 555.0
+  }
+}

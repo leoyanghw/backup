@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.365352988243103, 
+      "idx": "216", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6(进口)", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.19764600694179535, 
+      "idx": "183", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.12234999984502792, 
+      "idx": "1683", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪RS6", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.050283901393413544, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.033021099865436554, 
+      "idx": "214", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A4(进口)#2010款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 496.0, 
+    "x": 605.0, 
+    "height": 481.0, 
+    "width": 479.0
+  }
+}

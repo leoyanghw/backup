@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.236395001411438, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "凌志", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.22431400418281555, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.09427309781312943, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2013款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.09381850063800812, 
+      "idx": "443", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.07649979740381241, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2014款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 47.0, 
+    "x": 431.0, 
+    "height": 886.0, 
+    "width": 775.0
+  }
+}

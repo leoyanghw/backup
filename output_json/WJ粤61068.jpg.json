@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4674600064754486, 
+      "idx": "362", 
+      "color": "白", 
+      "brand": "三菱", 
+      "serial": "格蓝迪", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.08390960097312927, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "三菱(进口)", 
+      "serial": "Colt", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.0772726982831955, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.041200701147317886, 
+      "idx": "46", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "麦柯斯", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.028006600216031075, 
+      "idx": "1495", 
+      "color": "白", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 183.0, 
+    "x": 342.0, 
+    "height": 705.0, 
+    "width": 703.0
+  }
+}

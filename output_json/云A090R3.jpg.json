@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.30548301339149475, 
+      "idx": "184", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2005款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.19253799319267273, 
+      "idx": "184", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2009款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.1544259935617447, 
+      "idx": "184", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2010款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.09255749732255936, 
+      "idx": "216", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6(进口)", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.04812699928879738, 
+      "idx": "184", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2006款", 
+      "type": "中大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 242.0, 
+    "x": 482.0, 
+    "height": 635.0, 
+    "width": 661.0
+  }
+}

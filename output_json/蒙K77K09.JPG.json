@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7991679906845093, 
+      "idx": "1022", 
+      "color": "白", 
+      "brand": "奇瑞", 
+      "serial": "奇瑞QQ", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.14664100110530853, 
+      "idx": "1304", 
+      "color": "白", 
+      "brand": "奇瑞新能源", 
+      "serial": "奇瑞eQ", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.00966253038495779, 
+      "idx": "584", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "大众up!", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.004877110011875629, 
+      "idx": "1513", 
+      "color": "白", 
+      "brand": "知豆电动车", 
+      "serial": "知豆D2", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.00334958010353148, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "雪铁龙(进口)", 
+      "serial": "雪铁龙C1", 
+      "type": "微型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 188.0, 
+    "x": 668.0, 
+    "height": 533.0, 
+    "width": 442.0
+  }
+}

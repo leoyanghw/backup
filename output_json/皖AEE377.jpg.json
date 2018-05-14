@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3178989887237549, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "福特(进口)", 
+      "serial": "蒙迪欧(海外)", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.15896399319171906, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "致胜", 
+      "serial": "Mendeo_Zhisheng", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.07851730287075043, 
+      "idx": "935", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "福克斯#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06498269736766815, 
+      "idx": "50", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "蒙迪欧#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.03956900164484978, 
+      "idx": "670", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "C-MAX", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 202.0, 
+    "x": 426.0, 
+    "height": 612.0, 
+    "width": 590.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.42439499497413635, 
+      "idx": "921", 
+      "color": "白", 
+      "brand": "上汽大通MAXUS", 
+      "serial": "上汽大通V80", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.1806109994649887, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "上汽大通", 
+      "serial": "MAXUS_V80xs", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.07045350223779678, 
+      "idx": "1644", 
+      "color": "白", 
+      "brand": "奔驰", 
+      "serial": "Sprinter", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.050282400101423264, 
+      "idx": "443", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.038080498576164246, 
+      "idx": "907", 
+      "color": "白", 
+      "brand": "奔驰", 
+      "serial": "凌特", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 0.0, 
+    "x": 419.0, 
+    "height": 873.0, 
+    "width": 921.0
+  }
+}

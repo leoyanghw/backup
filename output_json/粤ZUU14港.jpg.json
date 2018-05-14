@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.47929298877716064, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.11309300363063812, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.11071400344371796, 
+      "idx": "42", 
+      "color": "白", 
+      "brand": "铃木", 
+      "serial": "北斗星#2016款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.038760699331760406, 
+      "idx": "443", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.03415900096297264, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "长安轻型车", 
+      "serial": "神骐T20", 
+      "type": "微卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 54.0, 
+    "x": 269.0, 
+    "height": 1020.0, 
+    "width": 927.0
+  }
+}

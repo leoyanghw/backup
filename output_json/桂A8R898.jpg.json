@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5089870095252991, 
+      "idx": "225", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马7系#2009款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.34960100054740906, 
+      "idx": "225", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马7系#2010款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.09724099934101105, 
+      "idx": "225", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马7系#2011款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.013082800433039665, 
+      "idx": "225", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马7系#2013款", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.006710180081427097, 
+      "idx": "225", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马7系#2014款", 
+      "type": "大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 462.0, 
+    "x": 599.0, 
+    "height": 532.0, 
+    "width": 526.0
+  }
+}

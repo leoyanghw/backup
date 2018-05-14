@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.989683985710144, 
+      "idx": "133", 
+      "color": "银灰", 
+      "brand": "江淮", 
+      "serial": "瑞风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0032014199532568455, 
+      "idx": "1011", 
+      "color": "银灰", 
+      "brand": "福田", 
+      "serial": "风景", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.00042871301411651075, 
+      "idx": "439", 
+      "color": "银灰", 
+      "brand": "东南", 
+      "serial": "得利卡", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.0004072230076417327, 
+      "idx": "385", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "美佳", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.00032844601082615554, 
+      "idx": "1495", 
+      "color": "银灰", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 276.0, 
+    "x": 574.0, 
+    "height": 681.0, 
+    "width": 585.0
+  }
+}

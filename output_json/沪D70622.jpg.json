@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.16685700416564941, 
+      "idx": "192", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "皇冠#2009款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.15915699303150177, 
+      "idx": "170", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "别克GL8#2008款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.10588499903678894, 
+      "idx": "366", 
+      "color": "黑", 
+      "brand": "双龙", 
+      "serial": "享御", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.0685025006532669, 
+      "idx": "853", 
+      "color": "黑", 
+      "brand": "荣威", 
+      "serial": "荣威W5", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.0497405007481575, 
+      "idx": "192", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "皇冠#2010款", 
+      "type": "中大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 487.0, 
+    "x": 928.0, 
+    "height": 528.0, 
+    "width": 535.0
+  }
+}

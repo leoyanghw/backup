@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6334589719772339, 
+      "idx": "81", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "阳光#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.2933019995689392, 
+      "idx": "81", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "阳光#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.029364999383687973, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "五菱汽车", 
+      "serial": "Sunshine", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.008104369975626469, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "日产(进口)", 
+      "serial": "Versa", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.003437980078160763, 
+      "idx": "665", 
+      "color": "银灰", 
+      "brand": "一汽", 
+      "serial": "森雅M80#2009款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 465.0, 
+    "x": 741.0, 
+    "height": 634.0, 
+    "width": 562.0
+  }
+}

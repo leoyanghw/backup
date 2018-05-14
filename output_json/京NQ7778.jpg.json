@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.34264299273490906, 
+      "idx": "218", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q7#2010款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.19150499999523163, 
+      "idx": "218", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q7#2011款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.1266379952430725, 
+      "idx": "218", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q7#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.09677989780902863, 
+      "idx": "218", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q7#2006款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.09479500353336334, 
+      "idx": "218", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪Q7#2012款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 85.0, 
+    "x": 186.0, 
+    "height": 837.0, 
+    "width": 772.0
+  }
+}

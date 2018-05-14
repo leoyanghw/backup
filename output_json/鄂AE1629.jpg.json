@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2815229892730713, 
+      "idx": "721", 
+      "color": "黑", 
+      "brand": "哈弗", 
+      "serial": "哈弗H5#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.2205819934606552, 
+      "idx": "721", 
+      "color": "黑", 
+      "brand": "哈弗", 
+      "serial": "哈弗H5#2011款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.08482909947633743, 
+      "idx": "719", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "瑞风M5", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.06184310093522072, 
+      "idx": "721", 
+      "color": "黑", 
+      "brand": "哈弗", 
+      "serial": "哈弗H5#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.04957880079746246, 
+      "idx": "721", 
+      "color": "黑", 
+      "brand": "哈弗", 
+      "serial": "哈弗H5#2010款", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 168.0, 
+    "x": 561.0, 
+    "height": 864.0, 
+    "width": 737.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7506409883499146, 
+      "idx": "230", 
+      "color": "白", 
+      "brand": "保时捷", 
+      "serial": "Boxster#2009款", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.092159703373909, 
+      "idx": "230", 
+      "color": "白", 
+      "brand": "保时捷", 
+      "serial": "Boxster#2016款", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.040160298347473145, 
+      "idx": "230", 
+      "color": "白", 
+      "brand": "保时捷", 
+      "serial": "Boxster#2013款", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.019488699734210968, 
+      "idx": "232", 
+      "color": "白", 
+      "brand": "进口保时捷", 
+      "serial": "保时捷Cayman#2011款", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.017000000923871994, 
+      "idx": "232", 
+      "color": "白", 
+      "brand": "保时捷", 
+      "serial": "Cayman", 
+      "type": "跑车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 517.0, 
+    "x": 567.0, 
+    "height": 421.0, 
+    "width": 503.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.17273199558258057, 
+      "idx": "1038", 
+      "color": "银灰", 
+      "brand": "郑州日产", 
+      "serial": "日产D22皮卡", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.0815792977809906, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2008款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.08132919669151306, 
+      "idx": "491", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "奇骏#2008款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.07591349631547928, 
+      "idx": "1038", 
+      "color": "银灰", 
+      "brand": "郑州日产", 
+      "serial": "日产D22", 
+      "type": "皮卡"
+    }, 
+    {
+      "confidence": 0.047231100499629974, 
+      "idx": "743", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "日产NV200#2016款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 396.0, 
+    "x": 534.0, 
+    "height": 625.0, 
+    "width": 559.0
+  }
+}

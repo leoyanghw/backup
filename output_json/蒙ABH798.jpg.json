@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6011620163917542, 
+      "idx": "326", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜#2013款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.133201003074646, 
+      "idx": "326", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜#2014款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.10494399815797806, 
+      "idx": "326", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜#2015款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.05660939961671829, 
+      "idx": "326", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.04229630157351494, 
+      "idx": "326", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜#2017款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 218.0, 
+    "x": 678.0, 
+    "height": 640.0, 
+    "width": 563.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9516050219535828, 
+      "idx": "34", 
+      "color": "白", 
+      "brand": "现代", 
+      "serial": "途胜#2013款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.022424999624490738, 
+      "idx": "34", 
+      "color": "白", 
+      "brand": "现代", 
+      "serial": "途胜#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.007537940051406622, 
+      "idx": "34", 
+      "color": "白", 
+      "brand": "现代", 
+      "serial": "途胜#2009款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.005259369965642691, 
+      "idx": "34", 
+      "color": "白", 
+      "brand": "现代", 
+      "serial": "途胜#2006款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.002347799949347973, 
+      "idx": "1438", 
+      "color": "白", 
+      "brand": "江淮", 
+      "serial": "瑞风S5", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 173.0, 
+    "x": 395.0, 
+    "height": 485.0, 
+    "width": 442.0
+  }
+}

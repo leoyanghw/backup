@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8306930065155029, 
+      "idx": "521", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "RAV4荣放#2009款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.07802029699087143, 
+      "idx": "521", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "RAV4荣放#2010款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.04550670087337494, 
+      "idx": "521", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "RAV4荣放#2011款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.00905773974955082, 
+      "idx": "746", 
+      "color": "黑", 
+      "brand": "永源汽车", 
+      "serial": "永源A380", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.007883460260927677, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "丰田(进口)", 
+      "serial": "丰田RAV4(进口)", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 221.0, 
+    "x": 570.0, 
+    "height": 670.0, 
+    "width": 627.0
+  }
+}

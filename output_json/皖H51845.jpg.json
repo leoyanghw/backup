@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.24461999535560608, 
+      "idx": "545", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "Tiguan#2012款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.19142000377178192, 
+      "idx": "709", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "途观#2013款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.1862040013074875, 
+      "idx": "709", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "途观#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.10518000274896622, 
+      "idx": "709", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "途观#2015款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.07210910320281982, 
+      "idx": "545", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "Tiguan#2015款", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 140.0, 
+    "x": 687.0, 
+    "height": 587.0, 
+    "width": 534.0
+  }
+}

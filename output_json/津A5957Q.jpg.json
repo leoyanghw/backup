@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.22979199886322021, 
+      "idx": "853", 
+      "color": "白", 
+      "brand": "荣威", 
+      "serial": "荣威W5", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.07852060347795486, 
+      "idx": "1056", 
+      "color": "白", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2016款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.043533798307180405, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "菲亚特", 
+      "serial": "Idea", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.03449830040335655, 
+      "idx": "504", 
+      "color": "白", 
+      "brand": "众泰", 
+      "serial": "众泰M300", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.02897460013628006, 
+      "idx": "1337", 
+      "color": "白", 
+      "brand": "GMC", 
+      "serial": "SAVANA", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 48.0, 
+    "x": 244.0, 
+    "height": 769.0, 
+    "width": 876.0
+  }
+}

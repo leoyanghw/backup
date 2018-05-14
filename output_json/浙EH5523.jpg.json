@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.30428001284599304, 
+      "idx": "170", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "别克GL8#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07210390269756317, 
+      "idx": "170", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "别克GL8#2012款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07097650319337845, 
+      "idx": "94", 
+      "color": "黑", 
+      "brand": "三菱", 
+      "serial": "三菱戈蓝", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.05454599857330322, 
+      "idx": "1823", 
+      "color": "黑", 
+      "brand": "雷诺", 
+      "serial": "Espace", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.049712199717760086, 
+      "idx": "1289", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰A级#2011款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 225.0, 
+    "x": 813.0, 
+    "height": 562.0, 
+    "width": 594.0
+  }
+}

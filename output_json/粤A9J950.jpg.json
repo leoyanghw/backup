@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.13891899585723877, 
+      "idx": "1495", 
+      "color": "白", 
+      "brand": "依维柯", 
+      "serial": "Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09379039704799652, 
+      "idx": "610", 
+      "color": "白", 
+      "brand": "路虎", 
+      "serial": "发现#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.08170749992132187, 
+      "idx": "42", 
+      "color": "白", 
+      "brand": "铃木", 
+      "serial": "北斗星#2016款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.039434000849723816, 
+      "idx": "612", 
+      "color": "白", 
+      "brand": "路虎", 
+      "serial": "揽胜极光(进口)#2016款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.034115198999643326, 
+      "idx": "561", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 10.0, 
+    "x": 383.0, 
+    "height": 884.0, 
+    "width": 1001.0
+  }
+}

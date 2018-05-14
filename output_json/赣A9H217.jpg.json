@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8053399920463562, 
+      "idx": "180", 
+      "color": "银灰", 
+      "brand": "雪佛兰", 
+      "serial": "乐风#2006款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.05239209905266762, 
+      "idx": "180", 
+      "color": "银灰", 
+      "brand": "雪佛兰", 
+      "serial": "乐风#2007款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.04058239981532097, 
+      "idx": "180", 
+      "color": "银灰", 
+      "brand": "雪佛兰", 
+      "serial": "乐风#2008款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.011060399934649467, 
+      "idx": "401", 
+      "color": "银灰", 
+      "brand": "雪佛兰(进口)", 
+      "serial": "科帕奇(进口)", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.009976319968700409, 
+      "idx": "714", 
+      "color": "银灰", 
+      "brand": "瑞麒", 
+      "serial": "瑞麒G3", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 513.0, 
+    "x": 434.0, 
+    "height": 604.0, 
+    "width": 559.0
+  }
+}

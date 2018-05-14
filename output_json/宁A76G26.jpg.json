@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.41028401255607605, 
+      "idx": "114", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马5系#2010款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.30139899253845215, 
+      "idx": "114", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马5系#2009款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.18913200497627258, 
+      "idx": "114", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马5系#2006款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.0836493968963623, 
+      "idx": "114", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马5系#2008款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.012884399853646755, 
+      "idx": "765", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马M5", 
+      "type": "中大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 490.0, 
+    "x": 744.0, 
+    "height": 525.0, 
+    "width": 502.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.29266199469566345, 
+      "idx": "969", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪S6", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.1365489959716797, 
+      "idx": "184", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2009款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.12443999946117401, 
+      "idx": "184", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2010款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.09624149650335312, 
+      "idx": "184", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2005款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.08710060268640518, 
+      "idx": "184", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2016款", 
+      "type": "中大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 377.0, 
+    "x": 751.0, 
+    "height": 510.0, 
+    "width": 529.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7834169864654541, 
+      "idx": "683", 
+      "color": "白", 
+      "brand": "雪铁龙", 
+      "serial": "爱丽舍#2014款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.11124300211668015, 
+      "idx": "683", 
+      "color": "白", 
+      "brand": "雪铁龙", 
+      "serial": "爱丽舍#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03704199939966202, 
+      "idx": "392", 
+      "color": "白", 
+      "brand": "雪铁龙(进口)", 
+      "serial": "雪铁龙C4", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03441449999809265, 
+      "idx": "683", 
+      "color": "白", 
+      "brand": "雪铁龙", 
+      "serial": "爱丽舍#2015款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.005489700008183718, 
+      "idx": "683", 
+      "color": "白", 
+      "brand": "雪铁龙", 
+      "serial": "爱丽舍#2017款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 493.0, 
+    "x": 459.0, 
+    "height": 481.0, 
+    "width": 453.0
+  }
+}

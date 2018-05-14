@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3940010070800781, 
+      "idx": "575", 
+      "color": "银灰", 
+      "brand": "奔驰(进口)", 
+      "serial": "奔驰SLR级", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.36288100481033325, 
+      "idx": "337", 
+      "color": "银灰", 
+      "brand": "迈巴赫", 
+      "serial": "迈巴赫", 
+      "type": "大型车"
+    }, 
+    {
+      "confidence": 0.04959210008382797, 
+      "idx": "1687", 
+      "color": "银灰", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯GS#2004款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.04837799817323685, 
+      "idx": "1427", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "索纳塔九#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.020882200449705124, 
+      "idx": "314", 
+      "color": "银灰", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯SC", 
+      "type": "跑车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 490.0, 
+    "x": 592.0, 
+    "height": 484.0, 
+    "width": 505.0
+  }
+}

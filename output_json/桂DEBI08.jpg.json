@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5453029870986938, 
+      "idx": "133", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "瑞风", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.039367999881505966, 
+      "idx": "90", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03539380058646202, 
+      "idx": "1115", 
+      "color": "黑", 
+      "brand": "东风小康", 
+      "serial": "东风小康V29", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.02883940003812313, 
+      "idx": "1508", 
+      "color": "黑", 
+      "brand": "斯柯达", 
+      "serial": "明锐(进口)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.021086299791932106, 
+      "idx": "363", 
+      "color": "黑", 
+      "brand": "双龙", 
+      "serial": "爱腾", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 405.0, 
+    "x": 542.0, 
+    "height": 569.0, 
+    "width": 560.0
+  }
+}

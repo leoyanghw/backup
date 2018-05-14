@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5942850112915039, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "丰田(进口)", 
+      "serial": "丰田RAV4(进口)", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.23508700728416443, 
+      "idx": "521", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "RAV4荣放#2009款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.10752899944782257, 
+      "idx": "521", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "RAV4荣放#2013款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.0222012996673584, 
+      "idx": "521", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "RAV4荣放#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.021177299320697784, 
+      "idx": "521", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "RAV4荣放#2011款", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 264.0, 
+    "x": 406.0, 
+    "height": 619.0, 
+    "width": 551.0
+  }
+}

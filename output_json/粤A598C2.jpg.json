@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8846150040626526, 
+      "idx": "162", 
+      "color": "黑", 
+      "brand": "荣威", 
+      "serial": "荣威750", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.020942600443959236, 
+      "idx": "540", 
+      "color": "黑", 
+      "brand": "吉利汽车", 
+      "serial": "英伦TX4", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.012230399996042252, 
+      "idx": "437", 
+      "color": "黑", 
+      "brand": "MG", 
+      "serial": "名爵3SW", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.011746999807655811, 
+      "idx": "226", 
+      "color": "黑", 
+      "brand": "宝马", 
+      "serial": "宝马X3#2009款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.007856329903006554, 
+      "idx": "398", 
+      "color": "黑", 
+      "brand": "MG", 
+      "serial": "名爵7", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 374.0, 
+    "x": 608.0, 
+    "height": 524.0, 
+    "width": 524.0
+  }
+}

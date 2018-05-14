@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8726059794425964, 
+      "idx": "952", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "翼搏#2013款", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.035343900322914124, 
+      "idx": "952", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "翼搏#2016款", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.028444699943065643, 
+      "idx": "952", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "翼搏#2017款", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.02739569917321205, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "福特(进口)", 
+      "serial": "Territory", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.02547059953212738, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "福特(进口)", 
+      "serial": "翼搏(海外)", 
+      "type": "小型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 316.0, 
+    "x": 843.0, 
+    "height": 742.0, 
+    "width": 731.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7361670136451721, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "上汽通用雪佛兰", 
+      "serial": "科鲁兹(海外)", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.2129870057106018, 
+      "idx": "496", 
+      "color": "红", 
+      "brand": "雪佛兰", 
+      "serial": "科鲁兹#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0047240001149475574, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "雪铁龙", 
+      "serial": "Quatre_hatchback", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.004496320150792599, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "起亚", 
+      "serial": "起亚Ceed", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.004330520052462816, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "沃尔沃", 
+      "serial": "Classic_Imperial_hatchback", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 372.0, 
+    "x": 159.0, 
+    "height": 729.0, 
+    "width": 692.0
+  }
+}

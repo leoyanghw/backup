@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.891523003578186, 
+      "idx": "36", 
+      "color": "黑", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.07128500193357468, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.006631520111113787, 
+      "idx": "352", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "上海风度", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.004547609947621822, 
+      "idx": "90", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.0013568500289693475, 
+      "idx": "122", 
+      "color": "黑", 
+      "brand": "华普", 
+      "serial": "海迅", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 514.0, 
+    "x": 634.0, 
+    "height": 515.0, 
+    "width": 512.0
+  }
+}

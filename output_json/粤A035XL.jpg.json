@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.41542500257492065, 
+      "idx": "474", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "朗逸#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.3018440008163452, 
+      "idx": "474", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "朗逸#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.23838500678539276, 
+      "idx": "474", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "朗逸#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.009162110276520252, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "Jetta", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.008585079573094845, 
+      "idx": "474", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "朗逸#2013款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 500.0, 
+    "x": 603.0, 
+    "height": 508.0, 
+    "width": 491.0
+  }
+}

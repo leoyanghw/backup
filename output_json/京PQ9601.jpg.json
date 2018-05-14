@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.9079329967498779, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "Jetta", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.04254189878702164, 
+      "idx": "186", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "捷达#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.022193700075149536, 
+      "idx": "186", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "捷达#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.006328810006380081, 
+      "idx": "186", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "捷达#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.003739449894055724, 
+      "idx": "186", 
+      "color": "白", 
+      "brand": "大众", 
+      "serial": "捷达#2008款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 490.0, 
+    "x": 835.0, 
+    "height": 512.0, 
+    "width": 506.0
+  }
+}

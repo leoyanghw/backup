@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.660444974899292, 
+      "idx": "93", 
+      "color": "红", 
+      "brand": "起亚", 
+      "serial": "远舰", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.08015420287847519, 
+      "idx": "-1", 
+      "color": "红", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.05607359856367111, 
+      "idx": "36", 
+      "color": "红", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.048298999667167664, 
+      "idx": "150", 
+      "color": "红", 
+      "brand": "奇瑞", 
+      "serial": "旗云2#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.035593900829553604, 
+      "idx": "90", 
+      "color": "红", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 472.0, 
+    "x": 647.0, 
+    "height": 488.0, 
+    "width": 487.0
+  }
+}

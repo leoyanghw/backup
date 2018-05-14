@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8864719867706299, 
+      "idx": "34", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "途胜#2006款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.06950979679822922, 
+      "idx": "34", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "途胜#2009款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.012115799821913242, 
+      "idx": "34", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "途胜#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.006608789786696434, 
+      "idx": "1495", 
+      "color": "银灰", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯Power_Daily", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.0027045700699090958, 
+      "idx": "46", 
+      "color": "银灰", 
+      "brand": "福特", 
+      "serial": "麦柯斯", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 296.0, 
+    "x": 613.0, 
+    "height": 582.0, 
+    "width": 565.0
+  }
+}

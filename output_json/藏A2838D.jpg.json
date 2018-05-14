@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.5503169894218445, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "本田(进口)", 
+      "serial": "思域(海外)#2009款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.274150013923645, 
+      "idx": "100", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "思迪", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.04727650061249733, 
+      "idx": "99", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "飞度#2004款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.01926399953663349, 
+      "idx": "362", 
+      "color": "银灰", 
+      "brand": "三菱", 
+      "serial": "格蓝迪", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.01850230060517788, 
+      "idx": "69", 
+      "color": "银灰", 
+      "brand": "本田", 
+      "serial": "思域#2004款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 471.0, 
+    "x": 608.0, 
+    "height": 485.0, 
+    "width": 464.0
+  }
+}

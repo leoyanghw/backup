@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6018869876861572, 
+      "idx": "795", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "埃尔法", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.05213300138711929, 
+      "idx": "1526", 
+      "color": "黑", 
+      "brand": "江淮", 
+      "serial": "星锐", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.02825400047004223, 
+      "idx": "1468", 
+      "color": "黑", 
+      "brand": "东风风行", 
+      "serial": "风行F600", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.025002799928188324, 
+      "idx": "992", 
+      "color": "黑", 
+      "brand": "长安汽车", 
+      "serial": "长安之星#2013款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.02423829957842827, 
+      "idx": "1730", 
+      "color": "黑", 
+      "brand": "长安轻型车", 
+      "serial": "睿行S50", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 306.0, 
+    "x": 209.0, 
+    "height": 730.0, 
+    "width": 589.0
+  }
+}

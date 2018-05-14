@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4947420060634613, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.3375140130519867, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07301650196313858, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2014款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.02981650084257126, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2015款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.02958570048213005, 
+      "idx": "170", 
+      "color": "银灰", 
+      "brand": "别克", 
+      "serial": "别克GL8#2013款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 279.0, 
+    "x": 700.0, 
+    "height": 609.0, 
+    "width": 534.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.25627601146698, 
+      "idx": "53", 
+      "color": "银灰", 
+      "brand": "长安铃木", 
+      "serial": "羚羊", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.2390120029449463, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "铃木", 
+      "serial": "Cultus", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.08798869699239731, 
+      "idx": "90", 
+      "color": "银灰", 
+      "brand": "起亚", 
+      "serial": "嘉华", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03517080098390579, 
+      "idx": "126", 
+      "color": "银灰", 
+      "brand": "吉利汽车", 
+      "serial": "豪情", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.020610300824046135, 
+      "idx": "140", 
+      "color": "银灰", 
+      "brand": "菲亚特", 
+      "serial": "周末风", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 305.0, 
+    "x": 841.0, 
+    "height": 644.0, 
+    "width": 585.0
+  }
+}

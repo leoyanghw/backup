@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.39863699674606323, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.07398299872875214, 
+      "idx": "439", 
+      "color": "白", 
+      "brand": "东南", 
+      "serial": "得利卡", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.04145830124616623, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "FLEX", 
+      "serial": "Flex", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.027470000088214874, 
+      "idx": "276", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "兰德酷路泽(进口)", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.025008000433444977, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "厦门金龙", 
+      "serial": "金威", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 39.0, 
+    "x": 547.0, 
+    "height": 840.0, 
+    "width": 679.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6638739705085754, 
+      "idx": "155", 
+      "color": "绿", 
+      "brand": "大众", 
+      "serial": "POLO#2011款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.1137700006365776, 
+      "idx": "155", 
+      "color": "绿", 
+      "brand": "大众", 
+      "serial": "POLO#2013款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.02290629968047142, 
+      "idx": "187", 
+      "color": "绿", 
+      "brand": "大众", 
+      "serial": "开迪", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.019426800310611725, 
+      "idx": "159", 
+      "color": "绿", 
+      "brand": "大众", 
+      "serial": "途安#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.017450399696826935, 
+      "idx": "977", 
+      "color": "绿", 
+      "brand": "大众", 
+      "serial": "高尔夫(进口)#2011款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 467.0, 
+    "x": 376.0, 
+    "height": 466.0, 
+    "width": 428.0
+  }
+}

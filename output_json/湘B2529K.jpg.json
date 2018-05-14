@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.14094999432563782, 
+      "idx": "197", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "锐志#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.12615300714969635, 
+      "idx": "103", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "凯美瑞#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.12063899636268616, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "一汽丰田", 
+      "serial": "Corolla", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06869100034236908, 
+      "idx": "199", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "威驰#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.04104959964752197, 
+      "idx": "792", 
+      "color": "白", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯CT#2016款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 345.0, 
+    "x": 787.0, 
+    "height": 519.0, 
+    "width": 536.0
+  }
+}

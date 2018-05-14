@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6523320078849792, 
+      "idx": "550", 
+      "color": "棕", 
+      "brand": "起亚", 
+      "serial": "福瑞迪", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.3379000127315521, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "起亚(进口)", 
+      "serial": "Forte", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.003208510112017393, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "起亚", 
+      "serial": "起亚Forte", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.001357570057734847, 
+      "idx": "710", 
+      "color": "棕", 
+      "brand": "起亚", 
+      "serial": "速迈", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.001111540012061596, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "起亚(进口)", 
+      "serial": "Magentis", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 469.0, 
+    "x": 572.0, 
+    "height": 479.0, 
+    "width": 530.0
+  }
+}

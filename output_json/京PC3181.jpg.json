@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3512899875640869, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "神行者", 
+      "type": "SUV"
+    }, 
+    {
+      "confidence": 0.28624600172042847, 
+      "idx": "327", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "神行者2#2016款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.038027700036764145, 
+      "idx": "702", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜运动版#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.0358709990978241, 
+      "idx": "327", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "神行者2#2007款", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.02421559952199459, 
+      "idx": "326", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "揽胜#2016款", 
+      "type": "中大型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 403.0, 
+    "x": 116.0, 
+    "height": 793.0, 
+    "width": 671.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.37143799662590027, 
+      "idx": "74", 
+      "color": "黑", 
+      "brand": "日产", 
+      "serial": "骏逸", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.17425300180912018, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "日产(进口)", 
+      "serial": "Note", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.13108299672603607, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "日产(进口)", 
+      "serial": "Versa", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.038630299270153046, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "Verso", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.03546790033578873, 
+      "idx": "805", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "麦瑞纳", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 418.0, 
+    "x": 581.0, 
+    "height": 535.0, 
+    "width": 526.0
+  }
+}

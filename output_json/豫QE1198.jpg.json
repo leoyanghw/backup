@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6233389973640442, 
+      "idx": "984", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "起亚K3#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.33649399876594543, 
+      "idx": "984", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "起亚K3#2015款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.018789399415254593, 
+      "idx": "984", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "起亚K3#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.005592190194875002, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "起亚(进口)", 
+      "serial": "Forte", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.003927160054445267, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "起亚", 
+      "serial": "起亚Forte", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 376.0, 
+    "x": 571.0, 
+    "height": 519.0, 
+    "width": 552.0
+  }
+}

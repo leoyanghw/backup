@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6194490194320679, 
+      "idx": "904", 
+      "color": "银灰", 
+      "brand": "长安欧尚", 
+      "serial": "欧诺#2012款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.32876598834991455, 
+      "idx": "904", 
+      "color": "银灰", 
+      "brand": "长安欧尚", 
+      "serial": "欧诺#2014款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.018796799704432487, 
+      "idx": "904", 
+      "color": "银灰", 
+      "brand": "长安欧尚", 
+      "serial": "欧诺#2013款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.003723700065165758, 
+      "idx": "904", 
+      "color": "银灰", 
+      "brand": "长安欧尚", 
+      "serial": "欧诺#2016款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.0013897500466555357, 
+      "idx": "561", 
+      "color": "银灰", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 203.0, 
+    "x": 578.0, 
+    "height": 749.0, 
+    "width": 573.0
+  }
+}

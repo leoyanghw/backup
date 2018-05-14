@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3880090117454529, 
+      "idx": "169", 
+      "color": "银灰", 
+      "brand": "一汽", 
+      "serial": "夏利#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.18299700319766998, 
+      "idx": "169", 
+      "color": "银灰", 
+      "brand": "一汽", 
+      "serial": "夏利#2012款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.05763319879770279, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "铃木", 
+      "serial": "Cultus", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.04723430052399635, 
+      "idx": "53", 
+      "color": "银灰", 
+      "brand": "长安铃木", 
+      "serial": "羚羊", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.02276889979839325, 
+      "idx": "36", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 504.0, 
+    "x": 820.0, 
+    "height": 577.0, 
+    "width": 557.0
+  }
+}

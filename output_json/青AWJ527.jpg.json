@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.18208099901676178, 
+      "idx": "338", 
+      "color": "橙", 
+      "brand": "MINI", 
+      "serial": "MINI#2007款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.16419599950313568, 
+      "idx": "694", 
+      "color": "橙", 
+      "brand": "MINI", 
+      "serial": "MINI_CLUBMAN#2008款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.16175100207328796, 
+      "idx": "338", 
+      "color": "橙", 
+      "brand": "MINI", 
+      "serial": "MINI#2006款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.1529729962348938, 
+      "idx": "694", 
+      "color": "橙", 
+      "brand": "MINI", 
+      "serial": "MINI_CLUBMAN#2007款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.11894100159406662, 
+      "idx": "338", 
+      "color": "橙", 
+      "brand": "MINI", 
+      "serial": "MINI#2004款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 500.0, 
+    "x": 608.0, 
+    "height": 466.0, 
+    "width": 466.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6910799741744995, 
+      "idx": "262", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "迈腾(进口)", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.06871230155229568, 
+      "idx": "188", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "迈腾#2015款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.04280589893460274, 
+      "idx": "263", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "帕萨特#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.04246240109205246, 
+      "idx": "188", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "迈腾#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.025518400594592094, 
+      "idx": "260", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "辉腾", 
+      "type": "大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 455.0, 
+    "x": 626.0, 
+    "height": 516.0, 
+    "width": 491.0
+  }
+}

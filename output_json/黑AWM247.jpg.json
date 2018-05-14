@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4184750020503998, 
+      "idx": "76", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "骊威#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.3644050061702728, 
+      "idx": "74", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "骏逸", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.06289870291948318, 
+      "idx": "76", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "骊威#2008款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.028369100764393806, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "日产(进口)", 
+      "serial": "Note", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.018064599484205246, 
+      "idx": "76", 
+      "color": "银灰", 
+      "brand": "日产", 
+      "serial": "骊威#2009款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 202.0, 
+    "x": 494.0, 
+    "height": 586.0, 
+    "width": 518.0
+  }
+}

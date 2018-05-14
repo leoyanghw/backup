@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.45753398537635803, 
+      "idx": "243", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰R级#2010款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.2903749942779541, 
+      "idx": "243", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰R级#2011款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.1100199967622757, 
+      "idx": "243", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰R级#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.055656298995018005, 
+      "idx": "243", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰R级#2017款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.04381969943642616, 
+      "idx": "243", 
+      "color": "黑", 
+      "brand": "奔驰", 
+      "serial": "奔驰R级#2014款", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 384.0, 
+    "x": 558.0, 
+    "height": 591.0, 
+    "width": 570.0
+  }
+}

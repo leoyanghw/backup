@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8174179792404175, 
+      "idx": "435", 
+      "color": "棕", 
+      "brand": "福田", 
+      "serial": "蒙派克E", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.07147710025310516, 
+      "idx": "-1", 
+      "color": "棕", 
+      "brand": "福田汽车", 
+      "serial": "Mengpaike_E", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.02236109972000122, 
+      "idx": "805", 
+      "color": "棕", 
+      "brand": "欧宝", 
+      "serial": "麦瑞纳", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.01704159937798977, 
+      "idx": "342", 
+      "color": "棕", 
+      "brand": "欧宝", 
+      "serial": "赛飞利", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.004830029793083668, 
+      "idx": "152", 
+      "color": "棕", 
+      "brand": "开瑞", 
+      "serial": "优雅", 
+      "type": "微面"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 401.0, 
+    "x": 692.0, 
+    "height": 709.0, 
+    "width": 546.0
+  }
+}

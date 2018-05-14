@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3930779993534088, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "福特(进口)", 
+      "serial": "蒙迪欧(海外)", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.30243098735809326, 
+      "idx": "1239", 
+      "color": "黑", 
+      "brand": "福特", 
+      "serial": "蒙迪欧-致胜#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.10074999928474426, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "致胜", 
+      "serial": "Mendeo_Zhisheng", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.06522879749536514, 
+      "idx": "50", 
+      "color": "黑", 
+      "brand": "福特", 
+      "serial": "蒙迪欧#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.06517650187015533, 
+      "idx": "1239", 
+      "color": "黑", 
+      "brand": "福特", 
+      "serial": "蒙迪欧-致胜#2016款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 486.0, 
+    "x": 730.0, 
+    "height": 503.0, 
+    "width": 498.0
+  }
+}

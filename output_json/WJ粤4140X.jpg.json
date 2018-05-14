@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.23894500732421875, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "大众(进口)", 
+      "serial": "途安(海外)", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.19309499859809875, 
+      "idx": "159", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "途安#2008款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.1526149958372116, 
+      "idx": "187", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "开迪", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.05637529864907265, 
+      "idx": "561", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "迈特威", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.036886099725961685, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "大众(进口)", 
+      "serial": "开迪(海外)", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 534.0, 
+    "x": 576.0, 
+    "height": 511.0, 
+    "width": 514.0
+  }
+}

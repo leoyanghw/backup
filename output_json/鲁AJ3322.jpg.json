@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.48607298731803894, 
+      "idx": "263", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "帕萨特#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.2793940007686615, 
+      "idx": "263", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "帕萨特#2013款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.05944259837269783, 
+      "idx": "263", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "帕萨特#2014款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.053798701614141464, 
+      "idx": "263", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "帕萨特#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.035352401435375214, 
+      "idx": "262", 
+      "color": "黑", 
+      "brand": "大众", 
+      "serial": "迈腾(进口)", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 364.0, 
+    "x": 674.0, 
+    "height": 514.0, 
+    "width": 541.0
+  }
+}

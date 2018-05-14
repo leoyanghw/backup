@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2396170049905777, 
+      "idx": "1374", 
+      "color": "橙", 
+      "brand": "东风小康", 
+      "serial": "东风小康K01", 
+      "type": "微卡"
+    }, 
+    {
+      "confidence": 0.21919900178909302, 
+      "idx": "1340", 
+      "color": "橙", 
+      "brand": "东风", 
+      "serial": "俊风CV03", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.06691420078277588, 
+      "idx": "1424", 
+      "color": "橙", 
+      "brand": "东风小康", 
+      "serial": "东风小康K07S", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.03285310044884682, 
+      "idx": "913", 
+      "color": "橙", 
+      "brand": "奔驰", 
+      "serial": "奔驰G级AMG", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.025118699297308922, 
+      "idx": "983", 
+      "color": "橙", 
+      "brand": "黄海", 
+      "serial": "大柴神", 
+      "type": "皮卡"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 79.0, 
+    "x": 342.0, 
+    "height": 933.0, 
+    "width": 838.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.310263991355896, 
+      "idx": "-1", 
+      "color": "橙", 
+      "brand": "大众", 
+      "serial": "Jetta", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.12891000509262085, 
+      "idx": "-1", 
+      "color": "橙", 
+      "brand": "上汽大众", 
+      "serial": "发现_Vision", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.03532490134239197, 
+      "idx": "-1", 
+      "color": "橙", 
+      "brand": "斯柯达(进口)", 
+      "serial": "晶锐(海外)", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.028054900467395782, 
+      "idx": "977", 
+      "color": "橙", 
+      "brand": "大众", 
+      "serial": "高尔夫(进口)#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.02643289975821972, 
+      "idx": "977", 
+      "color": "橙", 
+      "brand": "大众", 
+      "serial": "高尔夫(进口)#2015款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 416.0, 
+    "x": 645.0, 
+    "height": 644.0, 
+    "width": 638.0
+  }
+}

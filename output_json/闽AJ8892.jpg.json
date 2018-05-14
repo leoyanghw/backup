@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4688340127468109, 
+      "idx": "197", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "锐志#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.2729080021381378, 
+      "idx": "197", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "锐志#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.17436300218105316, 
+      "idx": "197", 
+      "color": "白", 
+      "brand": "丰田", 
+      "serial": "锐志#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.014397899620234966, 
+      "idx": "792", 
+      "color": "白", 
+      "brand": "雷克萨斯", 
+      "serial": "雷克萨斯CT#2016款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.010937600396573544, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "丰田(进口)", 
+      "serial": "锐志(海外)", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 460.0, 
+    "x": 544.0, 
+    "height": 487.0, 
+    "width": 483.0
+  }
+}

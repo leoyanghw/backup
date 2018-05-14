@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7454019784927368, 
+      "idx": "184", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2016款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.1350869983434677, 
+      "idx": "216", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6(进口)", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.025723300874233246, 
+      "idx": "184", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2012款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.02369680069386959, 
+      "idx": "184", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2017款", 
+      "type": "中大型车"
+    }, 
+    {
+      "confidence": 0.013545599766075611, 
+      "idx": "184", 
+      "color": "黑", 
+      "brand": "奥迪", 
+      "serial": "奥迪A6L#2014款", 
+      "type": "中大型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 308.0, 
+    "x": 783.0, 
+    "height": 591.0, 
+    "width": 569.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3168649971485138, 
+      "idx": "178", 
+      "color": "黑", 
+      "brand": "雪佛兰", 
+      "serial": "景程#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.29723700881004333, 
+      "idx": "178", 
+      "color": "黑", 
+      "brand": "雪佛兰", 
+      "serial": "景程#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.22156600654125214, 
+      "idx": "178", 
+      "color": "黑", 
+      "brand": "雪佛兰", 
+      "serial": "景程#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.1060980036854744, 
+      "idx": "178", 
+      "color": "黑", 
+      "brand": "雪佛兰", 
+      "serial": "景程#2012款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.02473429962992668, 
+      "idx": "178", 
+      "color": "黑", 
+      "brand": "雪佛兰", 
+      "serial": "景程#2008款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 289.0, 
+    "x": 319.0, 
+    "height": 714.0, 
+    "width": 722.0
+  }
+}

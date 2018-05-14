@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6127110123634338, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "Jeep", 
+      "serial": "指南者(进口)#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.2597599923610687, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "Jeep", 
+      "serial": "指南者(进口)#2014款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.03005710057914257, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "Jeep", 
+      "serial": "指南者(进口)#2013款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.023532899096608162, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "Jeep", 
+      "serial": "指南者(进口)#2015款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.018192099407315254, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "Jeep", 
+      "serial": "指南者(进口)#2012款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 409.0, 
+    "x": 528.0, 
+    "height": 522.0, 
+    "width": 508.0
+  }
+}

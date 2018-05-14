@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6470940113067627, 
+      "idx": "478", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F0#2012款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.10720200091600418, 
+      "idx": "478", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F0#2011款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.08545529842376709, 
+      "idx": "478", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F0#2010款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.057475801557302475, 
+      "idx": "478", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F0#2013款", 
+      "type": "微型车"
+    }, 
+    {
+      "confidence": 0.03212900087237358, 
+      "idx": "478", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F0#2015款", 
+      "type": "微型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 7.0, 
+    "x": 598.0, 
+    "height": 291.0, 
+    "width": 386.0
+  }
+}

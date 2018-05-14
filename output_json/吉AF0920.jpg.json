@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.1799830049276352, 
+      "idx": "98", 
+      "color": "白", 
+      "brand": "本田", 
+      "serial": "奥德赛#2007款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.14510799944400787, 
+      "idx": "341", 
+      "color": "白", 
+      "brand": "讴歌", 
+      "serial": "讴歌TL", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.11383900046348572, 
+      "idx": "98", 
+      "color": "白", 
+      "brand": "本田", 
+      "serial": "奥德赛#2008款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.09986869990825653, 
+      "idx": "577", 
+      "color": "白", 
+      "brand": "本田", 
+      "serial": "INSIGHT", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.08786489814519882, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "本田(进口)", 
+      "serial": "奥德赛(海外)", 
+      "type": "MPV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 211.0, 
+    "x": 475.0, 
+    "height": 534.0, 
+    "width": 458.0
+  }
+}

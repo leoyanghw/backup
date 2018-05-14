@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4465070068836212, 
+      "idx": "172", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "君越#2009款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.2180580049753189, 
+      "idx": "172", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "君越#2011款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.09168419986963272, 
+      "idx": "172", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "君越#2010款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.07242699712514877, 
+      "idx": "172", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "君越#2016款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.050448499619960785, 
+      "idx": "171", 
+      "color": "黑", 
+      "brand": "别克", 
+      "serial": "君威#2009款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 461.0, 
+    "x": 654.0, 
+    "height": 523.0, 
+    "width": 498.0
+  }
+}

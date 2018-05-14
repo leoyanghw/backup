@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.13405799865722656, 
+      "idx": "73", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "菱智#2010款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.09813819825649261, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2012款", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09232980012893677, 
+      "idx": "1128", 
+      "color": "银灰", 
+      "brand": "海格", 
+      "serial": "海格H5C", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.09158270061016083, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "东风风行", 
+      "serial": "凌志", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.08539269864559174, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2011款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 145.0, 
+    "x": 358.0, 
+    "height": 769.0, 
+    "width": 689.0
+  }
+}

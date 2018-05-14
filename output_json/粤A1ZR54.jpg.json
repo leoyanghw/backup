@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.93926602602005, 
+      "idx": "538", 
+      "color": "红", 
+      "brand": "现代", 
+      "serial": "名驭", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.01336359977722168, 
+      "idx": "36", 
+      "color": "红", 
+      "brand": "现代", 
+      "serial": "伊兰特", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.002319539897143841, 
+      "idx": "853", 
+      "color": "红", 
+      "brand": "荣威", 
+      "serial": "荣威W5", 
+      "type": "中型SUV"
+    }, 
+    {
+      "confidence": 0.0023021900560706854, 
+      "idx": "955", 
+      "color": "红", 
+      "brand": "长安", 
+      "serial": "长安CS35#2016款", 
+      "type": "小型SUV"
+    }, 
+    {
+      "confidence": 0.0021380800753831863, 
+      "idx": "1096", 
+      "color": "红", 
+      "brand": "奇瑞", 
+      "serial": "瑞虎5#2016款", 
+      "type": "紧凑型SUV"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 469.0, 
+    "x": 546.0, 
+    "height": 520.0, 
+    "width": 520.0
+  }
+}

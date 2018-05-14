@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.2473839968442917, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "海马", 
+      "serial": "Premacy", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.20659400522708893, 
+      "idx": "672", 
+      "color": "黑", 
+      "brand": "海马", 
+      "serial": "普力马#2013款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.1878580003976822, 
+      "idx": "672", 
+      "color": "黑", 
+      "brand": "海马", 
+      "serial": "普力马#2016款", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.1380070000886917, 
+      "idx": "103", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "凯美瑞#2008款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.053361598402261734, 
+      "idx": "103", 
+      "color": "黑", 
+      "brand": "丰田", 
+      "serial": "凯美瑞#2007款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 248.0, 
+    "x": 492.0, 
+    "height": 514.0, 
+    "width": 537.0
+  }
+}

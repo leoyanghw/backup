@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.7053239941596985, 
+      "idx": "864", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "悦动#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1299619972705841, 
+      "idx": "864", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "悦动#2008款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.06343120336532593, 
+      "idx": "752", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "瑞纳#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.019960999488830566, 
+      "idx": "752", 
+      "color": "银灰", 
+      "brand": "北京现代", 
+      "serial": "Rena", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.015339000150561333, 
+      "idx": "831", 
+      "color": "银灰", 
+      "brand": "现代(进口)", 
+      "serial": "现代i40", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 464.0, 
+    "x": 661.0, 
+    "height": 487.0, 
+    "width": 490.0
+  }
+}

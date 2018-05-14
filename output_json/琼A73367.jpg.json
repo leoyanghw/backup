@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.27630800008773804, 
+      "idx": "518", 
+      "color": "蓝", 
+      "brand": "开瑞", 
+      "serial": "优派", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.06563709676265717, 
+      "idx": "708", 
+      "color": "蓝", 
+      "brand": "长城", 
+      "serial": "长城M2#2016款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.0645918995141983, 
+      "idx": "805", 
+      "color": "蓝", 
+      "brand": "欧宝", 
+      "serial": "麦瑞纳", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.044346701353788376, 
+      "idx": "482", 
+      "color": "蓝", 
+      "brand": "福田", 
+      "serial": "迷迪", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.024222800508141518, 
+      "idx": "62", 
+      "color": "蓝", 
+      "brand": "长城", 
+      "serial": "酷熊", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 6.0, 
+    "x": 478.0, 
+    "height": 842.0, 
+    "width": 827.0
+  }
+}

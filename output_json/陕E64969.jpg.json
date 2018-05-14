@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3220120072364807, 
+      "idx": "37", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F3#2005款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.20816899836063385, 
+      "idx": "37", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F3#2007款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.1154320016503334, 
+      "idx": "37", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F3#2011款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.10672800242900848, 
+      "idx": "37", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F3#2012款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.0941447988152504, 
+      "idx": "37", 
+      "color": "银灰", 
+      "brand": "比亚迪", 
+      "serial": "比亚迪F3#2009款", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 354.0, 
+    "x": 514.0, 
+    "height": 601.0, 
+    "width": 541.0
+  }
+}

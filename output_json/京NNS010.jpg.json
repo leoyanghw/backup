@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.8444169759750366, 
+      "idx": "150", 
+      "color": "银灰", 
+      "brand": "奇瑞", 
+      "serial": "旗云2#2010款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.09905759990215302, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "奇瑞汽车", 
+      "serial": "旗云", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.0072878701612353325, 
+      "idx": "169", 
+      "color": "银灰", 
+      "brand": "一汽", 
+      "serial": "夏利#2008款", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.006803310010582209, 
+      "idx": "1099", 
+      "color": "银灰", 
+      "brand": "奥迪", 
+      "serial": "奥迪A3#2010款", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.00627620005980134, 
+      "idx": "1427", 
+      "color": "银灰", 
+      "brand": "现代", 
+      "serial": "索纳塔九#2008款", 
+      "type": "中型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 310.0, 
+    "x": 566.0, 
+    "height": 553.0, 
+    "width": 558.0
+  }
+}

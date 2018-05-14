@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.3134610056877136, 
+      "idx": "1023", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "经典全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.19657999277114868, 
+      "idx": "443", 
+      "color": "白", 
+      "brand": "福特", 
+      "serial": "新世代全顺", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.16590699553489685, 
+      "idx": "-1", 
+      "color": "白", 
+      "brand": "日产(进口)", 
+      "serial": "碧莲", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.043335601687431335, 
+      "idx": "731", 
+      "color": "白", 
+      "brand": "开瑞", 
+      "serial": "优胜2代", 
+      "type": "面包车"
+    }, 
+    {
+      "confidence": 0.02369369938969612, 
+      "idx": "1495", 
+      "color": "白", 
+      "brand": "南京依维柯", 
+      "serial": "依维柯Power_Daily", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 21.0, 
+    "x": 415.0, 
+    "height": 812.0, 
+    "width": 924.0
+  }
+}

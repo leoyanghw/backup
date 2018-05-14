@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.6665560007095337, 
+      "idx": "527", 
+      "color": "银灰", 
+      "brand": "雷诺", 
+      "serial": "科雷傲(进口)#2009款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.22420500218868256, 
+      "idx": "527", 
+      "color": "银灰", 
+      "brand": "雷诺", 
+      "serial": "科雷傲(进口)#2010款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.04972910135984421, 
+      "idx": "1011", 
+      "color": "银灰", 
+      "brand": "福田", 
+      "serial": "风景", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.01668350026011467, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "雷诺(进口)", 
+      "serial": "Clio", 
+      "type": "紧凑型车"
+    }, 
+    {
+      "confidence": 0.013252800330519676, 
+      "idx": "317", 
+      "color": "银灰", 
+      "brand": "雷诺", 
+      "serial": "梅甘娜", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 382.0, 
+    "x": 794.0, 
+    "height": 608.0, 
+    "width": 546.0
+  }
+}

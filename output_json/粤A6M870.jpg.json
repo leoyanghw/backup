@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.4937649965286255, 
+      "idx": "1128", 
+      "color": "银灰", 
+      "brand": "海格", 
+      "serial": "海格H5C", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.1929360032081604, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "九龙", 
+      "serial": "九龙商务车", 
+      "type": "面包车"
+    }, 
+    {
+      "confidence": 0.08679480105638504, 
+      "idx": "-1", 
+      "color": "银灰", 
+      "brand": "进口丰田", 
+      "serial": "HIACE", 
+      "type": "客车"
+    }, 
+    {
+      "confidence": 0.05213969945907593, 
+      "idx": "818", 
+      "color": "银灰", 
+      "brand": "华晨金杯", 
+      "serial": "金杯大海狮", 
+      "type": "轻客"
+    }, 
+    {
+      "confidence": 0.03588619828224182, 
+      "idx": "1056", 
+      "color": "银灰", 
+      "brand": "金杯", 
+      "serial": "金杯海狮#2013款", 
+      "type": "轻客"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 184.0, 
+    "x": 645.0, 
+    "height": 751.0, 
+    "width": 636.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.896947979927063, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2007款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.0709661990404129, 
+      "idx": "101", 
+      "color": "黑", 
+      "brand": "本田", 
+      "serial": "雅阁#2006款", 
+      "type": "中型车"
+    }, 
+    {
+      "confidence": 0.004274200182408094, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "欧宝GT", 
+      "type": "跑车"
+    }, 
+    {
+      "confidence": 0.002661899896338582, 
+      "idx": "342", 
+      "color": "黑", 
+      "brand": "欧宝", 
+      "serial": "赛飞利", 
+      "type": "MPV"
+    }, 
+    {
+      "confidence": 0.001998439896851778, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "标致(进口)", 
+      "serial": "标致307(进口)", 
+      "type": "紧凑型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 490.0, 
+    "x": 587.0, 
+    "height": 484.0, 
+    "width": 508.0
+  }
+}

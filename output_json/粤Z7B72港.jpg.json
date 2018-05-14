@@ -1,0 +1,53 @@
+{
+  "errorcode": 0, 
+  "errormsg": "OK", 
+  "tags": [
+    {
+      "confidence": 0.21111999452114105, 
+      "idx": "-1", 
+      "color": "黑", 
+      "brand": "菲亚特", 
+      "serial": "Idea", 
+      "type": "小型车"
+    }, 
+    {
+      "confidence": 0.12430199980735779, 
+      "idx": "721", 
+      "color": "黑", 
+      "brand": "哈弗", 
+      "serial": "哈弗H5#2016款", 
+      "type": "紧凑型SUV"
+    }, 
+    {
+      "confidence": 0.11622700095176697, 
+      "idx": "610", 
+      "color": "黑", 
+      "brand": "路虎", 
+      "serial": "发现#2016款", 
+      "type": "中大型SUV"
+    }, 
+    {
+      "confidence": 0.10945200175046921, 
+      "idx": "722", 
+      "color": "黑", 
+      "brand": "五菱汽车", 
+      "serial": "五菱荣光#2016款", 
+      "type": "微面"
+    }, 
+    {
+      "confidence": 0.061886198818683624, 
+      "idx": "708", 
+      "color": "黑", 
+      "brand": "长城", 
+      "serial": "长城M2#2016款", 
+      "type": "小型车"
+    }
+  ], 
+  "logo_coord": [], 
+  "car_coord": {
+    "y": 8.0, 
+    "x": 560.0, 
+    "height": 808.0, 
+    "width": 795.0
+  }
+}
