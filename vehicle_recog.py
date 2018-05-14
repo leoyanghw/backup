@@ -9,14 +9,32 @@ userid= '345393041'
 
 end_point = TencentYoutuyun.conf.API_YOUTU_END_POINT       
 
+def file_list (path,f,list_f):
+	parents = os.listdir(path)
+	for parent in parents:
+		child = os.path.join(path,parent)
+		if os.path.isdir(child):
+			file_list(child,f,list_f)
+		else:
+			list_f.append(child)
+			f.write(child)
+			f.write("\n")
 
 youtu = TencentYoutuyun.YouTu(appid, secret_id, secret_key, userid, end_point)
+path="../lp_dataset"
+
+f=open('file_list.txt','wb+')
+list_f=[]
+file_list(path,f,list_f)
+f.close()
+print(len(list_f))
+
+
 f=open('result.txt','wb+')
-os.chdir("../功能车牌图像数据库")
 
-
-for i in range(0,50):
-	ret = youtu.carclassify('http://www.buttoncar.com/wp-content/uploads/2018/04/WechatIMG276.jpeg',1)
+for i in range(0,len(list_f)):
+	ret = youtu.carclassify(list_f[i],0)
+	print(list_f[i])
 	jsret = json.dumps(ret,ensure_ascii=False,encoding='utf-8',indent=2)
 	#print jsret.encode('raw_unicode_escape').decode('utf8')
 	f.write(jsret.encode('raw_unicode_escape').decode('utf8').encode('utf8'))
