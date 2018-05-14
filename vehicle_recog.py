@@ -12,7 +12,7 @@ end_point = TencentYoutuyun.conf.API_YOUTU_END_POINT
 
 youtu = TencentYoutuyun.YouTu(appid, secret_id, secret_key, userid, end_point)
 f=open('result.txt','wb+')
-os.chdir("../功能
+os.chdir("../功能车牌图像数据库")
 
 
 for i in range(0,50):
